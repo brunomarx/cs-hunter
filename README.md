@@ -29,7 +29,7 @@ Example entry:
 ### **3. list_3.txt: Cobalt Strike Beacon C2 Server Information**
 This file stores the **C2 server configuration** details extracted from the Cobalt Strike beacon. The information includes the **methods of communication (GET/POST), server URLs, polling intervals, beacon types**, and other relevant data about how the beacon contacts its C2 server.
 
-Example entry based on the provided beacon:
+Example entry based on the sample beacon:
 C2 Server IPs:
 
 61.170.80.230/jquery-3.3.1.min.js
@@ -44,13 +44,13 @@ C2 Server IPs:
 ### **4. list_4.txt: C2 Host Header in the Beacon**
 This file contains the **C2 host header information** from the beacon. The **host header** is part of the HTTP requests that the beacon sends when communicating with the C2 server. This helps security teams understand how the beacon might be disguising its communication.
 
-Example entry based on the provided beacon:
+Example entry based on the sample beacon:
 
 ---
 
 ## **Example Beacon Breakdown**
 
-Using the beacon JSON provided, the following information can be extracted:
+Using a sample beacon , the following information can be extracted:
 
 - The beacon was scanned on IP **47.97.79.97**, which was identified through a Shodan search and scanned using Nmap.
 - The **C2 server** information includes:
