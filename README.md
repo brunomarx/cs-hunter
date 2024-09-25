@@ -44,7 +44,7 @@ Host Header: Host: shangde.co
 
 ## **Example Beacon Breakdown**
 
-Using the beacon JSON provided, the following information can be extracted:
+Using a beacon as a sample, the following information can be extracted:
 
 - The beacon was scanned on IP **154.221.19.134**, which was identified through a Shodan search and scanned using Nmap.
 - The **C2 server** information includes:
