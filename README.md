@@ -82,8 +82,18 @@ Host Header: Host: shangde.co
 ## **Summary**
 
 - **Cobalt Strike** is a powerful tool for penetration testing but is often misused by threat actors.
-- **list_1.txt** contains potential IPs found via Shodan searches.
-- **list_2.txt** stores confirmed Cobalt Strike servers after scanning.
-- **list_3.txt** holds configuration details of how the beacon communicates with its C2 server.
+- **list_1.txt** contains potential IPs found via Shodan searches. 
+- **list_2.txt** stores confirmed Cobalt Strike servers after scanning. It's a subset of list_1.txt
+- **list_3.txt** holds configuration details of how the beacon communicates with its C2 server. It can also contain the ips of list_2.txt
 - **list_4.txt** stores the host header used by the beacon during communication.
 
+
+
+## Acknowledgment
+Thank you!
+
+- Shodan
+- Censys
+- https://github.com/splunk/melting-cobalt
+- https://github.com/whickey-r7
+- @MichalKoczwara
