@@ -150,8 +150,6 @@ Host Header: Host: haifang310.com
   "x86_config_http_method_path_2": "/jquery-3.3.2.min.js"
 }
 
----
-
 ## **Summary**
 
 - **Cobalt Strike** is a powerful tool for penetration testing but is often misused by threat actors.
