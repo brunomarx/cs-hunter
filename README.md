@@ -94,7 +94,6 @@ Host Header: Host: haifang310.com
 
 ## **Beautified JSON Example**
 
-
 ```json
 {
   "timestamp": 1725167366.1659446,
@@ -150,8 +149,6 @@ Host Header: Host: haifang310.com
   "x86_config_beacon_type": "8 (HTTPS)",
   "x86_config_http_method_path_2": "/jquery-3.3.2.min.js"
 }
-
-```` ``` ````
 
 ---
 
