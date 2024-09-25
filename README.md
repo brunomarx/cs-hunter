@@ -91,8 +91,11 @@ The beacon's **C2 host header** (if any):
 Host Header: Host: haifang310.com
 
 
-#### Formatted Beacon Information in Json
 
+## **Beautified JSON Example**
+
+
+```json
 {
   "timestamp": 1725167366.1659446,
   "nmap_cmd": "/usr/bin/nmap --script grab_beacon_config.nse -vv -d -n -F -T5 -oX - 47.97.79.97",
@@ -147,6 +150,7 @@ Host Header: Host: haifang310.com
   "x86_config_beacon_type": "8 (HTTPS)",
   "x86_config_http_method_path_2": "/jquery-3.3.2.min.js"
 }
+
 
 
 ---
