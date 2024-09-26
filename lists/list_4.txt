@@ -207,3 +207,6 @@ manage.flash-oss.info
 cloudflare-cdn.us.kg
 cat1battery.info
 www.jlc.com
+snowstorm.azureedge.net
+azureupdate.germanywestcentral.cloudapp.azure.com
+test.iqiyi.cn.com
