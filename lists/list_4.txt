@@ -210,3 +210,5 @@ www.jlc.com
 snowstorm.azureedge.net
 azureupdate.germanywestcentral.cloudapp.azure.com
 test.iqiyi.cn.com
+lab.tu-rt.com
+cc.510.moe
