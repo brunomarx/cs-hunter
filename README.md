@@ -157,7 +157,13 @@ Host Header: Host: haifang310.com
 - **list_2.txt** stores confirmed Cobalt Strike servers after scanning. It's a subset of list_1.txt
 - **list_3.txt** holds configuration details of how the beacon communicates with its C2 server. It can also contain the ips of list_2.txt
 - **list_4.txt** stores the host header used by the beacon during communication.
+- **list_5.txt** contains IP addresses associated with Redwarden infrastructure.
+- **list_6.txt** contains IP addresses tied to Redguard infrastructure.
+- **list_7.txt** contains IP addresses of possible Cobalt Strike servers that are hidden behind Cloudflare.
+- **list_8.txt** contains domains routed through Cloudflare that are likely pointing back to Cobalt Strike team servers.
 
+![Alt text](https://files.cdn.thinkific.com/file_uploads/885619/images/59e/821/a68/Screenshot_2024-01-14_at_18.28.02.png?width=1920)
+``
 
 
 ## Acknowledgment
