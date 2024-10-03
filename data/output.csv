@@ -6135,3 +6135,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-02,122.51.10.219,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
 2024-10-02,124.222.176.39,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2024-10-02,143.198.3.13,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,791514875,
+2024-10-03,137.184.57.50,443,https,%windir%\Microsoft.NET\Framework64\v4.0.30319\AppLaunch.exe,%windir%\syswow64\SearchProtocolHost.exe 1 -4281956309,,,/sgn.aspx,%windir%\Microsoft.NET\Framework64\v4.0.30319\AppLaunch.exe,%windir%\syswow64\SearchProtocolHost.exe 1 -4281956309,/sgn.aspx,1516506718,
+2024-10-03,110.42.212.130,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-10-03,172.208.31.144,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1041319047,
+2024-10-03,35.174.172.117,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/___utm.gif,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/___utm.gif,124184377,
