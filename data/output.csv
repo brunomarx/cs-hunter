@@ -6151,3 +6151,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-06,47.90.157.82,443,https,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,,,/PUT,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,/PUT,666666666,
 2024-10-07,35.233.91.245,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2024-10-07,47.103.218.35,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2024-10-08,8.134.51.218,8088,radan-http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2024-10-08,154.216.19.162,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/html,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/html,987654321,
+2024-10-08,149.88.69.12,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/v1/submissions/hiscd37ed75a9387c5b.js,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/v1/submissions/hiscd37ed75a9387c5b.js,987654321,
+2024-10-08,16.163.157.68,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
