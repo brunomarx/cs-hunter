@@ -6171,3 +6171,4 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-12,121.37.128.90,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/upload,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/post,987654321,
 2024-10-12,172.86.65.68,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
 2024-10-12,4.234.110.221,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,323309823,
+2024-10-13,107.20.54.50,443,https,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,,,/profile,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,/sm,1549946208,

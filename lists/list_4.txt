@@ -223,3 +223,5 @@ defense.mil.comstock.io
 t2312.internal
 microsoft-api.nununubn.workers.dev
 aselzan.com.tr
+ledengy.com
+d9jc4u4uazc9t.cloudfront.net
