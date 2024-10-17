@@ -6186,3 +6186,8 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-16,120.53.45.192,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2024-10-16,192.34.63.185,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,224707129,
 2024-10-16,39.105.131.50,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2024-10-17,106.52.236.88,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/Learn,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/Learn,1359593325,Host: dotnet.microsoft.com
+2024-10-17,139.155.136.125,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/fam_newspaper,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/fam_newspaper,987654321,
+2024-10-17,3.25.57.105,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,110537286,Host: dxcwy1ox5bnyz.cloudfront.net
+2024-10-17,43.138.227.194,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV2,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lepV3,987654321,Host: gfex-cloud.oss-cn-shenzhen.aliyuncs.com
+2024-10-17,47.101.172.240,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
