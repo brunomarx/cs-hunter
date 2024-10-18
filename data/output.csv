@@ -6191,3 +6191,4 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-17,3.25.57.105,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,110537286,Host: dxcwy1ox5bnyz.cloudfront.net
 2024-10-17,43.138.227.194,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV2,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lepV3,987654321,Host: gfex-cloud.oss-cn-shenzhen.aliyuncs.com
 2024-10-17,47.101.172.240,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-10-18,124.71.192.162,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/y,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/y,666666666,
