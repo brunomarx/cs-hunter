@@ -230,3 +230,7 @@ imap.aliyun.com
 dxcwy1ox5bnyz.cloudfront.net
 gfex-cloud.oss-cn-shenzhen.aliyuncs.com
 bk1cm59ddrtqb.cfc-execute.bj.baidubce.com
+ctdl1-windowsupdate.com
+sertificationgameconnect.xyz
+www.adobe.com
+updatemfs.com
