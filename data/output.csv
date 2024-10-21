@@ -6208,3 +6208,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-20,139.199.181.208,8000,http-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
 2024-10-20,119.29.120.221,80,http,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,
 2024-10-20,124.222.23.253,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/includes/phpmailer/class.pop3.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/includes/phpmailer/class.pop3.php,391144938,
+2024-10-21,13.52.219.128,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,894274846,
+2024-10-21,154.211.103.8,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
