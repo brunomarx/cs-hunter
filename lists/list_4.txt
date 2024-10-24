@@ -238,3 +238,8 @@ cdn-img.ludashi.com
 gem.ae
 helpdesk.fnfsupport.com
 fnfsupport.com
+d2vxfh5j20pkyr.cloudfront.net
+service-61oc67uo-1327454768.gz.tencentapigw.com.cn
+g2syr6cins.xyz
+193.70.192.35.bc.googleusercontent.com
+dd53pcfyxneg0.cloudfront.net
