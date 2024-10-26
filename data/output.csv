@@ -6241,3 +6241,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-25,159.223.36.127,80,http,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,,,/ba,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,/as,987654321,
 2024-10-25,43.159.60.193,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2024-10-25,8.222.171.125,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2024-10-26,47.120.45.37,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,
+2024-10-26,172.86.66.151,443,https,%windir%\servicing\TrustedInstaller.exe,%windir%\SysWOW64\svchost.exe,,,/submit.php,%windir%\servicing\TrustedInstaller.exe,%windir%\SysWOW64\svchost.exe,/submit.php,987654321,
