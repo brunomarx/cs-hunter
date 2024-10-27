@@ -6243,3 +6243,6 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-10-25,8.222.171.125,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2024-10-26,47.120.45.37,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,
 2024-10-26,172.86.66.151,443,https,%windir%\servicing\TrustedInstaller.exe,%windir%\SysWOW64\svchost.exe,,,/submit.php,%windir%\servicing\TrustedInstaller.exe,%windir%\SysWOW64\svchost.exe,/submit.php,987654321,
+2024-10-27,45.14.226.71,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-10-27,152.67.212.187,443,https,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,,,/construct/v9.7/4TM6XSPH3,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,/construct/v9.7/4TM6XSPH3,987654321,
+2024-10-27,185.198.234.147,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
