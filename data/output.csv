@@ -6260,3 +6260,8 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-11-01,175.178.33.240,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,100000,
 2024-11-01,101.35.247.212,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,666666666,
 2024-11-01,124.222.67.16,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-02,172.105.25.163,443,https,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,/jquery-3.3.2.min.js,100000,
+2024-11-02,121.91.170.63,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-02,193.26.115.220,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-02,43.138.20.240,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/aircanada/dark.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/aircanada/dark.php,100000,
+2024-11-02,45.156.23.200,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
