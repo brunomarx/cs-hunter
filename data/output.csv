@@ -6300,3 +6300,9 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-11-08,54.195.17.150,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1766451693,
 2024-11-09,43.133.177.200,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2024-11-09,117.50.163.22,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-10,103.229.124.241,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2024-11-10,147.161.32.14,8443,https-alt,%windir%\sysnative\SndVol.exe,%windir%\syswow64\SndVol.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\SndVol.exe,%windir%\syswow64\SndVol.exe,/jquery-3.3.2.min.js,987654321,Host: update.winservers-network.com
+2024-11-10,1.14.25.150,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/windebug/updcheck.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/hello/flash.php,987654321,
+2024-11-10,13.233.247.254,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-10,141.147.143.12,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-10,154.37.215.252,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
