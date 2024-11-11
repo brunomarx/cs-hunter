@@ -6306,3 +6306,8 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-11-10,13.233.247.254,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2024-11-10,141.147.143.12,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2024-11-10,154.37.215.252,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2024-11-11,156.238.227.43,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-11,202.131.82.187,80,http,%windir%\sysnative\secinit.exe,%windir%\syswow64\RmClient.exe,,,/r/www/static/assets/mirror-san/app/miaodong-logo_d5aa8ae.png,%windir%\sysnative\secinit.exe,%windir%\syswow64\RmClient.exe,/r/www/static/assets/mirror-san/app/miaodong-logo_d5aa8ae.png,987654321,
+2024-11-11,154.204.34.150,8443,https-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-11,185.208.159.156,443,https,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,,,/r-arrow,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,/r-arrow,987654321,
+2024-11-11,206.119.160.250,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
