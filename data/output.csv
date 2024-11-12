@@ -6311,3 +6311,11 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-11-11,154.204.34.150,8443,https-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2024-11-11,185.208.159.156,443,https,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,,,/r-arrow,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,/r-arrow,987654321,
 2024-11-11,206.119.160.250,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-12,107.175.113.12,443,https,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,,,/static/js/jquery-3.3.2.min.js,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,/static/js/jquery-3.3.2.min.js,391144938,
+2024-11-12,45.207.216.12,8443,https-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/jquery-3.3.2.min.js,987654321,
+2024-11-12,124.220.76.101,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2024-11-12,8.148.5.228,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-12,121.43.62.51,8443,https-alt,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,,,/rs,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,/r-arrow,987654321,
+2024-11-12,129.204.99.95,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lepV3,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lepV3,987654321,Host: www.nio.com
+2024-11-12,139.155.147.98,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-12,185.193.126.192,443,https,%windir%\sysnative\runonce.exe,%windir%\syswow64\runonce.exe,,,/ab,%windir%\sysnative\runonce.exe,%windir%\syswow64\runonce.exe,/ab,987654321,
