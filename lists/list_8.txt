@@ -74,3 +74,4 @@ ref.wpk1.club
 mobifone.vin
 catonline.top
 googleupdate.xyz
+jquery.com.co
