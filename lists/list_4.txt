@@ -263,3 +263,6 @@ cdn.ro1t.xyz
 onlineproxydata.com
 www.nio.com
 help.ltfgdl.cn
+api.co-operativefinance.com
+update-dataparser-msteams.azureedge.net
+connecotr-datastorage.azureedge.net
