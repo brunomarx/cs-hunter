@@ -266,3 +266,5 @@ help.ltfgdl.cn
 api.co-operativefinance.com
 update-dataparser-msteams.azureedge.net
 connecotr-datastorage.azureedge.net
+googee.top
+magnus.one-myshareponitonline.com
