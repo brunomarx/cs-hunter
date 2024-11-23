@@ -6380,3 +6380,8 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-11-22,42.194.172.248,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV2,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lepV3,987654321,Host: www.nio.com
 2024-11-22,43.202.62.102,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/N4215/adj/amzn.us.sr.aps,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/N4215/adj/amzn.us.sr.aps,1580103824,
 2024-11-22,47.111.146.110,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2024-11-23,3.253.95.83,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-11-23,52.231.10.139,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2024-11-23,119.8.106.3,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/OWA/,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/OWA/,391144938,
+2024-11-23,146.70.145.189,80,http,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,,,/favicon,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,/favicon,987654321,
+2024-11-23,82.156.129.168,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,666666666,
