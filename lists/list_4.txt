@@ -277,3 +277,5 @@ webapi.w.cloudns.ph
 d13w5a9vmim7ab.cloudfront.net
 downloads.abyanfinancial.com
 wiki.byt3x.top
+downloads.my-icecream.com
+downloads.helpsdeskmicrosoft.com
