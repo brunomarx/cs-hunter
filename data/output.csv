@@ -6467,3 +6467,4 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-12-10,178.128.163.164,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,2026066902,
 2024-12-10,209.97.139.27,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,2026066902,
 2024-12-10,45.136.118.147,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2024-12-11,149.104.29.251,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
