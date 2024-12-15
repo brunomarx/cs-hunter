@@ -299,3 +299,4 @@ ctogo.com
 ajax.microsoft.com
 catmyinfo.top
 fb.cdn-01.mylnix.com
+berzerun.com
