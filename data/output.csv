@@ -6538,3 +6538,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-12-26,111.229.208.249,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/email/,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/email/,100000,
 2024-12-26,209.38.116.17,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/MicrosoftUpdate/GetUpdate/KB,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/MicrosoftUpdate/GetUpdate/KB,667778797,
 2024-12-26,42.193.217.148,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV2,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lwpV3,987654321,
+2024-12-27,1.94.149.77,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2024-12-27,62.76.233.246,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
