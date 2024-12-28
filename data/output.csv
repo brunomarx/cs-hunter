@@ -6540,3 +6540,10 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2024-12-26,42.193.217.148,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV2,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lwpV3,987654321,
 2024-12-27,1.94.149.77,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2024-12-27,62.76.233.246,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-12-28,87.120.115.26,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-12-28,43.128.78.2,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-12-28,111.229.239.68,8443,https-alt,%windir%\sysnative\wuauclt.exe,%windir%\syswow64\wuauclt.exe,,,/report.php,%windir%\sysnative\wuauclt.exe,%windir%\syswow64\wuauclt.exe,/submit-data,987654321,
+2024-12-28,15.206.66.46,443,https,%windir%\sysnative\wbem\wmiprvse.exe,%windir%\syswow64\wbem\wmiprvse.exe,,,/microsoftupdate/v6/wsus/reportingwebservice.asmx,%windir%\sysnative\wbem\wmiprvse.exe,%windir%\syswow64\wbem\wmiprvse.exe,/microsoftupdate/v6/wsus/apiwebservice.asmx,987654321,Host: jux2xu.xyz
+2024-12-28,175.24.234.176,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2024-12-28,3.107.99.202,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2024-12-28,83.229.122.83,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
