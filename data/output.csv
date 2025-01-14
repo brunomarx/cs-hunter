@@ -6606,3 +6606,6 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-01-13,156.238.227.41,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-01-13,185.49.69.101,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-01-13,198.12.127.223,443,https,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,,,/ch,%windir%\sysnative\regsvr32.exe,%windir%\syswow64\regsvr32.exe,/ch,987654321,
+2025-01-14,157.230.12.133,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2025-01-14,207.148.121.17,8080,http-proxy,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,,,/api/GETHave,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,/api/GETHave,987654321,Host: shjhfhafgh.top
+2025-01-14,123.60.184.253,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,0.0.0.0,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MDDCJS),/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1873433027,
