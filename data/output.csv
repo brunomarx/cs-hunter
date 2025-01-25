@@ -6614,3 +6614,14 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-01-15,144.48.8.193,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-01-15,154.9.252.23,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-01-15,23.27.48.4,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-01-25,92.51.2.17,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1580103824,
+2025-01-25,117.72.118.156,80,http,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/api/artical/tag,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/api/artical/tag,987654321,
+2025-01-25,20.124.90.24,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-01-25,124.221.100.215,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-01-25,114.132.186.106,80,http,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,666666666,
+2025-01-25,121.4.99.161,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV3,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lwpV2,987654321,Host: zybank.info
+2025-01-25,148.135.120.139,8443,https-alt,%allusersprofile%\CrashReport\CrashReport64.exe,%allusersprofile%\CrashReport\CrashReport.exe,,,/api/v1/post,%allusersprofile%\CrashReport\CrashReport64.exe,%allusersprofile%\CrashReport\CrashReport.exe,/api/v1/post,666666666,Host: www.baidu-image.top
+2025-01-25,185.196.9.92,8000,http-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-01-25,188.166.149.250,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/images/c/5/0/keepalive.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/images/c/5/0/keepalive.php,855202784,
+2025-01-25,194.102.104.25,80,http,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,,,,987654321,
+2025-01-25,5.180.30.214,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1580103824,
