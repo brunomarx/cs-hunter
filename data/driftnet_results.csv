@@ -4769,3 +4769,7 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-01-25,106.15.46.86,443,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",CN,3fd3fd0003fd3fd21c42d42d000000bdfc58c9a46434368cf60aa440385763,7d5dbb3783b4_7022c563de38_f64f03ad387e,"CN=Encryption Everywhere DV TLS CA - G2,OU=www.digicert.com,O=DigiCert Inc,C=US"
 2025-01-25,52.56.124.141,443,"AS16509 Amazon.com, Inc.",GB,05d02d20d21d20d05c05d02d05d20d6c5159516bcc0f0e3dea0ccaa4f8b5d0,034f551d71a8_034f551d71a8_795797892f9c,"CN=www.bloggblub.top,O=Default Company Ltd,L=Default City,C=NL"
 2025-01-25,38.134.148.115,443,AS174 Cogent Communications,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
+2025-01-26,124.156.193.181,8443,"AS132203 Tencent Building, Kejizhongyi Avenue",IN,07d14d16d21d21d00042d41d00041d47e4e0ae17960b2a5b4fd6107fbb0926,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
+2025-01-26,165.232.122.80,443,"AS14061 DigitalOcean, LLC",DE,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
+2025-01-26,185.196.9.92,443,AS42624 Global-Data System IT Corporation,SC,2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb,c9d784bbb12e_c9d784bbb12e_795797892f9c,"CN=qw,OU=qw,O=qw,L=qw,ST=qw,C=qw,emailAddress=qw"
+2025-01-26,54.241.63.28,1988,"AS16509 Amazon.com, Inc.",US,21d10d00021d21d21c21d10d21d21dfa4f2d467cfc282d8a9029b2af1af43b,7022c563de38_d5d9105797f5_17b95a1d5231,CN=Amazon Internal Root Certificate Authority RSA 2K 1
