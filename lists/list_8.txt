@@ -104,3 +104,5 @@ aliyun.bar
 52cn.site
 bprices.online
 static.vnpt.vn
+looklook.sbs
+certs.ltd

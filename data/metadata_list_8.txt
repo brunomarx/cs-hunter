@@ -104,3 +104,5 @@ aliyun.bar <--- added 09/01/2025
 52cn.site <--- added 09/01/2025
 bprices.online <--- added 15/01/2025
 static.vnpt.vn <--- added 23/01/2025
+looklook.sbs <--- added 27/01/2025
+certs.ltd <--- added 27/01/2025
