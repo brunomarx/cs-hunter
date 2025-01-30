@@ -6631,3 +6631,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-01-29,54.169.53.156,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,69712182,
 2025-01-29,13.59.108.33,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-01-29,150.95.82.207,443,https,%windir%\sysnative\svchost.exe,%windir%\syswow64\printisolationhost.exe,,,/adfs/ls/,%windir%\sysnative\svchost.exe,%windir%\syswow64\printisolationhost.exe,/adfs/ls/,987654321,
+2025-01-30,37.120.198.216,443,https,%windir%\sysnative\w32tm.exe,%windir%\syswow64\grpconv.exe,,,/download/life/ZET5T3QER6E,%windir%\sysnative\w32tm.exe,%windir%\syswow64\grpconv.exe,/download/life/ZET5T3QER6E,1158277545,Host: feltonworkshop.com
+2025-01-30,110.42.48.177,443,https,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,/jquery-3.3.2.min.js,100000,
+2025-01-30,149.88.74.68,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-01-30,54.255.180.238,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
