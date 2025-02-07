@@ -107,3 +107,4 @@ static.vnpt.vn
 looklook.sbs
 certs.ltd
 feltonworkshop.com
+ec2-13-201-5-31.ap-south-1.compute.amazonaws.com
