@@ -4929,3 +4929,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-04-19,20.124.90.24,3389,AS8075 Microsoft Corporation,US,00000000000000000042d42d0000009535d5979f591ae8e547c5e5743e5b64,7022c563de38_7022c563de38_e73b053161df,CN=ca2
 2025-04-19,150.158.80.227,8443,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,dc020972a4a8_9fb583da09a2_fb02ba79e164,"CN=CloudFlare Origin Certificate,OU=CloudFlare Origin CA,O=CloudFlare\, Inc."
 2025-04-19,150.158.80.227,443,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,dc020972a4a8_9fb583da09a2_fb02ba79e164,"CN=CloudFlare Origin Certificate,OU=CloudFlare Origin CA,O=CloudFlare\, Inc."
+2025-04-20,179.43.186.234,443,AS51852 Private Layer INC,PA,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
