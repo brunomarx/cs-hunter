@@ -131,3 +131,5 @@ momdata.org
 life666.life
 107-174-35-42-host.colocrossing.com
 cscs.bakar.moe
+140.82.18.48.vultrusercontent.com
+api.xiaoyaoruchu.com
