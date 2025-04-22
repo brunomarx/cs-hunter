@@ -6714,3 +6714,10 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-04-21,146.19.170.222,443,https,%windir%\system32\notepad.exe,%windir%\syswow64\notepad.exe,,,/api/submit,%windir%\system32\notepad.exe,%windir%\syswow64\notepad.exe,/api/submit,987654321,
 2025-04-21,2.57.241.52,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-04-21,49.232.62.197,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/N4215/adj/amzn.us.sr.aps,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/N4215/adj/amzn.us.sr.aps,391144938,Host: jspassport.ssl.qhimg.com
+2025-04-22,43.134.118.235,443,https,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,,,/static/js/jquery-3.3.2.min.js,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,/static/js/jquery-3.3.2.min.js,987654321,
+2025-04-22,1.94.183.238,8080,http-proxy,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,,,/tools/family.html,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,/tools/family.html,987654321,
+2025-04-22,103.100.209.109,443,https,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,,,/dhl,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,/panel,987654321,
+2025-04-22,107.173.89.211,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2025-04-22,173.212.245.215,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/___utm.gif,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/___utm.gif,987654321,
+2025-04-22,43.139.124.56,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-04-22,8.138.119.70,8443,https-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
