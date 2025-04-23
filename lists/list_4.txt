@@ -365,3 +365,5 @@ jspassport.ssl.qhimg.com.cdn.dnsv1.com
 jspassport.ssl.qhimg.com
 ajs.july.cc
 ej2a599x7hw7j.cfc-execute.su.baidubce.com
+cdnmacos.ehx15bho8p.space
+2d2azd2gymkef.cfc-execute.gz.baidubce.com
