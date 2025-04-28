@@ -6742,3 +6742,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-04-27,118.195.189.82,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2025-04-27,185.218.87.34,443,https,%windir%\sysnative\mshta.exe,%windir%\syswow64\mshta.exe,,,/index,%windir%\sysnative\mshta.exe,%windir%\syswow64\mshta.exe,/index,987654321,
 2025-04-27,60.204.152.14,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,0.0.0.0,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; BO1IE8_v1;ENUS),/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,305419896,
+2025-04-28,212.64.73.200,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-04-28,52.140.245.31,80,http,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\EhStorAuthn.exe,,,/XPP8FE8F0X9,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\EhStorAuthn.exe,/XPP8FE8F0X9,987654321,
