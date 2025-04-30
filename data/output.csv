@@ -6746,3 +6746,8 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-04-28,52.140.245.31,80,http,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\EhStorAuthn.exe,,,/XPP8FE8F0X9,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\EhStorAuthn.exe,/XPP8FE8F0X9,987654321,
 2025-04-29,118.107.221.15,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,100000,
 2025-04-29,43.250.174.95,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-04-30,111.230.18.219,8443,https-alt,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\svchost.exe -k wksvc,,,/tbs/user/userRegister,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\svchost.exe -k wksvc,/tbs/user/userRegister,100000,
+2025-04-30,43.255.159.28,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-04-30,107.151.246.44,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-04-30,124.71.139.126,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,0.0.0.0,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,0,
+2025-04-30,47.237.20.48,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
