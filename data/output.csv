@@ -6758,3 +6758,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-05-01,148.66.16.230,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,
 2025-05-01,154.201.74.112,8443,https-alt,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,987654321,
 2025-05-01,39.101.135.210,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,100000,
+2025-05-02,107.173.62.59,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/Config,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/Login,666666666,Host: api.apparelartisans.com
+2025-05-02,114.132.227.144,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,6,
