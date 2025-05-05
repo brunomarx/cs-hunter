@@ -6766,3 +6766,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-05-03,180.76.244.133,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1234567890,
 2025-05-03,196.251.71.251,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,678358251,
 2025-05-04,111.229.219.82,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-05-05,89.168.58.167,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/jquery-3.3.2.min.js,987654321,
+2025-05-05,154.90.49.173,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,Host: vpn.coupmgrki.org
