@@ -1,13 +1,13 @@
-Tue  6 May 07:00:01 CEST 2025
+Wed  7 May 07:00:01 CEST 2025
 Starting Censys IP collection...
 Processing query: services.software.uniform_resource_identifier:`cpe:2.3:a:socgholish:socgholish:*:*:*:*:*:*:*:*`
 Found 5 IPs for query: services.software.uniform_resource_identifier:`cpe:2.3:a:socgholish:socgholish:*:*:*:*:*:*:*:*`
 Total unique IPs found: 5
 Unique IPs written to ips.txt
 Updating database with IP information...
-Updated existing IP: 170.75.160.84
 Updated existing IP: 216.146.25.130
+Updated existing IP: 51.15.16.116
 Updated existing IP: 86.124.168.255
 Updated existing IP: 45.76.250.221
-Updated existing IP: 51.15.16.116
+Updated existing IP: 170.75.160.84
 Process completed successfully.
