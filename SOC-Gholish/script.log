@@ -1,88 +1,51 @@
-Fri  9 May 13:54:51 CEST 2025
+Sat 10 May 07:00:01 CEST 2025
 Starting Censys IP collection...
 Processing query: services.software.uniform_resource_identifier:`cpe:2.3:a:socgholish:socgholish:*:*:*:*:*:*:*:*`
 Found 5 IPs for query: services.software.uniform_resource_identifier:`cpe:2.3:a:socgholish:socgholish:*:*:*:*:*:*:*:*`
 Processing query: services.jarm.fingerprint: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e and services.http.response.body_hash: "sha1:3adb1f02d5b6054de0046e367c1d687b6cdf7aff" and services.tls.certificate.parsed.issuer.organization: "Internet Widgits Pty Ltd" and services.tls.certificate.parsed.subject.organization: "Internet Widgits Pty Ltd"
-Found 13 IPs for query: services.jarm.fingerprint: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e and services.http.response.body_hash: "sha1:3adb1f02d5b6054de0046e367c1d687b6cdf7aff" and services.tls.certificate.parsed.issuer.organization: "Internet Widgits Pty Ltd" and services.tls.certificate.parsed.subject.organization: "Internet Widgits Pty Ltd"
-Total unique IPs found: 17
+Found 17 IPs for query: services.jarm.fingerprint: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e and services.http.response.body_hash: "sha1:3adb1f02d5b6054de0046e367c1d687b6cdf7aff" and services.tls.certificate.parsed.issuer.organization: "Internet Widgits Pty Ltd" and services.tls.certificate.parsed.subject.organization: "Internet Widgits Pty Ltd"
+Total unique IPs found: 21
 Unique IPs written to ips.txt
 Updating database with IP information...
-Updated existing IP: 86.124.168.255
-Updated existing IP: 170.75.160.84
-Fetching details for new IP: 173.212.231.221
-Found JARM at service.jarm for 173.212.231.221: 40d40d40d3fd40d00042d42d00000026a95928fa9b620834c2feff40bccb8f
-Found JA3S for 173.212.231.221: 15af977ce25de452b96affa2addb1036
-DEBUG - First service for 173.212.231.221:
-Port: 22
-Added new IP with details: 173.212.231.221
-Fetching details for new IP: 161.97.84.250
-Found JARM at service.jarm for 161.97.84.250: 15d3fd16d21d21d00042d43d000000fe02290512647416dcf0a400ccbc0b6b
-Found JA3S for 161.97.84.250: 475c9302dc42b2751db9edcac3b74891
-DEBUG - First service for 161.97.84.250:
-Port: 22
-Added new IP with details: 161.97.84.250
-Fetching details for new IP: 94.16.31.15
-Found JARM at service.jarm for 94.16.31.15: 29d29d15d29d29d00041d41d000000df133019600a83abfb096ff3e86cd79d
-Found JA3S for 94.16.31.15: 475c9302dc42b2751db9edcac3b74891
-DEBUG - First service for 94.16.31.15:
-Port: 25
-service.tls.ja3s: eb1d94daa7e0344597e756a1fb6e7054
-Added new IP with details: 94.16.31.15
-Updated existing IP: 216.146.25.130
-Fetching details for new IP: 172.105.98.243
-Found JARM at service.jarm for 172.105.98.243: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
-Found JA3S for 172.105.98.243: e35df3e00ca4ef31d42b34bebaa2f86e
-DEBUG - First service for 172.105.98.243:
-Port: 22
-Added new IP with details: 172.105.98.243
-Fetching details for new IP: 23.109.21.180
-Found JARM at service.jarm for 23.109.21.180: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
-Found JA3S for 23.109.21.180: e35df3e00ca4ef31d42b34bebaa2f86e
-DEBUG - First service for 23.109.21.180:
+Updated existing IP: 172.105.98.243
+Fetching details for new IP: 23.109.96.220
+Found JARM at service.jarm for 23.109.96.220: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
+Found JA3S for 23.109.96.220: e35df3e00ca4ef31d42b34bebaa2f86e
+DEBUG - First service for 23.109.96.220:
 Port: 80
-Added new IP with details: 23.109.21.180
-Updated existing IP: 45.76.250.221
+Added new IP with details: 23.109.96.220
+Updated existing IP: 94.16.31.15
+Updated existing IP: 23.109.21.172
 Updated existing IP: 51.15.16.116
-Fetching details for new IP: 23.109.21.172
-Found JARM at service.jarm for 23.109.21.172: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
-Found JA3S for 23.109.21.172: e35df3e00ca4ef31d42b34bebaa2f86e
-DEBUG - First service for 23.109.21.172:
+Updated existing IP: 45.155.205.93
+Updated existing IP: 23.109.21.188
+Updated existing IP: 216.146.25.130
+Fetching details for new IP: 23.109.96.228
+Found JARM at service.jarm for 23.109.96.228: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
+Found JA3S for 23.109.96.228: e35df3e00ca4ef31d42b34bebaa2f86e
+DEBUG - First service for 23.109.96.228:
 Port: 80
-Added new IP with details: 23.109.21.172
-Fetching details for new IP: 23.109.21.189
-Found JARM at service.jarm for 23.109.21.189: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
-Found JA3S for 23.109.21.189: e35df3e00ca4ef31d42b34bebaa2f86e
-DEBUG - First service for 23.109.21.189:
+Added new IP with details: 23.109.96.228
+Updated existing IP: 170.75.160.84
+Updated existing IP: 185.149.214.66
+Updated existing IP: 86.124.168.255
+Updated existing IP: 23.109.21.189
+Updated existing IP: 45.129.180.219
+Updated existing IP: 91.26.24.24
+Updated existing IP: 45.76.250.221
+Fetching details for new IP: 23.109.96.252
+Found JARM at service.jarm for 23.109.96.252: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
+Found JA3S for 23.109.96.252: e35df3e00ca4ef31d42b34bebaa2f86e
+DEBUG - First service for 23.109.96.252:
 Port: 80
-Added new IP with details: 23.109.21.189
-Fetching details for new IP: 45.155.205.93
-Found JARM at service.jarm for 45.155.205.93: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
-Found JA3S for 45.155.205.93: e35df3e00ca4ef31d42b34bebaa2f86e
-DEBUG - First service for 45.155.205.93:
-Port: 21
-Added new IP with details: 45.155.205.93
-Fetching details for new IP: 45.129.180.219
-Found JARM at service.jarm for 45.129.180.219: 15d3fd16d29d29d00042d43d000000f969de8346060623ff1a681e56326e65
-Found JA3S for 45.129.180.219: 475c9302dc42b2751db9edcac3b74891
-DEBUG - First service for 45.129.180.219:
-Port: 22
-Added new IP with details: 45.129.180.219
-Fetching details for new IP: 23.109.21.188
-Found JARM at service.jarm for 23.109.21.188: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
-Found JA3S for 23.109.21.188: e35df3e00ca4ef31d42b34bebaa2f86e
-DEBUG - First service for 23.109.21.188:
+Added new IP with details: 23.109.96.252
+Updated existing IP: 161.97.84.250
+Updated existing IP: 23.109.21.180
+Updated existing IP: 173.212.231.221
+Fetching details for new IP: 23.109.96.253
+Found JARM at service.jarm for 23.109.96.253: 2ad2ad16d2ad2ad0002ad2ad2ad2ad367956b0f7c241e0ae292cd63faf3f5e
+Found JA3S for 23.109.96.253: e35df3e00ca4ef31d42b34bebaa2f86e
+DEBUG - First service for 23.109.96.253:
 Port: 80
-Added new IP with details: 23.109.21.188
-Fetching details for new IP: 185.149.214.66
-Found JA3S for 185.149.214.66: 475c9302dc42b2751db9edcac3b74891
-WARNING: No JARM found for port 443 on 185.149.214.66
-DEBUG - First service for 185.149.214.66:
-Port: 80
-Added new IP with details: 185.149.214.66
-Fetching details for new IP: 91.26.24.24
-Found JARM at service.jarm for 91.26.24.24: 40d40d40d3fd40d00042d42d00000026a95928fa9b620834c2feff40bccb8f
-Found JA3S for 91.26.24.24: 15af977ce25de452b96affa2addb1036
-DEBUG - First service for 91.26.24.24:
-Port: 80
-Added new IP with details: 91.26.24.24
+Added new IP with details: 23.109.96.253
 Process completed successfully.
