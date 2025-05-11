@@ -140,3 +140,4 @@ codescriptjs.com
 180.80.86.172.static.cloudzy.com
 mail2.jianshenbar.com
 updatetimesnettamp.com
+fubon.shop
