@@ -1,4 +1,4 @@
-Sun 11 May 07:00:01 CEST 2025
+Mon 12 May 07:00:01 CEST 2025
 Starting Censys IP collection...
 Processing query: services.software.uniform_resource_identifier:`cpe:2.3:a:socgholish:socgholish:*:*:*:*:*:*:*:*`
 Found 5 IPs for query: services.software.uniform_resource_identifier:`cpe:2.3:a:socgholish:socgholish:*:*:*:*:*:*:*:*`
@@ -7,25 +7,25 @@ Found 17 IPs for query: services.jarm.fingerprint: 2ad2ad16d2ad2ad0002ad2ad2ad2a
 Total unique IPs found: 21
 Unique IPs written to ips.txt
 Updating database with IP information...
-Updated existing IP: 45.129.180.219
-Updated existing IP: 161.97.84.250
-Updated existing IP: 23.109.96.228
-Updated existing IP: 23.109.21.188
-Updated existing IP: 185.149.214.66
-Updated existing IP: 170.75.160.84
-Updated existing IP: 23.109.96.253
+Updated existing IP: 23.109.21.172
+Updated existing IP: 173.212.231.221
 Updated existing IP: 172.105.98.243
 Updated existing IP: 23.109.96.220
-Updated existing IP: 23.109.96.252
-Updated existing IP: 23.109.21.189
 Updated existing IP: 91.26.24.24
-Updated existing IP: 23.109.21.180
-Updated existing IP: 45.76.250.221
-Updated existing IP: 45.155.205.93
-Updated existing IP: 86.124.168.255
-Updated existing IP: 51.15.16.116
+Updated existing IP: 185.149.214.66
 Updated existing IP: 216.146.25.130
-Updated existing IP: 173.212.231.221
-Updated existing IP: 23.109.21.172
+Updated existing IP: 170.75.160.84
+Updated existing IP: 86.124.168.255
+Updated existing IP: 23.109.96.252
+Updated existing IP: 23.109.96.253
 Updated existing IP: 94.16.31.15
+Updated existing IP: 45.129.180.219
+Updated existing IP: 23.109.21.188
+Updated existing IP: 51.15.16.116
+Updated existing IP: 45.155.205.93
+Updated existing IP: 45.76.250.221
+Updated existing IP: 23.109.21.189
+Updated existing IP: 23.109.21.180
+Updated existing IP: 23.109.96.228
+Updated existing IP: 161.97.84.250
 Process completed successfully.
