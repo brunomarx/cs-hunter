@@ -6793,3 +6793,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-05-11,43.160.199.217,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/y,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/y,987654321,
 2025-05-11,62.234.92.164,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,426352781,
 2025-05-11,8.219.163.113,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/y,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/y,987654321,
+2025-05-12,106.53.191.52,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-05-12,150.109.45.37,443,https,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,,,/tools/family.html,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,/tools/family.html,987654321,
+2025-05-12,47.236.58.201,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-05-12,60.204.236.41,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,
