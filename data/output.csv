@@ -6801,3 +6801,8 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-05-13,1.15.93.52,443,https,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,/jquery-3.3.2.min.js,987654321,
 2025-05-13,101.126.144.111,80,http,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,987654321,
 2025-05-13,196.251.71.99,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-05-14,140.143.132.170,80,http,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,666666,
+2025-05-14,103.205.6.134,8443,https-alt,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,/jquery-3.3.2.min.js,391144938,
+2025-05-14,110.40.142.234,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-05-14,124.243.182.13,443,https,c:\windows\system32\rundll32.exe,c:\windows\syswow64\rundll32.exe,,,/IMXo,c:\windows\system32\rundll32.exe,c:\windows\syswow64\rundll32.exe,/IMXo,987654321,
+2025-05-14,222.186.38.10,8443,https-alt,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,/jquery-3.3.2.min.js,391144938,
