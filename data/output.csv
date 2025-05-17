@@ -6810,3 +6810,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-05-15,47.238.99.123,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2025-05-15,8.216.94.191,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-05-16,193.43.91.117,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-05-17,119.28.116.34,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/y,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/y,987654321,
+2025-05-17,104.223.123.147,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,Host: www.mail163.com.pl
+2025-05-17,113.44.133.83,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-05-17,124.221.66.34,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
