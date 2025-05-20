@@ -386,3 +386,5 @@ media.update.updrv.com
 www.dptech.com
 downloader.re58.cn
 sdkreport.happilygame.com
+b.udate.sbs
+fr.udate.sbs
