@@ -388,3 +388,5 @@ downloader.re58.cn
 sdkreport.happilygame.com
 b.udate.sbs
 fr.udate.sbs
+apimicrososerver.fh328fehu.xyz
+ogotwin.ddns.net
