@@ -5149,3 +5149,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-05-29,81.71.64.78,6789,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Pwn3rs Striked,OU=AdvancedReversing,O=Pwn3rs,L=Around,ST=Over,C=There"
 2025-05-29,196.251.87.153,443,AS401120 cheapy.host LLC,SC,1dd40d40d00040d00042d43d000000b5ce48eb9aaa95d750e8df42b900e12b,a373a9f83c6b_7022c563de38_2e3757343cb0,"CN=E6,O=Let's Encrypt,C=US"
 2025-05-29,113.45.4.235,443,AS55990 Huawei Cloud Service data center,SG,07d14d16d21d21d00042d41d00041d47e4e0ae17960b2a5b4fd6107fbb0926,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
+2025-05-30,14.128.51.168,443,AS152194 CTG Server Limited,SG,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=www.baidu.com,OU=DigiCert Inc,O=LogMeIn Inc.,L=Boston,ST=Massachusetts,C=US"
