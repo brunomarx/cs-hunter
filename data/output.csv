@@ -6880,3 +6880,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-06-02,179.43.139.125,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-06-02,155.94.155.76,8443,https-alt,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/submit_data.php,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/submit_data.php,987654321,
 2025-06-03,14.225.204.104,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/__utm.gif,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/__utm.gif,987654321,
+2025-06-04,152.32.251.78,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-06-04,8.138.47.245,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
