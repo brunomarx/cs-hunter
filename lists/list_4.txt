@@ -399,3 +399,4 @@ cdn.moneycomesagain.click
 cdn.lixiang.lol
 service-rchqbzvz-1301033415.sh.tencentapigw.com
 quasuar.com
+api.cdn-zoom-cloudflare.live
