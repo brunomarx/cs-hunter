@@ -400,3 +400,5 @@ cdn.lixiang.lol
 service-rchqbzvz-1301033415.sh.tencentapigw.com
 quasuar.com
 api.cdn-zoom-cloudflare.live
+a89kswn22cnkn.cfc-execute.bj.baidubce.com
+7d5gec7hyer83.cfc-execute.gz.baidubce.com
