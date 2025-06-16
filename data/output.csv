@@ -6928,3 +6928,6 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-06-15,45.142.194.110,443,https,%windir%\sysnative\wbem\wmiprvse.exe,%windir%\syswow64\wbem\wmiprvse.exe,,,/api/telemetry/v1/collect,%windir%\sysnative\wbem\wmiprvse.exe,%windir%\syswow64\wbem\wmiprvse.exe,/api/telemetry/v1/collect,987654321,
 2025-06-15,51.132.138.55,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/80YK4/bypass.php,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/80YK4/80YK4.php,987654321,
 2025-06-15,91.229.79.227,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1580103824,
+2025-06-16,146.70.113.140,8080,http-proxy,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,100000,
+2025-06-16,45.197.149.17,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-06-16,47.245.61.75,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,Host: res.antenna.cool
