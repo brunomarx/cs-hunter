@@ -6935,3 +6935,4 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-06-17,47.107.136.106,80,http,%windir%\sysnative\wbem\wmiprvse.exe -Embedding,%windir%\syswow64\rundll32.exe,,,/linksubmit/push.js,%windir%\sysnative\wbem\wmiprvse.exe -Embedding,%windir%\syswow64\rundll32.exe,/linksubmit/push.js,987654321,
 2025-06-18,121.196.208.43,443,https,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,,,/api/monitor/api/cbcmc/v1/query/pagelog/report,%windir%\sysnative\WerFault.exe,%windir%\syswow64\WerFault.exe,/api/ca/v1/template,391144938,Host: xitwo.cn
 2025-06-18,83.229.122.47,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-06-19,47.120.78.56,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,93347,
