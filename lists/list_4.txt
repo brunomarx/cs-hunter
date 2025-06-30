@@ -424,3 +424,5 @@ security-ink.sbs
 cmccopen.cn
 pull.portal.10086.cn
 www.csgo-csgo-go.it.com
+jquery.static-aliyun.com
+dmsx.yinyang.eu.org
