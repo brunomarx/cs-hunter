@@ -6985,3 +6985,6 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-07-01,185.156.73.52,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-07-01,52.193.249.66,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-07-02,47.121.24.204,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-07-03,107.173.35.167,80,http,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,
+2025-07-03,106.53.52.127,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/y,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/y,987654321,
+2025-07-03,113.45.47.3,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,100000,
