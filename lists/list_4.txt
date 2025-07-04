@@ -426,3 +426,6 @@ pull.portal.10086.cn
 www.csgo-csgo-go.it.com
 jquery.static-aliyun.com
 dmsx.yinyang.eu.org
+a.aliyun-cloudserver.com
+media-cdn.microsoft.com
+oss-global.xfyun.cn
