@@ -429,3 +429,5 @@ dmsx.yinyang.eu.org
 a.aliyun-cloudserver.com
 media-cdn.microsoft.com
 oss-global.xfyun.cn
+1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com.eo.dnse2.com
+1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com
