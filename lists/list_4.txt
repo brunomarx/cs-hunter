@@ -431,3 +431,6 @@ media-cdn.microsoft.com
 oss-global.xfyun.cn
 1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com.eo.dnse2.com
 1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com
+favicon.ico
+cdn-service.assetsforservers404.com
+h.yangthousand.hair
