@@ -434,3 +434,4 @@ oss-global.xfyun.cn
 favicon.ico
 cdn-service.assetsforservers404.com
 h.yangthousand.hair
+wirelesscdn-download.dingtalk.com
