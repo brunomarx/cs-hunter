@@ -436,3 +436,4 @@ cdn-service.assetsforservers404.com
 h.yangthousand.hair
 wirelesscdn-download.dingtalk.com
 cdn.bitttrrix.ru
+doc.office365update.cn
