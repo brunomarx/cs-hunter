@@ -437,3 +437,5 @@ h.yangthousand.hair
 wirelesscdn-download.dingtalk.com
 cdn.bitttrrix.ru
 doc.office365update.cn
+www.cloudpacket.xyz
+pe40.com
