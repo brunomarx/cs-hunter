@@ -7041,3 +7041,6 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-07-16,167.160.161.186,8080,http-proxy,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,,,/rs,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,/rs,987654321,
 2025-07-16,212.64.38.105,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2025-07-16,223.4.33.190,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1234567890,
+2025-07-17,116.62.107.27,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/api/y,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/api/y,987654321,
+2025-07-17,146.70.79.53,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/email/entrance/data/sources/watch.do,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/email/entrance/data/sources/watch.do,426352781,
+2025-07-17,47.245.90.197,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/postit,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/postit,987654321,
