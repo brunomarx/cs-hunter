@@ -7048,3 +7048,23 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-07-18,118.24.117.221,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,100000,
 2025-07-18,47.111.24.13,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2025-07-18,69.165.74.248,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-07-19,185.196.10.120,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-07-19,180.76.55.45,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/api/y,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/api/y,666666666,
+2025-07-19,117.72.107.255,80,http,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,987654321,
+2025-07-19,118.178.89.112,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-07-19,193.112.84.248,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV2,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lwpV2,987654321,
+2025-07-19,213.165.42.15,443,https,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,,,/admin,%windir%\sysnative\WUAUCLT.exe,%windir%\syswow64\WUAUCLT.exe,/admin,987654321,
+2025-07-19,43.163.221.96,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,100000,
+2025-07-19,45.204.211.239,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-07-26,1.12.235.6,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/api/post,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/api/post,987654321,
+2025-07-26,176.46.152.35,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1473793097,
+2025-07-26,117.72.215.64,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/email/,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/email/,391144938,
+2025-07-26,49.232.159.121,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-07-26,154.201.91.224,80,http,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/v4/api/selection,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/v4/api/selection,987654321,Host: 154.201.91.224
+2025-07-26,103.125.248.109,8443,https-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/4,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/4,100000,Host: update.microsoftwindows.biz
+2025-07-26,103.199.106.62,8080,http-proxy,%windir%\sysnative\w32tm.exe,%windir%\syswow64\EhStorAuthn.exe,,,/Admin/usa/0WR1247UQ2F3,%windir%\sysnative\w32tm.exe,%windir%\syswow64\EhStorAuthn.exe,/Admin/usa/0WR1247UQ2F3,987654321,
+2025-07-26,118.195.162.163,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,987654321,Host: cnd.baiidu.vip
+2025-07-26,121.199.52.25,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-07-26,121.40.76.3,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-07-26,42.194.154.53,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lwpV2,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lwpV2,987654321,
+2025-07-26,47.98.216.193,8080,http-proxy,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,,,/send,%windir%\sysnative\notepad.exe,%windir%\syswow64\notepad.exe,/send,999999,
