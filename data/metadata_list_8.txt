@@ -161,3 +161,4 @@ hlhj1801.site <--- added 11/07/2025
 ec2-47-129-184-119.ap-southeast-1.compute.amazonaws.com <--- added 11/07/2025
 9515hlhj.site <--- added 23/07/2025
 clickckckck.click <--- added 24/07/2025
+ec2-13-212-220-72.ap-southeast-1.compute.amazonaws.com <--- added 28/07/2025
