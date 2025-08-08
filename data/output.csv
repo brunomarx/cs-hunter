@@ -7115,3 +7115,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-08-07,47.122.78.242,8080,http-proxy,%windir%\system32\svchost.exe -k wksvc,%windir%\syswow64\svchost.exe -k netsvc,,,/admin/group/Server/aaa/API/37UA4ZUXJKFU,%windir%\system32\svchost.exe -k wksvc,%windir%\syswow64\svchost.exe -k netsvc,/admin/group/Server/aaa/API/37UA4ZUXJKFU,987654321,
 2025-08-07,54.89.193.82,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-08-07,8.136.3.219,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-08-08,103.214.172.184,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1234567890,
+2025-08-08,103.43.18.10,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
