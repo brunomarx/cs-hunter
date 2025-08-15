@@ -7132,3 +7132,8 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-08-12,69.5.189.69,80,http,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/meeting/save,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/meeting/save,666666666,
 2025-08-13,107.173.111.117,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1234567890,
 2025-08-13,80.253.249.181,443,https,%windir%\sysnative\wbem\wmiprvse.exe -Embedding,%windir%\syswow64\wbem\wmiprvse.exe -Embedding,,,/Construct/v1.85/JDX894ZM2WF1,%windir%\sysnative\wbem\wmiprvse.exe -Embedding,%windir%\syswow64\wbem\wmiprvse.exe -Embedding,/Construct/v1.85/JDX894ZM2WF1,987654321,
+2025-08-15,27.124.53.57,8443,https-alt,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jquery-3.3.2.min.js,987654321,
+2025-08-15,103.146.124.198,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,100000,
+2025-08-15,111.230.214.218,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/omp/lepV3,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/omp/lwpV2,987654321,
+2025-08-15,172.245.41.3,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/Email/,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/Email/,987654321,
+2025-08-15,47.97.125.50,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
