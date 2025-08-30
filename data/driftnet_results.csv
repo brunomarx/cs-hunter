@@ -5629,3 +5629,6 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-08-28,23.158.24.11,443,"AS197767 ZgoShop, Inc.",US,05d02d20d21d20d05c05d02d05d20d6c5159516bcc0f0e3dea0ccaa4f8b5d0,2bab15409345_2bab15409345_795797892f9c,"CN=localhost,O=Apache Friends,L=Berlin,ST=Berlin,C=DE"
 2025-08-28,47.109.178.168,443,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",CN,3fd3fd0003fd3fd21c42d42d000000bdfc58c9a46434368cf60aa440385763,2166164053c1_2166164053c1_000000000000,"CN=www.example.com,OU=IT Dept.,O=Example Inc.,L=Shanghai,ST=Shanghai,C=CN"
 2025-08-29,173.254.201.23,88,AS36352 HostPapa,US,3fd3fd20d3fd3fd00043d3fd3fd43d539b9d77deca9292bdcadbfed36e46f1,000000000000_000000000000_000000000000,
+2025-08-30,8.218.122.180,50000,"AS45102 Alibaba (US) Technology Co., Ltd.",SG,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_4ce939b68fae_b02f00a62664,"CN=Cloudflare,C=US"
+2025-08-30,8.218.122.180,443,"AS45102 Alibaba (US) Technology Co., Ltd.",SG,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=sni.cloudflaressl.com,OU=,O=Cloudflare,L=,ST=,C=US"
+2025-08-30,3.134.251.168,443,"AS16509 Amazon.com, Inc.",US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=teams.microsoft.com,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=WA,C=US"

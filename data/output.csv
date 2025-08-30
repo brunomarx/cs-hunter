@@ -7184,3 +7184,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-08-28,47.101.145.19,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-08-28,47.109.178.168,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-08-29,81.71.98.99,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/y,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/y,100000,
+2025-08-30,43.255.158.38,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-08-30,103.172.26.89,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/mail/u/0/,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/mail/u/0/,987654321,
+2025-08-30,3.134.251.168,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/api/chatsvc/apac/v1/users/ME/conversations/,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/api/chatsvc/apac/v1/users/ME/conversations/,987654321,
+2025-08-30,8.218.122.180,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/jquery-3.3.2.min.js,666666666,Host: adminals.com
