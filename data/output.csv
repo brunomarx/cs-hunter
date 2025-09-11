@@ -7223,3 +7223,5 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-09-10,43.135.94.196,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jmobile3.2.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jmobile3.2.js,987654321,
 2025-09-10,45.204.222.196,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,426352781,
 2025-09-10,175.178.112.168,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-09-11,103.164.81.113,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/mail/u/0/,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/mail/u/0/,987654321,
+2025-09-11,45.32.11.81,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/jquery-3.3.2.min.js,666666666,
