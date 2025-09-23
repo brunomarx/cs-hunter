@@ -7260,3 +7260,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-09-20,43.155.143.29,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,Host: 1ac.91pronhub.pw
 2025-09-20,47.120.70.161,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-09-22,101.37.14.54,8000,http-alt,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,1234567890,
+2025-09-23,43.135.27.215,443,https,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/jmobile3.2.js,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/jmobile3.2.js,987654321,
+2025-09-23,117.72.72.84,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/api/y,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/api/y,391144938,
+2025-09-23,122.51.46.102,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
+2025-09-23,47.84.55.172,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
