@@ -175,3 +175,4 @@ api.aiimshouse.world
 v2202504264569328847.nicesrv.de
 lsmartv.com
 21666.top
+111.124.59.45.static.cloudzy.com
