@@ -5783,3 +5783,5 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-09-27,117.72.222.203,3389,AS141679 China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,7022c563de38_7022c563de38_e73b053161df,CN=lavm-6l50m5heaw
 2025-09-27,47.120.44.195,443,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
 2025-09-27,45.121.215.13,443,AS152918 Liberally Network LLC,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
+2025-09-28,176.233.252.31,50050,AS34984 Superonline Iletisim Hizmetleri A.S.,TR,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Major Cobalt Strike,OU=AdvancedPenTesting,O=cobaltstrike,L=Somewhere,ST=Cyberspace,C=Earth"
+2025-09-28,167.172.75.250,443,"AS14061 DigitalOcean, LLC",SG,3fd21b20d00000021c43d21b21b43de0a012c76cf078b8d06f4620c2286f5e,2166164053c1_4ce939b68fae_b02f00a62664,"CN=Cloudflare,C=US"

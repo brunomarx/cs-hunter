@@ -7274,3 +7274,4 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-09-27,176.233.252.31,80,http,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,,,/laughtale/a/,%windir%\sysnative\dllhost.exe,%windir%\syswow64\dllhost.exe,/laughtale/a/,862493542,
 2025-09-27,45.121.215.13,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,666666666,
 2025-09-27,47.120.44.195,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,391144938,
+2025-09-28,167.172.75.250,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/jquery-3.3.2.min.js,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/jquery-3.3.2.min.js,666666666,
