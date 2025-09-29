@@ -5785,3 +5785,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-09-27,45.121.215.13,443,AS152918 Liberally Network LLC,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
 2025-09-28,176.233.252.31,50050,AS34984 Superonline Iletisim Hizmetleri A.S.,TR,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Major Cobalt Strike,OU=AdvancedPenTesting,O=cobaltstrike,L=Somewhere,ST=Cyberspace,C=Earth"
 2025-09-28,167.172.75.250,443,"AS14061 DigitalOcean, LLC",SG,3fd21b20d00000021c43d21b21b43de0a012c76cf078b8d06f4620c2286f5e,2166164053c1_4ce939b68fae_b02f00a62664,"CN=Cloudflare,C=US"
+2025-09-29,106.55.249.36,443,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
