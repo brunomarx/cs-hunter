@@ -5786,3 +5786,16 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-09-28,176.233.252.31,50050,AS34984 Superonline Iletisim Hizmetleri A.S.,TR,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Major Cobalt Strike,OU=AdvancedPenTesting,O=cobaltstrike,L=Somewhere,ST=Cyberspace,C=Earth"
 2025-09-28,167.172.75.250,443,"AS14061 DigitalOcean, LLC",SG,3fd21b20d00000021c43d21b21b43de0a012c76cf078b8d06f4620c2286f5e,2166164053c1_4ce939b68fae_b02f00a62664,"CN=Cloudflare,C=US"
 2025-09-29,106.55.249.36,443,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
+2025-10-01,23.94.199.115,8443,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,9fb583da09a2_9fb583da09a2_30d204a01551,"CN=jquery.com,OU=Certificate Authority,O=jQuery"
+2025-10-01,23.94.199.115,465,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,7022c563de38_7022c563de38_f767e99e8a69,CN=mail.thermalteke.com
+2025-10-01,23.94.199.115,110,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,a373a9f83c6b_7022c563de38_2e3757343cb0,"CN=R13,O=Let's Encrypt,C=US"
+2025-10-01,23.94.199.115,10000,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,f4751c86066e_f4751c86066e_83900cc62ac7,"CN=mail.thermalteke.com,L=Santa Clara,C=US"
+2025-10-01,23.94.199.115,21,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,dba033fca0a5_dba033fca0a5_83900cc62ac7,"CN=mail.thermalteke.com,O=Self-signed for mail.thermalteke.com,L=Santa Clara,C=US"
+2025-10-01,23.94.199.115,20000,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,f4751c86066e_f4751c86066e_83900cc62ac7,"CN=mail.thermalteke.com,L=Santa Clara,C=US"
+2025-10-01,23.94.199.115,587,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,7022c563de38_7022c563de38_f767e99e8a69,CN=mail.thermalteke.com
+2025-10-01,23.94.199.115,993,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,a373a9f83c6b_7022c563de38_2e3757343cb0,"CN=R13,O=Let's Encrypt,C=US"
+2025-10-01,23.94.199.115,995,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,a373a9f83c6b_7022c563de38_2e3757343cb0,"CN=R13,O=Let's Encrypt,C=US"
+2025-10-01,23.94.199.115,25,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,7022c563de38_7022c563de38_f767e99e8a69,CN=mail.thermalteke.com
+2025-10-01,23.94.199.115,143,AS36352 HostPapa,US,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,a373a9f83c6b_7022c563de38_2e3757343cb0,"CN=R13,O=Let's Encrypt,C=US"
+2025-10-01,124.220.164.98,50050,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Major Cobalt Strike,OU=AdvancedPenTesting,O=cobaltstrike,L=Somewhere,ST=Cyberspace,C=Earth"
+2025-10-01,121.196.235.130,443,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
