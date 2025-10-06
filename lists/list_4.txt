@@ -479,3 +479,6 @@ enterprise.jdcoinlink.site
 cs.lyphahaha.top
 tpi.api-microsoftcom.com
 eszhaopin.com
+api.updatesreview.com
+evil.ritademo.io.vn
+universal-analytics-cdn.org
