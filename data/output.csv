@@ -7286,3 +7286,7 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2025-10-03,43.143.240.86,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/email/,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/email/,987654321,
 2025-10-04,81.70.255.195,8080,http-proxy,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
 2025-10-05,121.4.83.253,443,https,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,,,/Microsoft/OWA/,%windir%\sysnative\gpupdate.exe,%windir%\syswow64\gpupdate.exe,/Microsoft/OWA/,987654321,
+2025-10-06,222.255.214.236,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2025-10-06,147.45.45.164,443,https,%windir%\sysnative\runonce.exe,%windir%\syswow64\runonce.exe,,,/tab_shop_active,%windir%\sysnative\runonce.exe,%windir%\syswow64\runonce.exe,/tab_shop_active,987654321,
+2025-10-06,216.126.236.247,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/radio/xmlrpc/v35,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/radio/xmlrpc/v35,987654321,
+2025-10-06,85.208.84.240,443,https,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,123456789,
