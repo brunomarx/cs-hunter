@@ -5972,3 +5972,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2025-12-25,217.60.6.187,443,AS56971 AS56971 Cloud,LV,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"OU=,O=,L=,ST=,C="
 2025-12-25,49.235.151.58,9876,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,00029d00029d29d00042d43d00041d8c551e62469b329de8dab084a61ef82e,7022c563de38_7022c563de38_000000000000,CN=localhost
 2025-12-26,106.52.185.141,30011,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Major Cobalt Strike,OU=AdvancedPenTesting,O=cobaltstrike,L=Somewhere,ST=Cyberspace,C=Earth"
+2025-12-28,156.239.238.94,2443,AS152705 Gcc Cloud Technology Limited,US,21d19d00021d21d00042d43d00000091f9827a8676a9d9f27d421962a09b5d,7022c563de38_7022c563de38_e440e854f133,CN=pandawiki.docs.baizhi.cloud
