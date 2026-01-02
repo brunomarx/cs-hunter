@@ -499,3 +499,4 @@ api.vxucqb.dpdns.org
 domaingroup.eu.cc
 helpremote.cc
 www.lunarbyte.top
+ykcs.601219.xyz
