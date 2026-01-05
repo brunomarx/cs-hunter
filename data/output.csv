@@ -7374,3 +7374,4 @@ date,ip,port,service,x64_config_spawn_to_x64,x64_config_spawn_to_x86,dns_idle,us
 2026-01-04,101.126.75.125,80,http,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,,,/measurement/collect,%windir%\sysnative\svchost.exe,%windir%\syswow64\svchost.exe,/analytics/collect,987654321,
 2026-01-04,107.175.94.110,80,http,c:\\windows\\system32\\taskhostw.exe,c:\\windows\\syswow64\\taskhostw.exe,,,/v1/api/telemetry-report,c:\\windows\\system32\\taskhostw.exe,c:\\windows\\syswow64\\taskhostw.exe,/v1/api/telemetry-report,987654321,Host: c1.msft-config-service.com
 2026-01-04,198.12.85.86,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
+2026-01-05,38.148.203.82,80,http,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,,,/submit.php,%windir%\sysnative\rundll32.exe,%windir%\syswow64\rundll32.exe,/submit.php,987654321,
