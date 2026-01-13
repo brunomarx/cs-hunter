@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T16:31:08.166964",
+  "generated_at": "2026-01-13T16:41:07.482998",
   "totalBeacons": 162,
   "activeIOCs": 86,
   "topWatermarks": [
@@ -32,10 +32,172 @@
       "count": 2
     }
   ],
-  "topCountries": [],
-  "topASN": [],
-  "topJARM": [],
-  "topJA3S": [],
+  "topCountries": [
+    {
+      "code": "CN",
+      "name": "China",
+      "count": 64,
+      "pct": 72
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "count": 9,
+      "pct": 10
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "count": 6,
+      "pct": 7
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "count": 4,
+      "pct": 4
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "count": 2,
+      "pct": 2
+    },
+    {
+      "code": "CH",
+      "name": "CH",
+      "count": 2,
+      "pct": 2
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "count": 1,
+      "pct": 1
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "count": 1,
+      "pct": 1
+    }
+  ],
+  "topASN": [
+    {
+      "asn": "ASAS45090",
+      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "count": 18,
+      "pct": 26
+    },
+    {
+      "asn": "ASAS37963",
+      "org": "Aliyun Computing Co., LTD",
+      "count": 15,
+      "pct": 22
+    },
+    {
+      "asn": "ASAS37963",
+      "org": "Aliyun Computing Co.LTD",
+      "count": 12,
+      "pct": 18
+    },
+    {
+      "asn": "ASAS152194",
+      "org": "CTG Server Ltd.",
+      "count": 4,
+      "pct": 6
+    },
+    {
+      "asn": "ASAS45090",
+      "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+      "count": 4,
+      "pct": 6
+    },
+    {
+      "asn": "ASAS55990",
+      "org": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+      "count": 4,
+      "pct": 6
+    },
+    {
+      "asn": "ASAS8796",
+      "org": "High Family Technology Co., Limited",
+      "count": 4,
+      "pct": 6
+    },
+    {
+      "asn": "ASAS38365",
+      "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+      "count": 3,
+      "pct": 4
+    },
+    {
+      "asn": "ASAS135377",
+      "org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "count": 2,
+      "pct": 3
+    },
+    {
+      "asn": "ASAS14061",
+      "org": "DigitalOcean, LLC",
+      "count": 2,
+      "pct": 3
+    }
+  ],
+  "topJARM": [
+    {
+      "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
+      "count": 19,
+      "label": "CS Default"
+    },
+    {
+      "hash": "3fd3fd20d00000000043d3fd3fd43d684d61a135bd962c8dd9c541ddbaefa8",
+      "count": 2,
+      "label": "Unknown Profile"
+    },
+    {
+      "hash": "3fd3fd0003fd3fd21c42d42d000000307ee0eb468e9fdb5cfcd698a80a67ef",
+      "count": 2,
+      "label": "Unknown Profile"
+    },
+    {
+      "hash": "2ad2ad16d2ad2ad00042d42d00042de5fb3038104f457d92ba02e9311512c2",
+      "count": 2,
+      "label": "CS Modified"
+    },
+    {
+      "hash": "29d29d00029d29d00042d42d000000301510f56407964db9434a9bb0d4ee4a",
+      "count": 2,
+      "label": "Unknown Profile"
+    }
+  ],
+  "topJA3S": [
+    {
+      "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
+      "count": 22,
+      "label": "Custom"
+    },
+    {
+      "hash": "574866101f64002c6421cc329e4d5458",
+      "count": 4,
+      "label": "Custom"
+    },
+    {
+      "hash": "fd45585efaa8bdce5097aa7539274dac",
+      "count": 2,
+      "label": "Custom"
+    },
+    {
+      "hash": "649d6810e8392f63dc311eecb6b7098b",
+      "count": 2,
+      "label": "Custom"
+    },
+    {
+      "hash": "b653c251b0ee54c3088fe7bb997cf59d",
+      "count": 1,
+      "label": "Custom"
+    }
+  ],
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
