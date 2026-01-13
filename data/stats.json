@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-01-13T16:31:08.166964",
+  "totalBeacons": 162,
+  "activeIOCs": 86,
+  "topWatermarks": [
+    {
+      "id": "987654321",
+      "count": 76
+    },
+    {
+      "id": "666666666",
+      "count": 49
+    },
+    {
+      "id": "391144938",
+      "count": 15
+    },
+    {
+      "id": "100000",
+      "count": 10
+    },
+    {
+      "id": "666666",
+      "count": 6
+    },
+    {
+      "id": "426352781",
+      "count": 4
+    },
+    {
+      "id": "1234567890",
+      "count": 2
+    }
+  ],
+  "topCountries": [],
+  "topASN": [],
+  "topJARM": [],
+  "topJA3S": [],
+  "queryPerformance": [
+    {
+      "name": "jarm_2ad2ad_variant1",
+      "hitRate": 10.17,
+      "hits": 61,
+      "total": 600
+    },
+    {
+      "name": "product_cobalt_strike",
+      "hitRate": 9.0,
+      "hits": 36,
+      "total": 400
+    },
+    {
+      "name": "jarm_07d14d_variant1",
+      "hitRate": 6.0,
+      "hits": 18,
+      "total": 300
+    },
+    {
+      "name": "jarm_2ad2ad_variant2",
+      "hitRate": 2.34,
+      "hits": 4,
+      "total": 171
+    },
+    {
+      "name": "jarm_07d14d_variant2",
+      "hitRate": 0.0,
+      "hits": 0,
+      "total": 3
+    },
+    {
+      "name": "jarm_3fd21b",
+      "hitRate": 0.0,
+      "hits": 0,
+      "total": 172
+    },
+    {
+      "name": "cert_serial_146473198",
+      "hitRate": 0.0,
+      "hits": 0,
+      "total": 176
+    },
+    {
+      "name": "redwarden_headers_hash",
+      "hitRate": 0.0,
+      "hits": 0,
+      "total": 117
+    },
+    {
+      "name": "redguard_aliyun_307",
+      "hitRate": 0.0,
+      "hits": 0,
+      "total": 123
+    },
+    {
+      "name": "cloudflare_cs_fronting",
+      "hitRate": 0.0,
+      "hits": 0,
+      "total": 78
+    },
+    {
+      "name": "drb-ra feed",
+      "hitRate": 4.0,
+      "hits": 36,
+      "total": 900
+    }
+  ]
+}
