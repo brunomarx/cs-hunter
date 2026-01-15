@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-01-14T22:52:29.383671",
-  "totalBeacons": 163,
-  "activeServers": 89,
-  "activeIOCs": 88,
+  "generated_at": "2026-01-15T07:59:08.086492",
+  "totalBeacons": 165,
+  "activeServers": 91,
+  "activeIOCs": 90,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 47
+      "count": 48
     },
     {
       "id": "666666666",
@@ -29,6 +29,10 @@
       "count": 2
     },
     {
+      "id": "1873433027",
+      "count": 1
+    },
+    {
       "id": "1234567890",
       "count": 1
     }
@@ -37,14 +41,14 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 65,
+      "count": 66,
       "pct": 72
     },
     {
       "code": "US",
       "name": "United States",
-      "count": 9,
-      "pct": 10
+      "count": 10,
+      "pct": 11
     },
     {
       "code": "HK",
@@ -93,8 +97,8 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 15,
-      "pct": 22
+      "count": 16,
+      "pct": 23
     },
     {
       "asn": "ASAS37963",
@@ -202,69 +206,69 @@
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 7.63,
+      "hitRate": 6.1,
       "hits": 61,
-      "total": 800
+      "total": 1000
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 6.17,
-      "hits": 37,
-      "total": 600
+      "hitRate": 4.88,
+      "hits": 39,
+      "total": 800
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 4.5,
+      "hitRate": 3.6,
       "hits": 18,
-      "total": 400
+      "total": 500
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 1.75,
+      "hitRate": 1.4,
       "hits": 4,
-      "total": 228
+      "total": 285
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 4
+      "total": 5
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 231
+      "total": 293
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 262
+      "total": 346
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 156
+      "total": 196
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 163
+      "total": 205
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 117
+      "total": 156
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 2.98,
+      "hitRate": 2.4,
       "hits": 36,
-      "total": 1210
+      "total": 1502
     }
   ]
 }
