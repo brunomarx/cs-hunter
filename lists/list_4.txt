@@ -97,6 +97,7 @@ boriackwellnessmd.com
 b.udate.sbs
 bwon.threat.tevora.org
 c1.msft-config-service.com
+c2.120vip.top
 c2.250621.xyz
 c2.moustartline.com
 c4wx8kmtsqqba.cfc-execute.bj.baidubce.com
@@ -184,6 +185,7 @@ d3qn9mcgxbz1sf.cloudfront.net
 d3rfcmmwooiu23.cloudfront.net
 d3rw9uzbeybt7i.cloudfront.net
 d3uclrzz1j4eug.cloudfront.net
+d3vnuv7smlsg9a.cloudfront.net
 d3wzq6l3jmoyl.cloudfront.net
 d9jc4u4uazc9t.cloudfront.net
 dakk5rnsax46s.cfc-execute.su.baidubce.com
@@ -331,6 +333,7 @@ ms-sharepoint-update-gqa0a2fjfzejguc0.a03.azurefd.net
 networkhealth.azureedge.net
 news.163.com
 news.voachinese.asia
+nexcumhotel.com
 nginx-imfi.fcv3.1197883384467965.cn-hangzhou.fc.devsapp.net
 niubiplus.westus3.cloudapp.azure.com
 nocomp.freeboxos.fr
@@ -466,6 +469,7 @@ www.51ape.cc
 www.68y.com
 www.aabysszg.cyou
 www.adobe.com
+www.animon.ai
 www.baidu.com
 www.baidu-image.top
 www.baiduyun.online

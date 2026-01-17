@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-01-16T06:00:01.089528",
-  "totalBeacons": 240,
-  "activeServers": 77,
-  "activeIOCs": 96,
+  "generated_at": "2026-01-17T06:00:01.942976",
+  "totalBeacons": 245,
+  "activeServers": 81,
+  "activeIOCs": 104,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 72
+      "count": 73
     },
     {
       "id": "666666666",
-      "count": 44
+      "count": 47
     },
     {
       "id": "391144938",
@@ -35,6 +35,10 @@
     {
       "id": "1873433027",
       "count": 1
+    },
+    {
+      "id": "12345",
+      "count": 1
     }
   ],
   "topCountries": [
@@ -42,13 +46,19 @@
       "code": "CN",
       "name": "China",
       "count": 55,
-      "pct": 71
+      "pct": 67
     },
     {
       "code": "US",
       "name": "United States",
       "count": 9,
-      "pct": 12
+      "pct": 11
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "count": 6,
+      "pct": 7
     },
     {
       "code": "JP",
@@ -57,22 +67,16 @@
       "pct": 5
     },
     {
-      "code": "HK",
-      "name": "Hong Kong",
-      "count": 3,
-      "pct": 4
-    },
-    {
       "code": "SG",
       "name": "Singapore",
       "count": 2,
-      "pct": 3
+      "pct": 2
     },
     {
       "code": "CH",
       "name": "CH",
       "count": 2,
-      "pct": 3
+      "pct": 2
     },
     {
       "code": "TR",
@@ -91,6 +95,12 @@
       "name": "South Korea",
       "count": 1,
       "pct": 1
+    },
+    {
+      "code": "DK",
+      "name": "DK",
+      "count": 1,
+      "pct": 1
     }
   ],
   "topASN": [
@@ -98,13 +108,13 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 17,
-      "pct": 30
+      "pct": 29
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 10,
-      "pct": 18
+      "pct": 17
     },
     {
       "asn": "ASAS37963",
@@ -119,6 +129,12 @@
       "pct": 9
     },
     {
+      "asn": "ASAS152194",
+      "org": "CTG Server Ltd.",
+      "count": 4,
+      "pct": 7
+    },
+    {
       "asn": "ASAS8796",
       "org": "High Family Technology Co., Limited",
       "count": 4,
@@ -131,28 +147,22 @@
       "pct": 5
     },
     {
+      "asn": "ASAS132203",
+      "org": "Asia Pacific Network Information Center, Pty. Ltd.",
+      "count": 2,
+      "pct": 3
+    },
+    {
       "asn": "ASAS135377",
       "org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
       "count": 2,
-      "pct": 4
+      "pct": 3
     },
     {
       "asn": "ASAS14061",
       "org": "DigitalOcean, LLC",
       "count": 2,
-      "pct": 4
-    },
-    {
-      "asn": "ASAS152194",
-      "org": "CTG Server Ltd.",
-      "count": 2,
-      "pct": 4
-    },
-    {
-      "asn": "ASAS2914",
-      "org": "GOLD IP L.L.C-FZ",
-      "count": 2,
-      "pct": 4
+      "pct": 3
     }
   ],
   "topJARM": [
@@ -190,7 +200,7 @@
     },
     {
       "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 2,
+      "count": 3,
       "label": "Custom"
     },
     {
@@ -212,69 +222,69 @@
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 9.17,
-      "hits": 110,
-      "total": 1199
+      "hitRate": 7.94,
+      "hits": 111,
+      "total": 1398
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 7.0,
-      "hits": 70,
-      "total": 1000
+      "hitRate": 5.92,
+      "hits": 71,
+      "total": 1200
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 5.0,
+      "hitRate": 4.29,
       "hits": 30,
-      "total": 600
+      "total": 700
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 2.05,
+      "hitRate": 1.75,
       "hits": 7,
-      "total": 342
+      "total": 399
+    },
+    {
+      "name": "redguard_aliyun_307",
+      "hitRate": 0.35,
+      "hits": 1,
+      "total": 289
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 6
+      "total": 7
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 355
+      "total": 417
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 431
+      "total": 515
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 235
-    },
-    {
-      "name": "redguard_aliyun_307",
-      "hitRate": 0.0,
-      "hits": 0,
-      "total": 247
+      "total": 275
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 193
+      "total": 230
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 3.62,
-      "hits": 65,
-      "total": 1797
+      "hitRate": 3.25,
+      "hits": 68,
+      "total": 2093
     }
   ]
 }
