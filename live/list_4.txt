@@ -2,10 +2,8 @@ all.js
 api.shenzhenschool.fun
 baidu.com
 c1.msft-config-service.com
-c2.120vip.top
 collection-box.js
 csstatus.0nlinecc.com
-d3vnuv7smlsg9a.cloudfront.net
 dakk5rnsax46s.cfc-execute.su.baidubce.com
 dot.gif
 g.pixel
@@ -13,10 +11,8 @@ ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
-nexcumhotel.com
 pixel.gif
 static-mtpjoriqkv.cn-beijing.fcapp.run
-updates.rss
 visit.js
 webcloudplt2.oss-cn-shanghai.aliyuncs.com
-www.animon.ai
+www.chinemoblle.online
