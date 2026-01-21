@@ -1,3 +1,4 @@
+95mfmnebv9a1r.cfc-execute.gz.baidubce.com
 all.js
 api.shenzhenschool.fun
 baidu.com
@@ -11,8 +12,11 @@ ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
+missmovie.lol
 pixel.gif
+service-rchqbzvz-1301033415.sh.tencentapigw.com
 static-mtpjoriqkv.cn-beijing.fcapp.run
+updates.rss
 visit.js
 webcloudplt2.oss-cn-shanghai.aliyuncs.com
 www.chinemoblle.online

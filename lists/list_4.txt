@@ -34,6 +34,7 @@
 7d6zcdxt-443.euw.devtunnels.ms
 7fsnaewwwq6r3.cfc-execute.bj.baidubce.com
 8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com
+95mfmnebv9a1r.cfc-execute.gz.baidubce.com
 97e790ebyt425.cfc-execute.bj.baidubce.com
 9v4h3b24g7nym.cfc-execute.bj.baidubce.com
 9w2vez17qw6fx.cfc-execute.bj.baidubce.com
@@ -327,6 +328,7 @@ me.xiaojukeji.com
 microsaft.club
 microsharepolnt.store
 microsoft-api.nununubn.workers.dev
+missmovie.lol
 msg.msdegeup.com
 ms-healthcheck.ru
 ms-sharepoint-update-gqa0a2fjfzejguc0.a03.azurefd.net
