@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T06:00:01.103127",
-  "totalBeacons": 268,
+  "generated_at": "2026-01-22T06:00:01.205576",
+  "totalBeacons": 269,
   "activeServers": 92,
   "activeIOCs": 120,
   "topWatermarks": [
@@ -26,7 +26,7 @@
     },
     {
       "id": "1234567890",
-      "count": 3
+      "count": 4
     },
     {
       "id": "666666",
@@ -206,69 +206,69 @@
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 5.6,
+      "hitRate": 5.14,
       "hits": 123,
-      "total": 2196
+      "total": 2395
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 4.05,
-      "hits": 81,
-      "total": 2000
+      "hitRate": 3.73,
+      "hits": 82,
+      "total": 2200
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 3.09,
+      "hitRate": 2.83,
       "hits": 34,
-      "total": 1100
+      "total": 1200
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 1.29,
+      "hitRate": 1.18,
       "hits": 8,
-      "total": 621
+      "total": 676
     },
     {
       "name": "redwarden_headers_hash",
-      "hitRate": 0.23,
+      "hitRate": 0.22,
       "hits": 1,
-      "total": 426
+      "total": 463
     },
     {
       "name": "redguard_aliyun_307",
-      "hitRate": 0.22,
+      "hitRate": 0.2,
       "hits": 1,
-      "total": 454
+      "total": 493
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 11
+      "total": 12
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 676
+      "total": 745
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 854
+      "total": 934
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 369
+      "total": 401
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 2.36,
+      "hitRate": 2.17,
       "hits": 77,
-      "total": 3262
+      "total": 3547
     }
   ]
 }
