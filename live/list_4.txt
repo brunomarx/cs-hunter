@@ -4,8 +4,10 @@ api.shenzhenschool.fun
 baidu.com
 c1.msft-config-service.com
 collection-box.js
+connect.huaweicloud.com
 csstatus.0nlinecc.com
 dakk5rnsax46s.cfc-execute.su.baidubce.com
+developer.huaweicloud.com
 dot.gif
 g.pixel
 ga.js
@@ -13,6 +15,8 @@ ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
 missmovie.lol
+oppos.top
+oppos.top.cdn.dnsv1.com
 pixel.gif
 service-rchqbzvz-1301033415.sh.tencentapigw.com
 static-mtpjoriqkv.cn-beijing.fcapp.run
