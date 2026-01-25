@@ -9,6 +9,7 @@ ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
+microsoft-schtask.com
 missmovie.lol
 oppos.top
 oppos.top.cdn.dnsv1.com
