@@ -2,8 +2,6 @@
 all.js
 api.shenzhenschool.fun
 baidu.com
-connect.huaweicloud.com
-developer.huaweicloud.com
 dot.gif
 ga.js
 ie9compatviewlist.xml
