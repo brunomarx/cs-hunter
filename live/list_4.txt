@@ -3,10 +3,12 @@ all.js
 api.shenzhenschool.fun
 baidu.com
 dot.gif
+g.pixel
 ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
+lcowpowerlite.italynorth.cloudapp.azure.com
 microsoft-schtask.com
 missmovie.lol
 oppos.top
