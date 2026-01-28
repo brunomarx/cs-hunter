@@ -6012,3 +6012,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2026-01-25,115.159.50.50,3389,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,26d26d16d26d26d22c26d26d26d26dfd9c9d14e4f4f67f94f0359f8b28f532,7022c563de38_7022c563de38_e73b053161df,CN=10_0_0_4
 2026-01-25,23.95.96.180,7000,AS36352 HostPapa,US,3fd21b20d3fd3fd21c43d21b21b43d1ec49a4b64df0a9e9f328abd60285841,000000000000_000000000000_000000000000,
 2026-01-25,23.95.96.180,443,AS36352 HostPapa,US,3fd21b20d3fd3fd21c43d21b21b43d1ec49a4b64df0a9e9f328abd60285841,2166164053c1_2166164053c1_30d204a01551,"CN=Google Spider,OU=Google.com,O=Alphabet Inc,L=Sacramento,ST=California,C=US"
+2026-01-27,106.13.29.104,50050,"AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Major Cobalt Strike,OU=AdvancedPenTesting,O=cobaltstrike,L=Somewhere,ST=Cyberspace,C=Earth"

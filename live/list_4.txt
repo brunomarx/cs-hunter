@@ -9,7 +9,6 @@ ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
 lcowpowerlite.italynorth.cloudapp.azure.com
-microsoft-schtask.com
 missmovie.lol
 oppos.top
 oppos.top.cdn.dnsv1.com
