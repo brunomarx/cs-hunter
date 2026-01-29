@@ -6013,3 +6013,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2026-01-25,23.95.96.180,7000,AS36352 HostPapa,US,3fd21b20d3fd3fd21c43d21b21b43d1ec49a4b64df0a9e9f328abd60285841,000000000000_000000000000_000000000000,
 2026-01-25,23.95.96.180,443,AS36352 HostPapa,US,3fd21b20d3fd3fd21c43d21b21b43d1ec49a4b64df0a9e9f328abd60285841,2166164053c1_2166164053c1_30d204a01551,"CN=Google Spider,OU=Google.com,O=Alphabet Inc,L=Sacramento,ST=California,C=US"
 2026-01-27,106.13.29.104,50050,"AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",CN,2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da,2166164053c1_2166164053c1_30d204a01551,"CN=Major Cobalt Strike,OU=AdvancedPenTesting,O=cobaltstrike,L=Somewhere,ST=Cyberspace,C=Earth"
+2026-01-28,94.156.177.204,443,AS41745 Hosting services,NL,2ad2ad0002ad2ad00042d42d000000d71691dd6844b6fa08f9c5c2b4b882cc,7d5dbb3783b4_a373a9f83c6b_a83ffcd6e6c2,"CN=Microsoft Azure RSA TLS Issuing CA 04,O=Microsoft Corporation,C=US"

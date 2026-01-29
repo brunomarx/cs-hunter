@@ -256,6 +256,7 @@ g2syr6cins.xyz
 g80z6zwx-443.inc1.devtunnels.ms
 ga.js
 gem.ae
+get.jpg
 gfex-cloud.oss-cn-shenzhen.aliyuncs.com
 giajgdfgcs63da2s.ksf123.icu
 gitcompay.com
@@ -282,6 +283,7 @@ ie9compatviewlist.xml
 ikea0.com
 images.scbpointx.com
 imap.aliyun.com
+img2.huorongsec.com
 imgs.statics.baidu.com
 imgs.statics.baidu.com.volcgslb-mlt.com
 index.php
@@ -431,6 +433,7 @@ ssjcw.com
 stads.10086.cn
 stam.nactrace.com
 static.chat5188.top
+static.cos-tencent.cloud
 static-mtpjoriqkv.cn-beijing.fcapp.run
 sts.tencentopenapi.xyz
 sydnc.net
@@ -482,6 +485,7 @@ www.animon.ai
 www.baidu.com
 www.baidu-image.top
 www.baiduyun.online
+www.carhartt-market.com
 www.chinamobile.live
 www.chinemoblle.online
 www.cloudpacket.xyz
