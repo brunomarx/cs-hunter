@@ -17,6 +17,5 @@ pixel.gif
 static.cos-tencent.cloud
 updates.rss
 visit.js
-webcloudplt2.oss-cn-shanghai.aliyuncs.com
 www.carhartt-market.com
 www.chinemoblle.online
