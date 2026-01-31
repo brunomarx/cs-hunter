@@ -283,6 +283,7 @@ ie9compatviewlist.xml
 ikea0.com
 images.scbpointx.com
 imap.aliyun.com
+img1.huorongsec.com
 img2.huorongsec.com
 imgs.statics.baidu.com
 imgs.statics.baidu.com.volcgslb-mlt.com
