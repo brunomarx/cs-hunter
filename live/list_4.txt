@@ -1,4 +1,3 @@
-95mfmnebv9a1r.cfc-execute.gz.baidubce.com
 all.js
 api.shenzhenschool.fun
 baidu.com
@@ -8,14 +7,13 @@ ga.js
 get.jpg
 ie9compatviewlist.xml
 img1.huorongsec.com
-img2.huorongsec.com
 j.ad
 jquery-3.3.1.min.js
 lcowpowerlite.italynorth.cloudapp.azure.com
+magali.ns.cloudflare.com
 oppos.top
 oppos.top.cdn.dnsv1.com
 pixel.gif
-static.cos-tencent.cloud
+thishyoung.dpdns.org
 updates.rss
 visit.js
-www.carhartt-market.com
