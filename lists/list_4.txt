@@ -324,6 +324,7 @@ looklook13.fucklgf.sbs
 ls.ain360.net
 m2th3k.top
 madibase.tech
+magali.ns.cloudflare.com
 magnus.one-myshareponitonline.com
 mail.hlmh0rk6.com
 manage.flash-oss.info
@@ -445,6 +446,7 @@ testgk.oss-cn-beijing.aliyuncs.com
 test-idnhxejcpy.cn-hangzhou.fcapp.run
 test.iqiyi.cn.com
 test-ueicbfazir.cn-hangzhou.fcapp.run
+thishyoung.dpdns.org
 time.api.chinabm.cn
 tpi.api-microsoftcom.com
 tvmovies.online
