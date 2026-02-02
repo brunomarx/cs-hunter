@@ -462,6 +462,7 @@ update-system.ru
 update.winservers-network.com
 update.wztgyh.com
 uploader-data.site
+util.advertising-platform.top
 vdposter.bdstatic.com
 virtualnetworkaccess.com
 visit.js

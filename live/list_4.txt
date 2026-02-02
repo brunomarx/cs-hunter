@@ -7,7 +7,6 @@ ga.js
 get.jpg
 ie9compatviewlist.xml
 img1.huorongsec.com
-j.ad
 jquery-3.3.1.min.js
 lcowpowerlite.italynorth.cloudapp.azure.com
 magali.ns.cloudflare.com
@@ -16,4 +15,5 @@ oppos.top.cdn.dnsv1.com
 pixel.gif
 thishyoung.dpdns.org
 updates.rss
+util.advertising-platform.top
 visit.js
