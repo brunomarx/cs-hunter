@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-02-01T06:00:01.202251",
-  "totalBeacons": 401,
-  "activeServers": 61,
-  "activeIOCs": 150,
+  "generated_at": "2026-02-02T06:00:01.779672",
+  "totalBeacons": 402,
+  "activeServers": 60,
+  "activeIOCs": 152,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 104
+      "count": 101
     },
     {
       "id": "666666666",
@@ -41,14 +41,14 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 96,
-      "pct": 64
+      "count": 93,
+      "pct": 63
     },
     {
       "code": "US",
       "name": "United States",
       "count": 20,
-      "pct": 13
+      "pct": 14
     },
     {
       "code": "HK",
@@ -86,31 +86,25 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 40,
-      "pct": 34
+      "pct": 35
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
       "count": 21,
-      "pct": 18
+      "pct": 19
     },
     {
       "asn": "ASAS8796",
       "org": "High Family Technology Co., Limited",
       "count": 12,
-      "pct": 10
+      "pct": 11
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
       "count": 10,
       "pct": 9
-    },
-    {
-      "asn": "ASAS45090",
-      "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 7,
-      "pct": 6
     },
     {
       "asn": "ASAS135377",
@@ -134,19 +128,25 @@
       "asn": "ASAS139659",
       "org": "S-G-IX",
       "count": 4,
-      "pct": 3
+      "pct": 4
     },
     {
       "asn": "ASAS142032",
       "org": "WEST TECHNOLOGY SERVICES GROUP LIMITED",
       "count": 4,
-      "pct": 3
+      "pct": 4
+    },
+    {
+      "asn": "ASAS36352",
+      "org": "HostPapa",
+      "count": 4,
+      "pct": 4
     }
   ],
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 31,
+      "count": 30,
       "label": "CS Default"
     },
     {
@@ -173,7 +173,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 32,
+      "count": 31,
       "label": "Custom"
     },
     {
@@ -190,74 +190,79 @@
       "hash": "f2a6a59f2f6a395f5c25a02dfb12ba09",
       "count": 1,
       "label": "Custom"
+    },
+    {
+      "hash": "567bb420d39046dbfd1f68b558d86382",
+      "count": 1,
+      "label": "Custom"
     }
   ],
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 4.44,
+      "hitRate": 4.25,
       "hits": 195,
-      "total": 4391
+      "total": 4591
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.33,
+      "hitRate": 3.18,
       "hits": 140,
-      "total": 4200
+      "total": 4400
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 2.5,
+      "hitRate": 2.39,
       "hits": 55,
-      "total": 2200
+      "total": 2300
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 1.0,
+      "hitRate": 0.96,
       "hits": 12,
-      "total": 1204
+      "total": 1256
     },
     {
       "name": "redguard_aliyun_307",
-      "hitRate": 0.34,
+      "hitRate": 0.33,
       "hits": 3,
-      "total": 879
+      "total": 920
     },
     {
       "name": "redwarden_headers_hash",
-      "hitRate": 0.24,
+      "hitRate": 0.23,
       "hits": 2,
-      "total": 821
+      "total": 857
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 22
+      "total": 23
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 1479
+      "total": 1555
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 1666
+      "total": 1738
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 761
+      "total": 800
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 2.08,
-      "hits": 135,
-      "total": 6488
+      "hitRate": 2.01,
+      "hits": 136,
+      "total": 6778
     }
   ]
 }
