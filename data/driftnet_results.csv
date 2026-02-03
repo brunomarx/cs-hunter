@@ -6016,3 +6016,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2026-01-28,94.156.177.204,443,AS41745 Hosting services,NL,2ad2ad0002ad2ad00042d42d000000d71691dd6844b6fa08f9c5c2b4b882cc,7d5dbb3783b4_a373a9f83c6b_a83ffcd6e6c2,"CN=Microsoft Azure RSA TLS Issuing CA 04,O=Microsoft Corporation,C=US"
 2026-01-31,91.92.250.170,80,AS31130 RapidSpace,AL,29d29d00029d29d00042d42d000000591965a32830c32b3ad57d4bfd247359,7022c563de38_7022c563de38_795797892f9c,CN=91.92.250.170
 2026-02-01,107.174.180.24,8445,AS36352 HostPapa,US,2ad2ad0002ad2ad0002ad2ad2ad2ad04320b71a5a1a86999cfc20df5bd6320,2bab15409345_7022c563de38_0321e8b32200,CN=lookingforaworldtoday.com
+2026-02-02,81.71.98.99,443,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,3fd3fd0003fd3fd00042d42d00000000f78d2dc0ce6e5bbc5b8149a4872356,2166164053c1_2166164053c1_30d204a01551,"CN=microsoft,OU=Beijing,O=microsoft,L=Beijing,ST=CN,C=microsoft"
