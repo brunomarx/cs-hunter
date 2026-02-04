@@ -8,6 +8,7 @@ ie9compatviewlist.xml
 jquery-3.3.1.min.js
 lcowpowerlite.italynorth.cloudapp.azure.com
 magali.ns.cloudflare.com
+new.sys-update.online
 pixel.gif
 thishyoung.dpdns.org
 updates.rss
