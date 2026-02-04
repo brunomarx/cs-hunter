@@ -343,6 +343,7 @@ ms-sharepoint-update-gqa0a2fjfzejguc0.a03.azurefd.net
 networkhealth.azureedge.net
 news.163.com
 news.voachinese.asia
+new.sys-update.online
 nexcumhotel.com
 nginx-imfi.fcv3.1197883384467965.cn-hangzhou.fc.devsapp.net
 niubiplus.westus3.cloudapp.azure.com
