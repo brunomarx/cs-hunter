@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-02-05T06:00:01.121836",
-  "totalBeacons": 409,
-  "activeServers": 60,
+  "generated_at": "2026-02-06T06:00:01.080453",
+  "totalBeacons": 411,
+  "activeServers": 55,
   "activeIOCs": 160,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 99
+      "count": 95
     },
     {
       "id": "666666666",
@@ -18,10 +18,6 @@
     },
     {
       "id": "1234567890",
-      "count": 5
-    },
-    {
-      "id": "100000",
       "count": 5
     },
     {
@@ -39,26 +35,30 @@
     {
       "id": "12345",
       "count": 1
+    },
+    {
+      "id": "100000",
+      "count": 1
     }
   ],
   "topCountries": [
     {
       "code": "CN",
       "name": "China",
-      "count": 125,
-      "pct": 64
+      "count": 126,
+      "pct": 68
     },
     {
       "code": "US",
       "name": "United States",
-      "count": 28,
-      "pct": 14
+      "count": 22,
+      "pct": 12
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 16,
-      "pct": 8
+      "count": 10,
+      "pct": 5
     },
     {
       "code": "JP",
@@ -90,13 +90,13 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 53,
-      "pct": 35
+      "pct": 36
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
       "count": 28,
-      "pct": 18
+      "pct": 19
     },
     {
       "asn": "ASAS8796",
@@ -129,28 +129,28 @@
       "pct": 5
     },
     {
-      "asn": "ASAS139659",
-      "org": "S-G-IX",
-      "count": 6,
-      "pct": 4
-    },
-    {
-      "asn": "ASAS36352",
-      "org": "HostPapa",
-      "count": 6,
-      "pct": 4
-    },
-    {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 5,
+      "count": 6,
+      "pct": 4
+    },
+    {
+      "asn": "ASAS45102",
+      "org": "Alibaba Cloud (Singapore) Private Limited",
+      "count": 4,
+      "pct": 3
+    },
+    {
+      "asn": "ASAS55990",
+      "org": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+      "count": 4,
       "pct": 3
     }
   ],
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 41,
+      "count": 42,
       "label": "CS Default"
     },
     {
@@ -177,7 +177,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 42,
+      "count": 43,
       "label": "Custom"
     },
     {
@@ -199,69 +199,69 @@
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 3.78,
-      "hits": 196,
-      "total": 5191
+      "hitRate": 3.65,
+      "hits": 197,
+      "total": 5391
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.86,
-      "hits": 143,
-      "total": 5000
+      "hitRate": 2.77,
+      "hits": 144,
+      "total": 5200
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 2.15,
+      "hitRate": 2.07,
       "hits": 56,
-      "total": 2600
+      "total": 2700
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.85,
-      "hits": 12,
-      "total": 1406
+      "hitRate": 0.89,
+      "hits": 13,
+      "total": 1455
     },
     {
       "name": "redguard_aliyun_307",
-      "hitRate": 0.38,
+      "hitRate": 0.37,
       "hits": 4,
-      "total": 1039
+      "total": 1080
     },
     {
       "name": "redwarden_headers_hash",
-      "hitRate": 0.21,
+      "hitRate": 0.2,
       "hits": 2,
-      "total": 960
+      "total": 995
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 26
+      "total": 27
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 1776
+      "total": 1848
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 1948
+      "total": 2017
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 920
+      "total": 958
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.84,
-      "hits": 139,
-      "total": 7569
+      "hitRate": 1.8,
+      "hits": 140,
+      "total": 7781
     }
   ]
 }
