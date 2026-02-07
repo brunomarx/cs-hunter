@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-06T06:00:01.080453",
-  "totalBeacons": 411,
-  "activeServers": 55,
+  "generated_at": "2026-02-07T06:00:01.662061",
+  "totalBeacons": 415,
+  "activeServers": 53,
   "activeIOCs": 160,
   "topWatermarks": [
     {
@@ -10,14 +10,14 @@
     },
     {
       "id": "666666666",
-      "count": 57
+      "count": 58
     },
     {
       "id": "391144938",
       "count": 20
     },
     {
-      "id": "1234567890",
+      "id": "370848231",
       "count": 5
     },
     {
@@ -25,7 +25,7 @@
       "count": 4
     },
     {
-      "id": "370848231",
+      "id": "1234567890",
       "count": 4
     },
     {
@@ -33,11 +33,11 @@
       "count": 3
     },
     {
-      "id": "12345",
-      "count": 1
+      "id": "100000",
+      "count": 2
     },
     {
-      "id": "100000",
+      "id": "12345",
       "count": 1
     }
   ],
@@ -45,7 +45,7 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 126,
+      "count": 123,
       "pct": 68
     },
     {
@@ -108,7 +108,7 @@
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
       "count": 14,
-      "pct": 9
+      "pct": 10
     },
     {
       "asn": "ASAS135377",
@@ -131,8 +131,8 @@
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 6,
-      "pct": 4
+      "count": 4,
+      "pct": 3
     },
     {
       "asn": "ASAS45102",
@@ -150,7 +150,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 42,
+      "count": 41,
       "label": "CS Default"
     },
     {
@@ -177,7 +177,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 43,
+      "count": 42,
       "label": "Custom"
     },
     {
@@ -199,69 +199,69 @@
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 3.65,
+      "hitRate": 3.52,
       "hits": 197,
-      "total": 5391
+      "total": 5591
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.77,
-      "hits": 144,
-      "total": 5200
+      "hitRate": 2.7,
+      "hits": 146,
+      "total": 5400
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 2.07,
+      "hitRate": 2.0,
       "hits": 56,
-      "total": 2700
+      "total": 2800
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.89,
-      "hits": 13,
-      "total": 1455
+      "hitRate": 0.93,
+      "hits": 14,
+      "total": 1504
     },
     {
       "name": "redguard_aliyun_307",
-      "hitRate": 0.37,
-      "hits": 4,
-      "total": 1080
+      "hitRate": 0.45,
+      "hits": 5,
+      "total": 1120
     },
     {
       "name": "redwarden_headers_hash",
-      "hitRate": 0.2,
-      "hits": 2,
-      "total": 995
+      "hitRate": 0.29,
+      "hits": 3,
+      "total": 1031
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 27
+      "total": 28
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 1848
+      "total": 1920
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 2017
+      "total": 2081
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 958
+      "total": 997
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.8,
-      "hits": 140,
-      "total": 7781
+      "hitRate": 1.77,
+      "hits": 142,
+      "total": 8005
     }
   ]
 }
