@@ -1,9 +1,7 @@
 2458ccd60cc54149bb05537717d831f0--8000.ap-shanghai2.cloudstudio.club
-ajax.microsoft.com
 all.js
 api.shenzhenschool.fun
 baidu.com
-bgfi-groupe.com
 dot.gif
 g.pixel
 ga.js
