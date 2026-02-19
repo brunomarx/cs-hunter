@@ -1,6 +1,7 @@
 all.js
 api.shenzhenschool.fun
 baidu.com
+batchgit.cc
 dot.gif
 g.pixel
 ie9compatviewlist.xml
