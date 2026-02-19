@@ -86,6 +86,7 @@ azureupdate.germanywestcentral.cloudapp.azure.com
 ba1do.ip-ddns.com
 baidu.com
 bankok.tourismthailand.xyz
+batchgit.cc
 baznas.dompetdhuaafa.biz.id
 bbb.flash-china.com
 bbrwyckeadd5e.cfc-execute.bj.baidubce.com
