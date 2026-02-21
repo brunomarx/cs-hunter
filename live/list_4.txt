@@ -6,7 +6,6 @@ dot.gif
 g.pixel
 ie9compatviewlist.xml
 jquery-3.3.1.min.js
-lcowpowerlite.italynorth.cloudapp.azure.com
 magali.ns.cloudflare.com
 pixel.gif
 thishyoung.dpdns.org
