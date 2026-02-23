@@ -9,5 +9,4 @@ magali.ns.cloudflare.com
 pixel.gif
 thishyoung.dpdns.org
 updates.rss
-util.advertising-platform.top
 visit.js
