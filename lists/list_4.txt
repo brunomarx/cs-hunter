@@ -480,6 +480,7 @@ webhook.s3-azure.com
 wehelpgood.xyz
 whatmy.nslookup.vip
 wiki.byt3x.top
+win-system-update.me
 wirelesscdn-download.dingtalk.com
 wire.oss-cn-shenzhen.aliyuncs.com
 wsafe-roads-dkd5gtc3fcdtbeff.a01.azurefd.net
