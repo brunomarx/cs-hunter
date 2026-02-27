@@ -12,4 +12,3 @@ pixel.gif
 thishyoung.dpdns.org
 updates.rss
 visit.js
-win-system-update.me

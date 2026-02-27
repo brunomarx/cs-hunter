@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-02-26T06:00:01.477507",
+  "generated_at": "2026-02-27T06:00:01.252212",
   "totalBeacons": 549,
-  "activeServers": 45,
+  "activeServers": 44,
   "activeIOCs": 173,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 133
+      "count": 132
     },
     {
       "id": "666666666",
@@ -51,12 +51,6 @@
       "name": "Singapore",
       "count": 7,
       "pct": 3
-    },
-    {
-      "code": "SE",
-      "name": "SE",
-      "count": 1,
-      "pct": 0
     }
   ],
   "topASN": [
@@ -163,69 +157,69 @@
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 2.94,
+      "hitRate": 2.88,
       "hits": 276,
-      "total": 9391
+      "total": 9591
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.56,
+      "hitRate": 2.52,
       "hits": 207,
-      "total": 8100
+      "total": 8200
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.91,
+      "hitRate": 1.88,
       "hits": 90,
-      "total": 4700
+      "total": 4800
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.85,
+      "hitRate": 0.83,
       "hits": 21,
-      "total": 2474
+      "total": 2527
     },
     {
       "name": "redguard_aliyun_307",
-      "hitRate": 0.44,
+      "hitRate": 0.43,
       "hits": 8,
-      "total": 1815
+      "total": 1849
     },
     {
       "name": "redwarden_headers_hash",
-      "hitRate": 0.18,
+      "hitRate": 0.17,
       "hits": 3,
-      "total": 1714
+      "total": 1748
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 47
+      "total": 48
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 3322
+      "total": 3394
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 3189
+      "total": 3235
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 1785
+      "total": 1826
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.83,
+      "hitRate": 1.8,
       "hits": 213,
-      "total": 11629
+      "total": 11816
     }
   ]
 }
