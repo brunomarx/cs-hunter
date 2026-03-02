@@ -130,6 +130,7 @@ cdn-service.assetsforservers404.com
 cdn.soft.qianxin.com
 cdn.wnaz.shop
 cladonia.team
+client.asmx
 client.hosthlior.com
 cloud.amazoncdn.shop
 cloud.defenderblt.com
@@ -265,6 +266,7 @@ giajgdfgcs63da2s.ksf123.icu
 gitcompay.com
 googee.top
 google.baobecgiang.net
+google.com
 google.jailless.im
 gov-migo-lehcrkjyku.cn-shanghai.fcapp.run
 gov-sh-jcletxkkml.cn-shanghai.fcapp.run
@@ -291,6 +293,7 @@ img2.huorongsec.com
 imgs.statics.baidu.com
 imgs.statics.baidu.com.volcgslb-mlt.com
 index.php
+info.cdn.microsoft.com
 inventscience.st
 invest-egypt.org
 itaoxiang.cn
