@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T06:00:01.707809",
+  "generated_at": "2026-03-07T06:00:01.203164",
   "totalBeacons": 588,
   "activeServers": 38,
   "activeIOCs": 179,
@@ -157,69 +157,69 @@
   "queryPerformance": [
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 2.72,
+      "hitRate": 2.67,
       "hits": 299,
-      "total": 10991
+      "total": 11191
     },
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.53,
+      "hitRate": 2.5,
       "hits": 225,
-      "total": 8900
+      "total": 9000
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.82,
+      "hitRate": 1.79,
       "hits": 100,
-      "total": 5500
+      "total": 5600
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.83,
+      "hitRate": 0.82,
       "hits": 24,
-      "total": 2891
+      "total": 2939
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.38,
       "hits": 8,
-      "total": 2084
+      "total": 2119
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.15,
       "hits": 3,
-      "total": 1982
+      "total": 2017
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 55
+      "total": 56
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 3900
+      "total": 3972
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 3525
+      "total": 3567
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 2097
+      "total": 2137
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.83,
+      "hitRate": 1.8,
       "hits": 241,
-      "total": 13180
+      "total": 13360
     }
   ]
 }
