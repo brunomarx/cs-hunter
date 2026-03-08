@@ -14,3 +14,4 @@ pixel.gif
 thishyoung.dpdns.org
 updates.rss
 visit.js
+www.cloudflara.xyz
