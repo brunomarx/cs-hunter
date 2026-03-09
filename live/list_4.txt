@@ -9,9 +9,9 @@ google.com
 ie9compatviewlist.xml
 jquery-3.3.1.min.js
 magali.ns.cloudflare.com
-missmovie.lol
 pixel.gif
 thishyoung.dpdns.org
 updates.rss
 visit.js
+www.baidu.com
 www.cloudflara.xyz
