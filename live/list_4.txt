@@ -5,7 +5,6 @@ collection-box.js
 dakk5rnsax46s.cfc-execute.su.baidubce.com
 dot.gif
 g.pixel
-google.com
 ie9compatviewlist.xml
 jquery-3.3.1.min.js
 magali.ns.cloudflare.com
