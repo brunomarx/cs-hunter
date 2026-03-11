@@ -4,13 +4,12 @@ baidu.com
 collection-box.js
 dakk5rnsax46s.cfc-execute.su.baidubce.com
 dot.gif
-g.pixel
 ie9compatviewlist.xml
+j.ad
 jquery-3.3.1.min.js
 magali.ns.cloudflare.com
 pixel.gif
 thishyoung.dpdns.org
-updates.rss
 visit.js
 www.baidu.com
 www.cloudflara.xyz
