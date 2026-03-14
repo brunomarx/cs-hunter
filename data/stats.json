@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-13T06:00:01.455544",
-  "totalBeacons": 633,
-  "activeServers": 43,
+  "generated_at": "2026-03-14T06:00:01.354671",
+  "totalBeacons": 635,
+  "activeServers": 42,
   "activeIOCs": 194,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 149
+      "count": 150
     },
     {
       "id": "666666666",
-      "count": 61
+      "count": 62
     },
     {
       "id": "391144938",
@@ -23,17 +23,13 @@
     {
       "id": "2415919104",
       "count": 1
-    },
-    {
-      "id": "0",
-      "count": 1
     }
   ],
   "topCountries": [
     {
       "code": "CN",
       "name": "China",
-      "count": 176,
+      "count": 175,
       "pct": 66
     },
     {
@@ -77,7 +73,7 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 70,
+      "count": 69,
       "pct": 30
     },
     {
@@ -187,69 +183,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.62,
-      "hits": 251,
-      "total": 9591
+      "hitRate": 2.61,
+      "hits": 253,
+      "total": 9691
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 2.6,
+      "hitRate": 2.56,
       "hits": 322,
-      "total": 12371
+      "total": 12566
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.78,
+      "hitRate": 1.75,
       "hits": 110,
-      "total": 6180
+      "total": 6276
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.8,
+      "hitRate": 0.79,
       "hits": 26,
-      "total": 3235
+      "total": 3285
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.34,
       "hits": 8,
-      "total": 2329
+      "total": 2365
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.13,
       "hits": 3,
-      "total": 2234
+      "total": 2269
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.03,
       "hits": 1,
-      "total": 3822
+      "total": 3862
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 62
+      "total": 63
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 4383
+      "total": 4452
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 2381
+      "total": 2420
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.89,
+      "hitRate": 1.88,
       "hits": 269,
-      "total": 14208
+      "total": 14335
     }
   ]
 }
