@@ -8,11 +8,8 @@ ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
-magali.ns.cloudflare.com
 pixel.gif
-thishyoung.dpdns.org
 updates.rss
 visit.js
 win.spaceshlp.com
 www.baidu.com
-www.cloudflara.xyz
