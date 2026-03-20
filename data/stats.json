@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-19T06:00:01.786046",
-  "totalBeacons": 647,
-  "activeServers": 42,
-  "activeIOCs": 200,
+  "generated_at": "2026-03-20T06:00:01.300894",
+  "totalBeacons": 656,
+  "activeServers": 41,
+  "activeIOCs": 202,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 142
+      "count": 149
     },
     {
       "id": "666666666",
-      "count": 57
+      "count": 47
     },
     {
       "id": "391144938",
@@ -33,8 +33,8 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 185,
-      "pct": 66
+      "count": 173,
+      "pct": 63
     },
     {
       "code": "US",
@@ -51,14 +51,14 @@
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 12,
-      "pct": 4
+      "count": 13,
+      "pct": 5
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 11,
-      "pct": 4
+      "count": 13,
+      "pct": 5
     },
     {
       "code": "SE",
@@ -76,21 +76,21 @@
   "topASN": [
     {
       "asn": "ASAS37963",
-      "org": "Aliyun Computing Co., LTD",
-      "count": 61,
-      "pct": 25
+      "org": "Aliyun Computing Co.LTD",
+      "count": 57,
+      "pct": 24
     },
     {
       "asn": "ASAS37963",
-      "org": "Aliyun Computing Co.LTD",
-      "count": 57,
-      "pct": 23
+      "org": "Aliyun Computing Co., LTD",
+      "count": 51,
+      "pct": 22
     },
     {
       "asn": "ASAS8796",
       "org": "High Family Technology Co., Limited",
       "count": 40,
-      "pct": 16
+      "pct": 17
     },
     {
       "asn": "ASAS38365",
@@ -101,14 +101,14 @@
     {
       "asn": "ASAS152194",
       "org": "CTG Server Ltd.",
-      "count": 20,
-      "pct": 8
+      "count": 21,
+      "pct": 9
     },
     {
       "asn": "ASAS45102",
       "org": "Alibaba Cloud (Singapore) Private Limited",
       "count": 11,
-      "pct": 4
+      "pct": 5
     },
     {
       "asn": "ASAS139659",
@@ -131,14 +131,14 @@
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 5,
-      "pct": 2
+      "count": 3,
+      "pct": 1
     }
   ],
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 67,
+      "count": 69,
       "label": "CS Default"
     },
     {
@@ -158,14 +158,14 @@
     },
     {
       "hash": "2ad2ad0002ad2ad00042d42d00000000f78d2dc0ce6e5bbc5b8149a4872356",
-      "count": 1,
+      "count": 2,
       "label": "Unknown Profile"
     }
   ],
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 67,
+      "count": 69,
       "label": "Custom"
     },
     {
@@ -192,69 +192,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.53,
-      "hits": 258,
-      "total": 10191
+      "hitRate": 2.57,
+      "hits": 264,
+      "total": 10291
     },
     {
       "name": "jarm_2ad2ad_variant1",
       "hitRate": 2.42,
-      "hits": 328,
-      "total": 13533
+      "hits": 332,
+      "total": 13725
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.66,
-      "hits": 112,
-      "total": 6761
+      "hits": 114,
+      "total": 6858
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.74,
+      "hitRate": 0.73,
       "hits": 26,
-      "total": 3521
+      "total": 3565
     },
     {
       "name": "redguard_aliyun_307",
-      "hitRate": 0.32,
+      "hitRate": 0.31,
       "hits": 8,
-      "total": 2532
+      "total": 2565
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.12,
       "hits": 3,
-      "total": 2449
+      "total": 2485
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.02,
       "hits": 1,
-      "total": 4046
+      "total": 4083
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 68
+      "total": 69
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 4781
+      "total": 4841
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 2612
+      "total": 2652
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.8,
-      "hits": 271,
-      "total": 15018
+      "hitRate": 1.82,
+      "hits": 276,
+      "total": 15155
     }
   ]
 }

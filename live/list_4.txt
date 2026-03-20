@@ -12,4 +12,3 @@ pixel.gif
 updates.rss
 visit.js
 win.spaceshlp.com
-www.baidu.com
