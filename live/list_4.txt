@@ -16,6 +16,4 @@ jquery-3.3.1.min.js
 pixel.gif
 updates.rss
 visit.js
-win.spaceshlp.com
 www.ntn.it.com
-www.swchx.com
