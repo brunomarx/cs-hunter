@@ -7,7 +7,6 @@ collection-box.js
 config.js
 dakk5rnsax46s.cfc-execute.su.baidubce.com
 dot.gif
-frk9qw3pqt0dx.cfc-execute.bj.baidubce.com
 future.dingtalk.com
 g.pixel
 ga.js
