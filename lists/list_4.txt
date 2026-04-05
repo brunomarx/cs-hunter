@@ -297,6 +297,7 @@ img1.huorongsec.com
 img2.huorongsec.com
 imgs.statics.baidu.com
 imgs.statics.baidu.com.volcgslb-mlt.com
+index.html
 index.php
 info.cdn.microsoft.com
 inventscience.st
