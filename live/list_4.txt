@@ -8,7 +8,6 @@ config.js
 dakk5rnsax46s.cfc-execute.su.baidubce.com
 dot.gif
 future.dingtalk.com
-g.pixel
 ga.js
 ie9compatviewlist.xml
 index.html
