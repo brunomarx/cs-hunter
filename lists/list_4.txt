@@ -146,6 +146,7 @@ cloud-sync-bcjxmnarpb.cn-shanghai.fcapp.run
 cloudvideo.news.gov.hk
 clubfleetwood.com
 cmccopen.cn
+cn.aliyun.com
 cnd.baiidu.vip
 cnm.mom
 cnu8-windowsupdate.com
