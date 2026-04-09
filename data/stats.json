@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-08T06:00:01.982682",
-  "totalBeacons": 801,
-  "activeServers": 52,
-  "activeIOCs": 248,
+  "generated_at": "2026-04-09T06:00:01.341980",
+  "totalBeacons": 806,
+  "activeServers": 50,
+  "activeIOCs": 251,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 177
+      "count": 178
     },
     {
       "id": "666666666",
@@ -22,10 +22,6 @@
     },
     {
       "id": "426352781",
-      "count": 4
-    },
-    {
-      "id": "2415919104",
       "count": 4
     },
     {
@@ -45,14 +41,14 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 266,
-      "pct": 79
+      "count": 271,
+      "pct": 81
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 25,
-      "pct": 7
+      "count": 19,
+      "pct": 6
     },
     {
       "code": "CH",
@@ -78,7 +74,7 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 92,
-      "pct": 33
+      "pct": 32
     },
     {
       "asn": "ASAS37963",
@@ -89,7 +85,7 @@
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
-      "count": 33,
+      "count": 35,
       "pct": 12
     },
     {
@@ -107,8 +103,8 @@
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 15,
-      "pct": 5
+      "count": 16,
+      "pct": 6
     },
     {
       "asn": "ASAS45102",
@@ -123,22 +119,22 @@
       "pct": 5
     },
     {
-      "asn": "ASAS132203",
-      "org": "Unknown",
-      "count": 4,
-      "pct": 1
-    },
-    {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 4,
+      "count": 5,
+      "pct": 2
+    },
+    {
+      "asn": "ASAS45102",
+      "org": "Alibaba Cloud - HK",
+      "count": 2,
       "pct": 1
     }
   ],
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 104,
+      "count": 98,
       "label": "CS Default"
     },
     {
@@ -152,12 +148,12 @@
       "label": "Unknown Profile"
     },
     {
-      "hash": "2ad2ad0002ad2ad00042d42d0000005d86ccb1a0567e012264097a0315d7a7",
+      "hash": "3fd21b20d00000021c43d21b21b43de0a012c76cf078b8d06f4620c2286f5e",
       "count": 1,
       "label": "Unknown Profile"
     },
     {
-      "hash": "28d28d28d00028d00042d42d00042de0d120da90d5910c5de2af43b74a6bd8",
+      "hash": "2ad2ad0002ad2ad00042d42d0000005d86ccb1a0567e012264097a0315d7a7",
       "count": 1,
       "label": "Unknown Profile"
     }
@@ -165,7 +161,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 106,
+      "count": 100,
       "label": "Custom"
     },
     {
@@ -175,7 +171,7 @@
     },
     {
       "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 1,
+      "count": 2,
       "label": "Custom"
     },
     {
@@ -187,69 +183,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.71,
-      "hits": 330,
-      "total": 12191
+      "hitRate": 2.7,
+      "hits": 332,
+      "total": 12291
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 2.23,
+      "hitRate": 2.2,
       "hits": 389,
-      "total": 17471
+      "total": 17671
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.53,
+      "hitRate": 1.51,
       "hits": 134,
-      "total": 8748
+      "total": 8848
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.59,
+      "hitRate": 0.58,
       "hits": 26,
-      "total": 4432
+      "total": 4484
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.32,
       "hits": 10,
-      "total": 3117
+      "total": 3147
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.1,
       "hits": 3,
-      "total": 3067
+      "total": 3099
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.02,
       "hits": 1,
-      "total": 4930
+      "total": 4983
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 88
+      "total": 89
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 6198
+      "total": 6278
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 3347
+      "total": 3386
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.97,
-      "hits": 354,
-      "total": 17939
+      "hits": 357,
+      "total": 18082
     }
   ]
 }
