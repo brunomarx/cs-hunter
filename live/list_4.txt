@@ -1,6 +1,5 @@
 61coding.cn
 all.js
-baidu.com
 cn.aliyun.com
 collection-box.js
 config.js
@@ -11,5 +10,4 @@ ie9compatviewlist.xml
 index.html
 jquery-3.3.1.min.js
 pixel.gif
-updates.rss
 visit.js
