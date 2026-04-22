@@ -107,6 +107,7 @@ c1.msft-config-service.com
 c2.120vip.top
 c2.250621.xyz
 c2.moustartline.com
+c2.woshishabi.cc
 c4wx8kmtsqqba.cfc-execute.bj.baidubce.com
 caq71hz7x2ccj.cfc-execute.bj.baidubce.com
 ca.qianxin.com
@@ -505,6 +506,7 @@ www.51ape.cc
 www.68y.com
 www.aabysszg.cyou
 www.adobe.com
+www.amazon.com
 www.animon.ai
 www.baidu.com
 www.baidu-image.top
