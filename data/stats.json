@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-04-24T06:00:01.919789",
+  "generated_at": "2026-04-25T06:00:01.320483",
   "totalBeacons": 877,
-  "activeServers": 33,
+  "activeServers": 29,
   "activeIOCs": 271,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 100
+      "count": 99
     },
     {
       "id": "666666666",
-      "count": 52
+      "count": 44
     },
     {
       "id": "391144938",
-      "count": 17
+      "count": 16
     },
     {
       "id": "666666",
@@ -41,13 +41,13 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 159,
+      "count": 151,
       "pct": 81
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 29,
+      "count": 28,
       "pct": 15
     },
     {
@@ -57,15 +57,15 @@
       "pct": 2
     },
     {
-      "code": "US",
-      "name": "United States",
+      "code": "GB",
+      "name": "United Kingdom",
       "count": 2,
       "pct": 1
     },
     {
-      "code": "GB",
-      "name": "United Kingdom",
-      "count": 2,
+      "code": "US",
+      "name": "United States",
+      "count": 1,
       "pct": 1
     },
     {
@@ -86,19 +86,19 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 61,
-      "pct": 42
+      "pct": 45
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
-      "count": 30,
-      "pct": 21
+      "count": 22,
+      "pct": 16
     },
     {
       "asn": "ASAS139659",
       "org": "S-G-IX",
       "count": 20,
-      "pct": 14
+      "pct": 15
     },
     {
       "asn": "ASAS37963",
@@ -116,7 +116,7 @@
       "asn": "ASAS45102",
       "org": "Alibaba Cloud - HK",
       "count": 5,
-      "pct": 3
+      "pct": 4
     },
     {
       "asn": "ASAS45090",
@@ -146,7 +146,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 58,
+      "count": 56,
       "label": "CS Default"
     },
     {
@@ -163,7 +163,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 59,
+      "count": 57,
       "label": "Custom"
     },
     {
