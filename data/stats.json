@@ -1,39 +1,35 @@
 {
-  "generated_at": "2026-04-25T06:00:01.320483",
+  "generated_at": "2026-04-26T06:00:01.975448",
   "totalBeacons": 877,
-  "activeServers": 29,
+  "activeServers": 23,
   "activeIOCs": 271,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 99
+      "count": 82
     },
     {
       "id": "666666666",
       "count": 44
     },
     {
-      "id": "391144938",
-      "count": 16
-    },
-    {
       "id": "666666",
       "count": 14
     },
     {
-      "id": "305419896",
-      "count": 3
+      "id": "391144938",
+      "count": 14
     },
     {
       "id": "432288439",
       "count": 2
     },
     {
-      "id": "1234567890",
-      "count": 1
+      "id": "305419896",
+      "count": 2
     },
     {
-      "id": "12345",
+      "id": "1234567890",
       "count": 1
     }
   ],
@@ -41,14 +37,14 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 151,
-      "pct": 81
+      "count": 147,
+      "pct": 91
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 28,
-      "pct": 15
+      "count": 8,
+      "pct": 5
     },
     {
       "code": "ID",
@@ -60,12 +56,6 @@
       "code": "GB",
       "name": "United Kingdom",
       "count": 2,
-      "pct": 1
-    },
-    {
-      "code": "US",
-      "name": "United States",
-      "count": 1,
       "pct": 1
     },
     {
@@ -86,30 +76,24 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 61,
-      "pct": 45
+      "pct": 52
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
       "count": 22,
-      "pct": 16
-    },
-    {
-      "asn": "ASAS139659",
-      "org": "S-G-IX",
-      "count": 20,
-      "pct": 15
+      "pct": 19
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
       "count": 11,
-      "pct": 8
+      "pct": 9
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 7,
+      "count": 6,
       "pct": 5
     },
     {
@@ -122,24 +106,30 @@
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 3,
-      "pct": 2
+      "pct": 3
     },
     {
       "asn": "ASAS7713",
       "org": "PT Telekomunikasi Indonesia",
       "count": 3,
-      "pct": 2
+      "pct": 3
     },
     {
       "asn": "ASAS932",
       "org": "Hong Kong YunLiFang Co., Limited",
       "count": 3,
+      "pct": 3
+    },
+    {
+      "asn": "ASAS16509",
+      "org": "Amazon Data Services UK",
+      "count": 2,
       "pct": 2
     },
     {
-      "asn": "ASAS141679",
-      "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
-      "count": 2,
+      "asn": "ASAS400619",
+      "org": "Fastmos Co Limited",
+      "count": 1,
       "pct": 1
     }
   ],
@@ -174,11 +164,6 @@
     {
       "hash": "6c2811f7ba8e88604ea41a2bf9fa5ad7",
       "count": 3,
-      "label": "Custom"
-    },
-    {
-      "hash": "389ed42c02ebecc32e73aa31def07e14",
-      "count": 2,
       "label": "Custom"
     }
   ],
