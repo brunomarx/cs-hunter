@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-26T06:00:01.975448",
+  "generated_at": "2026-04-27T06:00:01.466710",
   "totalBeacons": 877,
-  "activeServers": 23,
+  "activeServers": 21,
   "activeIOCs": 271,
   "topWatermarks": [
     {
@@ -21,16 +21,8 @@
       "count": 14
     },
     {
-      "id": "432288439",
-      "count": 2
-    },
-    {
       "id": "305419896",
       "count": 2
-    },
-    {
-      "id": "1234567890",
-      "count": 1
     }
   ],
   "topCountries": [
@@ -38,7 +30,7 @@
       "code": "CN",
       "name": "China",
       "count": 147,
-      "pct": 91
+      "pct": 92
     },
     {
       "code": "HK",
@@ -53,18 +45,6 @@
       "pct": 2
     },
     {
-      "code": "GB",
-      "name": "United Kingdom",
-      "count": 2,
-      "pct": 1
-    },
-    {
-      "code": "MY",
-      "name": "MY",
-      "count": 1,
-      "pct": 1
-    },
-    {
       "code": "IE",
       "name": "IE",
       "count": 1,
@@ -76,7 +56,7 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 61,
-      "pct": 52
+      "pct": 53
     },
     {
       "asn": "ASAS38365",
@@ -88,7 +68,7 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
       "count": 11,
-      "pct": 9
+      "pct": 10
     },
     {
       "asn": "ASAS45090",
@@ -121,14 +101,8 @@
       "pct": 3
     },
     {
-      "asn": "ASAS16509",
-      "org": "Amazon Data Services UK",
-      "count": 2,
-      "pct": 2
-    },
-    {
-      "asn": "ASAS400619",
-      "org": "Fastmos Co Limited",
+      "asn": "ASAS8075",
+      "org": "Microsoft Corporation",
       "count": 1,
       "pct": 1
     }
