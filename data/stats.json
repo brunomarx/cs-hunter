@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-28T06:00:01.984086",
+  "generated_at": "2026-04-29T06:00:01.207818",
   "totalBeacons": 877,
-  "activeServers": 21,
+  "activeServers": 10,
   "activeIOCs": 271,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 82
+      "count": 16
     },
     {
       "id": "666666666",
-      "count": 44
+      "count": 14
     },
     {
       "id": "666666",
@@ -29,88 +29,70 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 147,
-      "pct": 92
+      "count": 45,
+      "pct": 83
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 8,
-      "pct": 5
+      "count": 5,
+      "pct": 9
     },
     {
       "code": "ID",
       "name": "Indonesia",
       "count": 3,
-      "pct": 2
+      "pct": 6
     },
     {
       "code": "IE",
       "name": "IE",
       "count": 1,
-      "pct": 1
+      "pct": 2
     }
   ],
   "topASN": [
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 61,
-      "pct": 53
-    },
-    {
-      "asn": "ASAS38365",
-      "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
-      "count": 22,
-      "pct": 19
-    },
-    {
-      "asn": "ASAS37963",
-      "org": "Aliyun Computing Co.LTD",
-      "count": 11,
-      "pct": 10
+      "count": 6,
+      "pct": 25
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
       "count": 6,
-      "pct": 5
+      "pct": 25
     },
     {
       "asn": "ASAS45102",
       "org": "Alibaba Cloud - HK",
       "count": 5,
-      "pct": 4
+      "pct": 21
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 3,
-      "pct": 3
+      "pct": 12
     },
     {
       "asn": "ASAS7713",
       "org": "PT Telekomunikasi Indonesia",
       "count": 3,
-      "pct": 3
-    },
-    {
-      "asn": "ASAS932",
-      "org": "Hong Kong YunLiFang Co., Limited",
-      "count": 3,
-      "pct": 3
+      "pct": 12
     },
     {
       "asn": "ASAS8075",
       "org": "Microsoft Corporation",
       "count": 1,
-      "pct": 1
+      "pct": 4
     }
   ],
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 56,
+      "count": 30,
       "label": "CS Default"
     },
     {
@@ -127,7 +109,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 57,
+      "count": 30,
       "label": "Custom"
     },
     {
