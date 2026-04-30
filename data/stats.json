@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-29T06:00:01.207818",
+  "generated_at": "2026-04-30T06:00:01.925235",
   "totalBeacons": 877,
-  "activeServers": 10,
+  "activeServers": 7,
   "activeIOCs": 271,
   "topWatermarks": [
     {
@@ -10,15 +10,7 @@
     },
     {
       "id": "666666666",
-      "count": 14
-    },
-    {
-      "id": "666666",
-      "count": 14
-    },
-    {
-      "id": "391144938",
-      "count": 14
+      "count": 11
     },
     {
       "id": "305419896",
@@ -29,26 +21,20 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 45,
-      "pct": 83
+      "count": 15,
+      "pct": 71
     },
     {
       "code": "HK",
       "name": "Hong Kong",
       "count": 5,
-      "pct": 9
-    },
-    {
-      "code": "ID",
-      "name": "Indonesia",
-      "count": 3,
-      "pct": 6
+      "pct": 24
     },
     {
       "code": "IE",
       "name": "IE",
       "count": 1,
-      "pct": 2
+      "pct": 5
     }
   ],
   "topASN": [
@@ -56,69 +42,43 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 6,
-      "pct": 25
+      "pct": 29
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
       "count": 6,
-      "pct": 25
+      "pct": 29
     },
     {
       "asn": "ASAS45102",
       "org": "Alibaba Cloud - HK",
       "count": 5,
-      "pct": 21
+      "pct": 24
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 3,
-      "pct": 12
-    },
-    {
-      "asn": "ASAS7713",
-      "org": "PT Telekomunikasi Indonesia",
-      "count": 3,
-      "pct": 12
+      "pct": 14
     },
     {
       "asn": "ASAS8075",
       "org": "Microsoft Corporation",
       "count": 1,
-      "pct": 4
+      "pct": 5
     }
   ],
   "topJARM": [
     {
-      "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 30,
-      "label": "CS Default"
-    },
-    {
       "hash": "3fd3fd20d00000000043d3fd3fd43d684d61a135bd962c8dd9c541ddbaefa8",
-      "count": 3,
-      "label": "Unknown Profile"
-    },
-    {
-      "hash": "2ad2ad16d2ad2ad00042d42d00000061256d32ed7779c14686ad100544dc8d",
       "count": 3,
       "label": "Unknown Profile"
     }
   ],
   "topJA3S": [
     {
-      "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 30,
-      "label": "Custom"
-    },
-    {
       "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 3,
-      "label": "Custom"
-    },
-    {
-      "hash": "6c2811f7ba8e88604ea41a2bf9fa5ad7",
       "count": 3,
       "label": "Custom"
     }
