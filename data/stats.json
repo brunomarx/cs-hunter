@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T06:00:01.925235",
+  "generated_at": "2026-05-01T06:00:01.743327",
   "totalBeacons": 877,
-  "activeServers": 7,
+  "activeServers": 5,
   "activeIOCs": 271,
   "topWatermarks": [
     {
@@ -10,11 +10,7 @@
     },
     {
       "id": "666666666",
-      "count": 11
-    },
-    {
-      "id": "305419896",
-      "count": 2
+      "count": 6
     }
   ],
   "topCountries": [
@@ -22,19 +18,7 @@
       "code": "CN",
       "name": "China",
       "count": 15,
-      "pct": 71
-    },
-    {
-      "code": "HK",
-      "name": "Hong Kong",
-      "count": 5,
-      "pct": 24
-    },
-    {
-      "code": "IE",
-      "name": "IE",
-      "count": 1,
-      "pct": 5
+      "pct": 100
     }
   ],
   "topASN": [
@@ -42,31 +26,19 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 6,
-      "pct": 29
+      "pct": 40
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
       "count": 6,
-      "pct": 29
-    },
-    {
-      "asn": "ASAS45102",
-      "org": "Alibaba Cloud - HK",
-      "count": 5,
-      "pct": 24
+      "pct": 40
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 3,
-      "pct": 14
-    },
-    {
-      "asn": "ASAS8075",
-      "org": "Microsoft Corporation",
-      "count": 1,
-      "pct": 5
+      "pct": 20
     }
   ],
   "topJARM": [
