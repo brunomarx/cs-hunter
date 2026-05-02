@@ -1,60 +1,13 @@
 {
-  "generated_at": "2026-05-01T06:00:01.743327",
+  "generated_at": "2026-05-02T06:00:01.824174",
   "totalBeacons": 877,
-  "activeServers": 5,
+  "activeServers": 0,
   "activeIOCs": 271,
-  "topWatermarks": [
-    {
-      "id": "987654321",
-      "count": 16
-    },
-    {
-      "id": "666666666",
-      "count": 6
-    }
-  ],
-  "topCountries": [
-    {
-      "code": "CN",
-      "name": "China",
-      "count": 15,
-      "pct": 100
-    }
-  ],
-  "topASN": [
-    {
-      "asn": "ASAS37963",
-      "org": "Aliyun Computing Co., LTD",
-      "count": 6,
-      "pct": 40
-    },
-    {
-      "asn": "ASAS45090",
-      "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 6,
-      "pct": 40
-    },
-    {
-      "asn": "ASAS45090",
-      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 3,
-      "pct": 20
-    }
-  ],
-  "topJARM": [
-    {
-      "hash": "3fd3fd20d00000000043d3fd3fd43d684d61a135bd962c8dd9c541ddbaefa8",
-      "count": 3,
-      "label": "Unknown Profile"
-    }
-  ],
-  "topJA3S": [
-    {
-      "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 3,
-      "label": "Custom"
-    }
-  ],
+  "topWatermarks": [],
+  "topCountries": [],
+  "topASN": [],
+  "topJARM": [],
+  "topJA3S": [],
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
