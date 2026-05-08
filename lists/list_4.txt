@@ -1,10 +1,12 @@
 0a7f5fa230764283a248cae2bd35f121-cn-hangzhou.alicloudapi.com
 111db-k7.com
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com
+1318289497-6hwi9hel8e.ap-beijing.tencentscf.com
 1318387972-34ie6xy56d.ap-guangzhou.tencentscf.com
 1320232452-g1tdthqnsv-gz.scf.tencentcs.com
 1320233055-5b8lded9ub-gz.scf.tencentcs.com
 1325432765-lz9556bjjl-gz.scf.tencentcs.com
+1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com
 1357504293-h43knumeov.ap-guangzhou.tencentscf.com
 1398747042169696.cn-hangzhou.fc.aliyuncs.com
 193.70.192.35.bc.googleusercontent.com
@@ -21,6 +23,7 @@
 360.net
 3qb6e6y3875ba.cfc-execute.bj.baidubce.com
 403403.site
+4176rbz8vepn6.cfc-execute.bj.baidubce.com
 498886.cc
 4aqsbhe9vh44.cfc-execute.bj.baidubce.com
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com
@@ -335,6 +338,7 @@ ldjcbzeispu.azureedge.net
 lebondogicoin.com
 ledengy.com
 liolio.cn
+logo.css
 look.163.com
 looklook13.fucklgf.sbs
 ls.ain360.net
@@ -365,6 +369,7 @@ nginx-imfi.fcv3.1197883384467965.cn-hangzhou.fc.devsapp.net
 niubiplus.westus3.cloudapp.azure.com
 nocomp.freeboxos.fr
 ns.jumpservers.net
+nuli.qzz.io
 oa.witeafraid.top
 obei.vip
 ogotwin.ddns.net
@@ -412,6 +417,7 @@ santhopehospital.com
 san-xun.top
 sara-online.it
 sdkreport.happilygame.com
+secure-server.sbs
 security-ink.sbs
 security.windowsmicrosoft.us
 sertificationgameconnect.xyz
