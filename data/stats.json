@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-08T06:00:01.537127",
-  "totalBeacons": 888,
-  "activeServers": 11,
-  "activeIOCs": 287,
+  "generated_at": "2026-05-09T06:00:02.000794",
+  "totalBeacons": 891,
+  "activeServers": 14,
+  "activeIOCs": 289,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 6
+      "count": 9
     },
     {
       "id": "666666666",
@@ -21,88 +21,94 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 5,
-      "pct": 45
+      "count": 7,
+      "pct": 50
     },
     {
       "code": "US",
       "name": "United States",
-      "count": 3,
-      "pct": 27
+      "count": 4,
+      "pct": 29
     },
     {
       "code": "SG",
       "name": "Singapore",
       "count": 1,
-      "pct": 9
+      "pct": 7
     },
     {
       "code": "IL",
       "name": "IL",
       "count": 1,
-      "pct": 9
+      "pct": 7
     },
     {
       "code": "HK",
       "name": "Hong Kong",
       "count": 1,
-      "pct": 9
+      "pct": 7
     }
   ],
   "topASN": [
     {
+      "asn": "ASAS23724",
+      "org": "Shanghai UCloud Information Technology Company Limited",
+      "count": 2,
+      "pct": 15
+    },
+    {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
       "count": 2,
-      "pct": 18
+      "pct": 15
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 2,
-      "pct": 18
+      "pct": 15
     },
     {
       "asn": "ASAS136258",
       "org": "Oneprovider.com - Tel Aviv Infrastructure",
       "count": 1,
-      "pct": 9
+      "pct": 8
     },
     {
       "asn": "ASAS142032",
       "org": "HONGKONG CLOUD NETWORK TECHNOLOGY CO., LIMITED",
       "count": 1,
-      "pct": 9
+      "pct": 8
     },
     {
       "asn": "ASAS36352",
       "org": "HostPapa",
       "count": 1,
-      "pct": 9
+      "pct": 8
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 1,
-      "pct": 9
+      "pct": 8
     },
     {
       "asn": "ASAS396982",
       "org": "Google LLC",
       "count": 1,
-      "pct": 9
+      "pct": 8
+    },
+    {
+      "asn": "ASAS398823",
+      "org": "PEG TECH INC",
+      "count": 1,
+      "pct": 8
     },
     {
       "asn": "ASAS400619",
       "org": "PEG TECH INC",
       "count": 1,
-      "pct": 9
-    },
-    {
-      "asn": "ASAS7029",
-      "org": "Windstream Communications LLC",
-      "count": 1,
-      "pct": 9
+      "pct": 8
     }
   ],
   "topJARM": [
@@ -137,69 +143,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.63,
-      "hits": 365,
-      "total": 13891
+      "hitRate": 2.62,
+      "hits": 367,
+      "total": 13991
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.99,
+      "hitRate": 1.97,
       "hits": 416,
-      "total": 20871
+      "total": 21071
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.39,
+      "hitRate": 1.37,
       "hits": 145,
-      "total": 10448
+      "total": 10548
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.51,
+      "hitRate": 0.5,
       "hits": 27,
-      "total": 5311
+      "total": 5353
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.28,
       "hits": 10,
-      "total": 3603
+      "total": 3632
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.14,
       "hits": 5,
-      "total": 3625
+      "total": 3658
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.02,
       "hits": 1,
-      "total": 5804
+      "total": 5852
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 105
+      "total": 106
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 7542
+      "total": 7617
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 4021
+      "total": 4050
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 2.02,
-      "hits": 409,
-      "total": 20279
+      "hitRate": 2.0,
+      "hits": 410,
+      "total": 20462
     }
   ]
 }
