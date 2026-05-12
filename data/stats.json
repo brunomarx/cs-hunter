@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-11T06:00:01.714067",
-  "totalBeacons": 904,
-  "activeServers": 16,
-  "activeIOCs": 294,
+  "generated_at": "2026-05-12T06:00:01.787235",
+  "totalBeacons": 906,
+  "activeServers": 15,
+  "activeIOCs": 295,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 13
+      "count": 12
     },
     {
       "id": "666666666",
-      "count": 7
+      "count": 8
     },
     {
       "id": "391144938",
@@ -23,40 +23,40 @@
   ],
   "topCountries": [
     {
-      "code": "CN",
-      "name": "China",
-      "count": 6,
-      "pct": 38
-    },
-    {
       "code": "HK",
       "name": "Hong Kong",
       "count": 5,
-      "pct": 31
+      "pct": 33
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "count": 5,
+      "pct": 33
     },
     {
       "code": "US",
       "name": "United States",
       "count": 2,
-      "pct": 12
+      "pct": 13
     },
     {
       "code": "SG",
       "name": "Singapore",
       "count": 1,
-      "pct": 6
+      "pct": 7
     },
     {
       "code": "JP",
       "name": "Japan",
       "count": 1,
-      "pct": 6
+      "pct": 7
     },
     {
       "code": "IL",
       "name": "IL",
       "count": 1,
-      "pct": 6
+      "pct": 7
     }
   ],
   "topASN": [
@@ -67,16 +67,10 @@
       "pct": 20
     },
     {
-      "asn": "ASAS23724",
-      "org": "Shanghai UCloud Information Technology Company Limited",
-      "count": 2,
-      "pct": 13
-    },
-    {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 2,
-      "pct": 13
+      "count": 3,
+      "pct": 20
     },
     {
       "asn": "ASAS45090",
@@ -119,6 +113,12 @@
       "org": "Google LLC",
       "count": 1,
       "pct": 7
+    },
+    {
+      "asn": "ASAS398823",
+      "org": "PEG TECH INC",
+      "count": 1,
+      "pct": 7
     }
   ],
   "topJARM": [
@@ -153,69 +153,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 2.62,
-      "hits": 372,
-      "total": 14191
+      "hitRate": 2.61,
+      "hits": 373,
+      "total": 14291
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.95,
+      "hitRate": 1.93,
       "hits": 419,
-      "total": 21471
+      "total": 21671
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.35,
+      "hitRate": 1.34,
       "hits": 145,
-      "total": 10748
+      "total": 10848
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.51,
       "hits": 28,
-      "total": 5439
+      "total": 5481
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.27,
       "hits": 10,
-      "total": 3689
+      "total": 3718
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.13,
       "hits": 5,
-      "total": 3723
+      "total": 3755
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.02,
       "hits": 1,
-      "total": 5958
+      "total": 6012
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 108
+      "total": 109
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 7770
+      "total": 7847
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 4107
+      "total": 4137
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.99,
-      "hits": 414,
-      "total": 20831
+      "hitRate": 1.98,
+      "hits": 415,
+      "total": 21008
     }
   ]
 }

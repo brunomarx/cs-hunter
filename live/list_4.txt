@@ -2,8 +2,8 @@
 1318289497-6hwi9hel8e.ap-beijing.tencentscf.com
 1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com
 39nasm720z98q.cfc-execute.bj.baidubce.com
-g.pixel
 ga.js
+ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
 logo.css
