@@ -1,7 +1,8 @@
-1317518619-i8fw1qzaew.ap-beijing.tencentscf.com
 1318289497-6hwi9hel8e.ap-beijing.tencentscf.com
 1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com
 39nasm720z98q.cfc-execute.bj.baidubce.com
+all.js
+dot.gif
 ga.js
 ie9compatviewlist.xml
 j.ad
