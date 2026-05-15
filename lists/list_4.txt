@@ -339,6 +339,7 @@ lcowpowerlite.italynorth.cloudapp.azure.com
 ldjcbzeispu.azureedge.net
 lebondogicoin.com
 ledengy.com
+lib-9b20c40c.536cd4ff91e1206dc093.js
 liolio.cn
 logo.css
 look.163.com
@@ -490,6 +491,7 @@ update.winservers-network.com
 update.wztgyh.com
 uploader-data.site
 util.advertising-platform.top
+uu.testcar.top
 vdposter.bdstatic.com
 virtualnetworkaccess.com
 visit.js
