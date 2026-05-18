@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-17T06:00:01.186614",
-  "totalBeacons": 940,
+  "generated_at": "2026-05-18T06:00:01.554697",
+  "totalBeacons": 943,
   "activeServers": 36,
   "activeIOCs": 321,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 87
+      "count": 94
     },
     {
       "id": "391144938",
@@ -14,7 +14,7 @@
     },
     {
       "id": "666666666",
-      "count": 9
+      "count": 10
     },
     {
       "id": "1359593325",
@@ -22,7 +22,7 @@
     },
     {
       "id": "100000",
-      "count": 5
+      "count": 4
     },
     {
       "id": "1234567890",
@@ -37,14 +37,14 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 103,
-      "pct": 76
+      "count": 110,
+      "pct": 77
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 18,
-      "pct": 13
+      "count": 17,
+      "pct": 12
     },
     {
       "code": "US",
@@ -70,37 +70,37 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
       "count": 56,
-      "pct": 44
+      "pct": 41
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 18,
-      "pct": 14
+      "count": 17,
+      "pct": 13
     },
     {
       "asn": "ASAS45102",
       "org": "Alibaba Cloud (Singapore) Private Limited",
       "count": 15,
-      "pct": 12
+      "pct": 11
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
       "count": 14,
-      "pct": 11
+      "pct": 10
+    },
+    {
+      "asn": "ASAS45090",
+      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "count": 14,
+      "pct": 10
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
       "count": 9,
       "pct": 7
-    },
-    {
-      "asn": "ASAS45090",
-      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 6,
-      "pct": 5
     },
     {
       "asn": "ASAS136258",
@@ -118,13 +118,13 @@
       "asn": "ASAS142032",
       "org": "HONGKONG CLOUD NETWORK TECHNOLOGY CO., LIMITED",
       "count": 2,
-      "pct": 2
+      "pct": 1
     },
     {
       "asn": "ASAS36352",
       "org": "HostPapa",
       "count": 2,
-      "pct": 2
+      "pct": 1
     }
   ],
   "topJARM": [
@@ -157,7 +157,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 37,
+      "count": 36,
       "label": "Custom"
     },
     {
@@ -185,68 +185,68 @@
     {
       "name": "product_cobalt_strike",
       "hitRate": 2.62,
-      "hits": 388,
-      "total": 14791
+      "hits": 390,
+      "total": 14891
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.88,
-      "hits": 426,
-      "total": 22671
+      "hitRate": 1.87,
+      "hits": 427,
+      "total": 22871
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.3,
+      "hitRate": 1.29,
       "hits": 148,
-      "total": 11348
+      "total": 11448
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.49,
-      "hits": 28,
-      "total": 5685
+      "hitRate": 0.51,
+      "hits": 29,
+      "total": 5726
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.26,
       "hits": 10,
-      "total": 3859
+      "total": 3888
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.13,
       "hits": 5,
-      "total": 3916
+      "total": 3949
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.03,
       "hits": 2,
-      "total": 6292
+      "total": 6348
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 114
+      "total": 115
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 8236
+      "total": 8315
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 4281
+      "total": 4309
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.97,
-      "hits": 432,
-      "total": 21886
+      "hitRate": 1.96,
+      "hits": 433,
+      "total": 22057
     }
   ]
 }
