@@ -6,6 +6,7 @@ all.js
 analytics.js
 baidu.com
 dot.gif
+fq3gm5xphax8c.cfc-execute.bj.baidubce.com
 g.pixel
 ga.js
 ie9compatviewlist.xml
