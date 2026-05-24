@@ -144,6 +144,7 @@ cladonia.team
 client.asmx
 client.hosthlior.com
 cloud.amazoncdn.shop
+cloudcdn.gleeze.com
 cloud.defenderblt.com
 cloudflare.028bxgg.com
 cloudflare.12aim.com
@@ -274,6 +275,7 @@ funny-sam.online
 future.dingtalk.com
 fxckwy.sbs
 g2syr6cins.xyz
+g43.css
 g80z6zwx-443.inc1.devtunnels.ms
 ga.js
 gem.ae
@@ -363,6 +365,7 @@ microsaft.club
 microsharepolnt.store
 microsoft-api.nununubn.workers.dev
 microsoft-schtask.com
+min.css
 missmovie.lol
 msg.msdegeup.com
 ms-healthcheck.ru
