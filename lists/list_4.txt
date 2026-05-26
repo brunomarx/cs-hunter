@@ -81,6 +81,7 @@ api.updatesreview.com
 api.vxucqb.dpdns.org
 api.yukklzwo.vip
 app-oa-jcleneivmn.cn-shanghai.fcapp.run
+app.sdk.js
 appweb-fbbafboydh.cn-hangzhou.fcapp.run
 aselzan.com.tr
 asslup.sbs
@@ -299,6 +300,7 @@ helpdesk.fnfsupport.com
 help.ltfgdl.cn
 helpremote.cc
 hm.gif
+home.876567.js
 http888.com
 huiyan.lenovo.com.cn
 hvdhggju743c6zfcwslj35c6ri0awnho.lambda-url.eu-west-2.on.aws
@@ -367,6 +369,7 @@ microsoft-api.nununubn.workers.dev
 microsoft-schtask.com
 min.css
 missmovie.lol
+monitors.3.7.0.cn.js
 msg.msdegeup.com
 ms-healthcheck.ru
 ms-sharepoint-update-gqa0a2fjfzejguc0.a03.azurefd.net
@@ -484,6 +487,7 @@ test-ueicbfazir.cn-hangzhou.fcapp.run
 thishyoung.dpdns.org
 time.api.chinabm.cn
 tpi.api-microsoftcom.com
+tracker-sdk.min.js
 tvmovies.online
 twitchstreamerspro.com
 txwk.10010.com
