@@ -9,6 +9,7 @@
 1325432765-lz9556bjjl-gz.scf.tencentcs.com
 1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com
 1357504293-h43knumeov.ap-guangzhou.tencentscf.com
+1364170351-kld29tgkc1.ap-guangzhou.tencentscf.com
 1398747042169696.cn-hangzhou.fc.aliyuncs.com
 193.70.192.35.bc.googleusercontent.com
 1ac.91pronhub.pw
@@ -80,6 +81,7 @@ api.shenzhenschool.fun
 api.updatesreview.com
 api.vxucqb.dpdns.org
 api.yukklzwo.vip
+app.js
 app-oa-jcleneivmn.cn-shanghai.fcapp.run
 app.sdk.js
 appweb-fbbafboydh.cn-hangzhou.fcapp.run
@@ -234,6 +236,8 @@ downloads.games2easy.com
 downloads.helpsdeskmicrosoft.com
 downloads.my-icecream.com
 downloads.premiumlinkedin.net
+down.microsoft.com
+down.microsoft.com.w.kunlunca.com
 downsexv.com
 dpo06.iex-express.com
 dpzdsg2t3r18m.cfc-execute.bj.baidubce.com
