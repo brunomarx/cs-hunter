@@ -4,7 +4,6 @@
 agentkernel.top
 all.js
 app.js
-app.sdk.js
 baidu.com
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
 cloudcdn.gleeze.com
@@ -14,12 +13,10 @@ down.microsoft.com.w.kunlunca.com
 g.pixel
 g43.css
 ga.js
-home.876567.js
+ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
 min.css
-monitors.3.7.0.cn.js
 pixel.gif
 secure-server.sbs
-tracker-sdk.min.js
 visit.js
