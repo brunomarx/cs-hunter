@@ -7,6 +7,7 @@ baidu.com
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
 cloudcdn.gleeze.com
 collection-box.js
+ct.feliz.icu
 dot.gif
 down.microsoft.com
 down.microsoft.com.w.kunlunca.com
