@@ -1,6 +1,7 @@
 0a7f5fa230764283a248cae2bd35f121-cn-hangzhou.alicloudapi.com
 111db-k7.com
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com
+1314180598-04zr21qelt.ap-guangzhou.tencentscf.com
 1317518619-i8fw1qzaew.ap-beijing.tencentscf.com
 1318289497-6hwi9hel8e.ap-beijing.tencentscf.com
 1318387972-34ie6xy56d.ap-guangzhou.tencentscf.com
@@ -10,6 +11,7 @@
 1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com
 1357504293-h43knumeov.ap-guangzhou.tencentscf.com
 1364170351-fntufi0mu7.ap-guangzhou.tencentscf.com
+1364170351-gsw88cee73.ap-guangzhou.tencentscf.com
 1364170351-kld29tgkc1.ap-guangzhou.tencentscf.com
 1398747042169696.cn-hangzhou.fc.aliyuncs.com
 193.70.192.35.bc.googleusercontent.com
@@ -66,6 +68,7 @@ aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run
 all.js
 amozon.cc
 analytics.js
+api1.haedalcompany.com
 api.apparelartisans.com
 api.baidu
 apibaidu-cjklerlcfx.cn-hangzhou.fcapp.run
@@ -376,6 +379,7 @@ microsoft-api.nununubn.workers.dev
 microsoft-schtask.com
 min.css
 missmovie.lol
+mlcos.baidudns.org
 monitors.3.7.0.cn.js
 msg.msdegeup.com
 ms-healthcheck.ru
