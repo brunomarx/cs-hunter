@@ -298,6 +298,7 @@ gitcompay.com
 googee.top
 google.baobecgiang.net
 google.com
+google.dns-1.help
 google.jailless.im
 gov-migo-lehcrkjyku.cn-shanghai.fcapp.run
 gov-sh-jcletxkkml.cn-shanghai.fcapp.run
