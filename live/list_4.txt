@@ -10,6 +10,7 @@ baidu.com
 bootstrap.min.css
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
 config.js
+cs.tpedu2metricstw.dpdns.org
 ct.feliz.icu
 dot.gif
 down.microsoft.com
@@ -19,6 +20,7 @@ google.dns-1.help
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
+jquery-3.7.1.min.js
 mlcos.baidudns.org
 pixel.gif
 updates.rss
