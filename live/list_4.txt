@@ -14,12 +14,15 @@ ct.feliz.icu
 dot.gif
 down.microsoft.com
 down.microsoft.com.w.kunlunca.com
+g.pixel
+g43.css
 ga.js
 google.dns-1.help
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
 jquery-3.7.1.min.js
+min.css
 pixel.gif
 updates.rss
 visit.js
