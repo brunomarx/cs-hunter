@@ -1,7 +1,6 @@
 1364170351-9enmkvd46p.ap-guangzhou.tencentscf.com
 1364170351-fntufi0mu7.ap-guangzhou.tencentscf.com
 1364170351-gsw88cee73.ap-guangzhou.tencentscf.com
-8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com
 agentkernel.top
 all.js
 audioweb.cnr.cn
@@ -10,7 +9,6 @@ baidu.com
 bootstrap.min.css
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
 cs.tpedu2metricstw.dpdns.org
-ct.feliz.icu
 dot.gif
 down.microsoft.com
 down.microsoft.com.w.kunlunca.com
