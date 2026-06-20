@@ -6,6 +6,7 @@ all.js
 audioweb.cnr.cn
 avsdfe.win.com.cn
 baidu.com
+bgfi-groupe.com
 bootstrap.min.css
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
 cs.tpedu2metricstw.dpdns.org
