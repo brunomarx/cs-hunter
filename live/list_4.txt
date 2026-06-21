@@ -1,6 +1,3 @@
-1364170351-9enmkvd46p.ap-guangzhou.tencentscf.com
-1364170351-fntufi0mu7.ap-guangzhou.tencentscf.com
-1364170351-gsw88cee73.ap-guangzhou.tencentscf.com
 agentkernel.top
 all.js
 audioweb.cnr.cn
@@ -16,7 +13,6 @@ down.microsoft.com.w.kunlunca.com
 g.pixel
 g43.css
 ga.js
-google.dns-1.help
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
