@@ -1,3 +1,4 @@
+61coding.cn
 agentkernel.top
 all.js
 audioweb.cnr.cn
@@ -6,10 +7,11 @@ baidu.com
 bgfi-groupe.com
 bootstrap.min.css
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
+cn.aliyun.com
+config.js
 cs.tpedu2metricstw.dpdns.org
 dot.gif
-down.microsoft.com
-down.microsoft.com.w.kunlunca.com
+future.dingtalk.com
 g.pixel
 g43.css
 ga.js
