@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-06-28T06:00:01.198819",
-  "totalBeacons": 1319,
+  "generated_at": "2026-06-29T06:00:01.809109",
+  "totalBeacons": 1331,
   "activeServers": 72,
-  "activeIOCs": 432,
+  "activeIOCs": 433,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 185
+      "count": 187
     },
     {
       "id": "666666666",
-      "count": 101
+      "count": 103
     },
     {
       "id": "391144938",
-      "count": 54
+      "count": 55
     },
     {
       "id": "666666",
-      "count": 21
+      "count": 22
     },
     {
       "id": "1234567890",
-      "count": 15
+      "count": 18
     },
     {
       "id": "432288439",
-      "count": 6
+      "count": 7
     },
     {
       "id": "100000",
-      "count": 6
+      "count": 7
     }
   ],
   "topCountries": [
     {
       "code": "CN",
       "name": "China",
-      "count": 246,
+      "count": 249,
       "pct": 60
     },
     {
       "code": "HK",
       "name": "Hong Kong",
       "count": 60,
-      "pct": 15
+      "pct": 14
     },
     {
       "code": "SG",
@@ -53,15 +53,15 @@
       "pct": 8
     },
     {
-      "code": "CH",
-      "name": "CH",
+      "code": "US",
+      "name": "United States",
       "count": 28,
       "pct": 7
     },
     {
-      "code": "US",
-      "name": "United States",
-      "count": 27,
+      "code": "CH",
+      "name": "CH",
+      "count": 28,
       "pct": 7
     },
     {
@@ -87,7 +87,7 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 70,
+      "count": 71,
       "pct": 27
     },
     {
@@ -103,16 +103,16 @@
       "pct": 12
     },
     {
-      "asn": "ASAS51852",
-      "org": "PRIVATE LAYER INC",
+      "asn": "ASAS45090",
+      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 28,
       "pct": 11
     },
     {
-      "asn": "ASAS45090",
-      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 27,
-      "pct": 10
+      "asn": "ASAS51852",
+      "org": "PRIVATE LAYER INC",
+      "count": 28,
+      "pct": 11
     },
     {
       "asn": "ASAS38365",
@@ -148,7 +148,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 162,
+      "count": 164,
       "label": "CS Default"
     },
     {
@@ -175,7 +175,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 174,
+      "count": 176,
       "label": "Custom"
     },
     {
@@ -202,57 +202,57 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.11,
-      "hits": 585,
-      "total": 18791
+      "hitRate": 3.14,
+      "hits": 594,
+      "total": 18891
     },
     {
       "name": "jarm_2ad2ad_variant1",
       "hitRate": 1.68,
-      "hits": 520,
-      "total": 30871
+      "hits": 522,
+      "total": 31071
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.18,
-      "hits": 183,
-      "total": 15448
+      "hitRate": 1.22,
+      "hits": 189,
+      "total": 15548
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.49,
+      "hitRate": 0.48,
       "hits": 36,
-      "total": 7395
+      "total": 7433
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.21,
       "hits": 10,
-      "total": 4838
+      "total": 4858
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.19,
       "hits": 10,
-      "total": 5287
+      "total": 5317
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.14,
       "hits": 12,
-      "total": 8702
+      "total": 8767
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.02,
       "hits": 1,
-      "total": 5690
+      "total": 5723
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.01,
       "hits": 1,
-      "total": 11439
+      "total": 11510
     },
     {
       "name": "jarm_07d14d_variant2",
@@ -263,8 +263,8 @@
     {
       "name": "drb-ra feed",
       "hitRate": 1.98,
-      "hits": 598,
-      "total": 30186
+      "hits": 601,
+      "total": 30412
     }
   ]
 }
