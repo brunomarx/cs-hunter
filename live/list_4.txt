@@ -1,4 +1,3 @@
-61coding.cn
 agentkernel.top
 all.js
 audioweb.cnr.cn
@@ -6,11 +5,9 @@ avsdfe.win.com.cn
 baidu.com
 bootstrap.min.css
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
-cn.aliyun.com
-config.js
+cdn.soft-update.click
 cs.tpedu2metricstw.dpdns.org
 dot.gif
-future.dingtalk.com
 g.pixel
 g43.css
 ga.js
@@ -20,6 +17,7 @@ jquery-3.3.1.min.js
 jquery-3.7.1.min.js
 lib-9b20c40c.536cd4ff91e1206dc093.js
 min.css
+missmovie.lol
 pixel.gif
 updates.rss
 uu.testcar.top
