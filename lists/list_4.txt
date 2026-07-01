@@ -149,6 +149,7 @@ cdn.ro1t.xyz
 cdn.san-xun.top
 cdn-service.assetsforservers404.com
 cdn.soft.qianxin.com
+cdn.soft-update.click
 cdn.wnaz.shop
 cladonia.team
 client.asmx
