@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-01T06:00:01.562002",
-  "totalBeacons": 1358,
+  "generated_at": "2026-07-02T06:00:02.029026",
+  "totalBeacons": 1369,
   "activeServers": 70,
-  "activeIOCs": 436,
+  "activeIOCs": 437,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 180
+      "count": 186
     },
     {
       "id": "666666666",
-      "count": 90
+      "count": 88
     },
     {
       "id": "391144938",
-      "count": 72
+      "count": 74
     },
     {
       "id": "666666",
-      "count": 22
+      "count": 24
     },
     {
       "id": "1234567890",
@@ -26,7 +26,7 @@
     },
     {
       "id": "100000",
-      "count": 8
+      "count": 9
     },
     {
       "id": "432288439",
@@ -41,8 +41,8 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 262,
-      "pct": 63
+      "count": 268,
+      "pct": 64
     },
     {
       "code": "HK",
@@ -53,8 +53,8 @@
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 35,
-      "pct": 8
+      "count": 36,
+      "pct": 9
     },
     {
       "code": "US",
@@ -91,25 +91,25 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 70,
+      "count": 71,
       "pct": 26
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 45,
+      "count": 46,
       "pct": 17
+    },
+    {
+      "asn": "ASAS45090",
+      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "count": 34,
+      "pct": 12
     },
     {
       "asn": "ASAS139659",
       "org": "S-G-IX",
       "count": 32,
-      "pct": 12
-    },
-    {
-      "asn": "ASAS45090",
-      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 31,
       "pct": 12
     },
     {
@@ -137,14 +137,14 @@
       "pct": 3
     },
     {
-      "asn": "ASAS16509",
-      "org": "Amazon Data Services UK",
-      "count": 7,
+      "asn": "ASAS37963",
+      "org": "Aliyun Computing Co.LTD",
+      "count": 8,
       "pct": 3
     },
     {
-      "asn": "ASAS2914",
-      "org": "NTT America, Inc.",
+      "asn": "ASAS16509",
+      "org": "Amazon Data Services UK",
       "count": 7,
       "pct": 3
     }
@@ -152,7 +152,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 176,
+      "count": 180,
       "label": "CS Default"
     },
     {
@@ -179,7 +179,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 188,
+      "count": 192,
       "label": "Custom"
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "hash": "389ed42c02ebecc32e73aa31def07e14",
-      "count": 18,
+      "count": 19,
       "label": "Custom"
     },
     {
@@ -206,69 +206,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.19,
-      "hits": 609,
-      "total": 19091
+      "hitRate": 3.2,
+      "hits": 614,
+      "total": 19191
     },
     {
       "name": "jarm_2ad2ad_variant1",
       "hitRate": 1.68,
-      "hits": 528,
-      "total": 31471
+      "hits": 533,
+      "total": 31671
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.22,
+      "hitRate": 1.21,
       "hits": 192,
-      "total": 15748
+      "total": 15848
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.48,
       "hits": 36,
-      "total": 7509
+      "total": 7548
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.2,
       "hits": 11,
-      "total": 5374
+      "total": 5401
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.2,
       "hits": 10,
-      "total": 4900
+      "total": 4922
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.13,
       "hits": 12,
-      "total": 8894
+      "total": 8954
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.02,
       "hits": 1,
-      "total": 5784
+      "total": 5813
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.01,
       "hits": 1,
-      "total": 11653
+      "total": 11727
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 149
+      "total": 150
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.99,
-      "hits": 614,
-      "total": 30849
+      "hits": 618,
+      "total": 31058
     }
   ]
 }

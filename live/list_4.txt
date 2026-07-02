@@ -22,4 +22,3 @@ pixel.gif
 updates.rss
 uu.testcar.top
 visit.js
-www.microsslcheck.com
