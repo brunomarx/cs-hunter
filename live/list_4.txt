@@ -11,6 +11,7 @@ dot.gif
 g.pixel
 g43.css
 ga.js
+hrichina.dpdns.org
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
