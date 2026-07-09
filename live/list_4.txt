@@ -5,6 +5,7 @@ bxx2rghe05kng.cfc-execute.bj.baidubce.com
 cdn.soft-update.click
 cs.tpedu2metricstw.dpdns.org
 dot.gif
+g.pixel
 g43.css
 ga.js
 hrichina.dpdns.org
@@ -14,5 +15,6 @@ jquery-3.3.1.min.js
 jquery-3.7.1.min.js
 min.css
 missmovie.lol
+st1-colud-google.bond
 updates.rss
 visit.js
