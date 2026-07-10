@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-09T06:00:01.168132",
-  "totalBeacons": 1431,
+  "generated_at": "2026-07-10T06:00:01.400417",
+  "totalBeacons": 1443,
   "activeServers": 65,
-  "activeIOCs": 451,
+  "activeIOCs": 456,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 157
+      "count": 159
     },
     {
       "id": "666666666",
-      "count": 95
+      "count": 94
     },
     {
       "id": "391144938",
-      "count": 56
+      "count": 58
     },
     {
       "id": "1234567890",
@@ -22,14 +22,14 @@
     },
     {
       "id": "666666",
-      "count": 25
-    },
-    {
-      "id": "100000",
-      "count": 11
+      "count": 27
     },
     {
       "id": "432288439",
+      "count": 8
+    },
+    {
+      "id": "100000",
       "count": 8
     }
   ],
@@ -37,48 +37,48 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 238,
+      "count": 243,
       "pct": 61
-    },
-    {
-      "code": "HK",
-      "name": "Hong Kong",
-      "count": 50,
-      "pct": 13
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 41,
-      "pct": 11
+      "count": 47,
+      "pct": 12
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "count": 47,
+      "pct": 12
     },
     {
       "code": "US",
       "name": "United States",
-      "count": 40,
-      "pct": 10
+      "count": 36,
+      "pct": 9
     },
     {
       "code": "GB",
       "name": "United Kingdom",
-      "count": 8,
+      "count": 9,
       "pct": 2
     },
     {
       "code": "MY",
       "name": "MY",
-      "count": 7,
+      "count": 8,
       "pct": 2
     },
     {
       "code": "IR",
       "name": "IR",
-      "count": 3,
+      "count": 4,
       "pct": 1
     },
     {
-      "code": "MU",
-      "name": "MU",
+      "code": "SA",
+      "name": "SA",
       "count": 1,
       "pct": 0
     },
@@ -99,37 +99,37 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 63,
+      "count": 65,
       "pct": 27
     },
     {
       "asn": "ASAS139659",
       "org": "S-G-IX",
       "count": 34,
-      "pct": 15
+      "pct": 14
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 29,
+      "count": 30,
       "pct": 13
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
       "count": 29,
-      "pct": 13
+      "pct": 12
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
-      "count": 21,
+      "count": 22,
       "pct": 9
     },
     {
       "asn": "ASAS45102",
       "org": "Alibaba Cloud (Singapore) Private Limited",
-      "count": 21,
+      "count": 22,
       "pct": 9
     },
     {
@@ -139,38 +139,38 @@
       "pct": 4
     },
     {
-      "asn": "ASAS2914",
-      "org": "NTT America, Inc.",
+      "asn": "ASAS142032",
+      "org": "VAPELINE TECHNOLOGY(HK).,LIMITED",
       "count": 9,
       "pct": 4
     },
     {
-      "asn": "ASAS142032",
-      "org": "VAPELINE TECHNOLOGY(HK).,LIMITED",
-      "count": 8,
-      "pct": 3
-    },
-    {
       "asn": "ASAS142637",
       "org": "HongKong Starfax Limited",
-      "count": 8,
-      "pct": 3
+      "count": 9,
+      "pct": 4
+    },
+    {
+      "asn": "ASAS16509",
+      "org": "Amazon Data Services UK",
+      "count": 9,
+      "pct": 4
     }
   ],
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 174,
+      "count": 173,
       "label": "CS Default"
     },
     {
       "hash": "2ad2ad16d2ad2ad22c42d42d00042de4f6cde49b80ad1e14c340f9e47ccd3a",
-      "count": 15,
+      "count": 18,
       "label": "Unknown Profile"
     },
     {
       "hash": "2ad2ad0002ad2ad00042d42d000000301510f56407964db9434a9bb0d4ee4a",
-      "count": 9,
+      "count": 10,
       "label": "Unknown Profile"
     },
     {
@@ -179,7 +179,7 @@
       "label": "Unknown Profile"
     },
     {
-      "hash": "1dd40d40d00040d00042d43d0000007d20e9b9a3e87aa1ec17cb4d646ce9a5",
+      "hash": "3fd3fd0003fd3fd00043d3fd3fd43d70e44c2d581076ca8e0c7ff40bb556f2",
       "count": 4,
       "label": "Unknown Profile"
     }
@@ -187,7 +187,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 192,
+      "count": 194,
       "label": "Custom"
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "hash": "574866101f64002c6421cc329e4d5458",
-      "count": 13,
+      "count": 10,
       "label": "Custom"
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 4,
+      "count": 5,
       "label": "Custom"
     }
   ],
@@ -215,68 +215,68 @@
     {
       "name": "product_cobalt_strike",
       "hitRate": 3.23,
-      "hits": 642,
-      "total": 19891
+      "hits": 646,
+      "total": 19991
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.65,
-      "hits": 544,
-      "total": 32971
+      "hitRate": 1.66,
+      "hits": 548,
+      "total": 33071
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.22,
-      "hits": 202,
-      "total": 16548
+      "hits": 203,
+      "total": 16648
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.47,
       "hits": 37,
-      "total": 7831
+      "total": 7873
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.21,
       "hits": 12,
-      "total": 5601
+      "total": 5629
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.2,
       "hits": 10,
-      "total": 5068
+      "total": 5087
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.15,
       "hits": 14,
-      "total": 9335
+      "total": 9389
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.03,
       "hits": 2,
-      "total": 6013
+      "total": 6041
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.01,
       "hits": 1,
-      "total": 12229
+      "total": 12298
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 157
+      "total": 158
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.99,
-      "hits": 647,
-      "total": 32504
+      "hitRate": 2.0,
+      "hits": 653,
+      "total": 32713
     }
   ]
 }
