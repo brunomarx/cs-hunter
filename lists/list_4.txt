@@ -279,6 +279,7 @@ fb.cdn-01.mylnix.com
 fc1-mail.oss-cn-hangzhou.aliyuncs.com
 feafwefefonline.icu
 feltonworkshop.com
+financial-groupe.com
 fk.n0reply.eu.org
 flypop.xyz
 fnfsupport.com
@@ -610,6 +611,7 @@ yqz-bucket.oss-cn-beijing.aliyuncs.com
 yukklzwo.vip
 zakat.dompetdhuaafa.biz.id
 zhejiang.gov-c.cn
+zhimawithyou.top
 zx.svcsghost.com
 zx.svrgetst.com
 zybank.info

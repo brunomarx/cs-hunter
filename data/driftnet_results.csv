@@ -6073,3 +6073,4 @@ date,ip,port,asn,geo_country,jarm,ja3x,certificate_value
 2026-06-30,124.220.56.139,3389,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,2ad2ad16d00000022c42d000000000e165b5cbbfb8c1f0c4e1552cac4aa4a9,7022c563de38_7022c563de38_e73b053161df,CN=10_0_0_17
 2026-07-04,124.221.199.60,443,AS45090 Shenzhen Tencent Computer Systems Company Limited,CN,29d29d00029d29d00042d42d000000591965a32830c32b3ad57d4bfd247359,2bab15409345_2bab15409345_6456b1277d74,"CN=Go Daddy Root Certificate Authority - G2,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US"
 2026-07-05,45.195.200.23,443,AS212552 BitCommand LLC,US,28d28d28d00028d00042d42d000000e1ea2a807a629b496b664cf07ad7c08d,a373a9f83c6b_a373a9f83c6b_0d8df11fc25a,"CN=ISRG Root X2,O=Internet Security Research Group,C=US"
+2026-07-10,123.60.81.230,3389,AS55990 Huawei Cloud Service data center,CN,2ad2ad16d2ad2ad22c2ad2ad2ad2adfd9c9d14e4f4f67f94f0359f8b28f532,7022c563de38_7022c563de38_e73b053161df,CN=hcss-ecs-0b35

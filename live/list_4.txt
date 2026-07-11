@@ -7,6 +7,7 @@ cloudcdn.gleeze.com
 cs.tpedu2metricstw.dpdns.org
 dot.gif
 dutxz8790a6ya.cloudfront.net
+financial-groupe.com
 g.pixel
 g43.css
 ga.js
@@ -22,3 +23,4 @@ services.remotewire.net
 st1-colud-google.bond
 updates.rss
 visit.js
+zhimawithyou.top
