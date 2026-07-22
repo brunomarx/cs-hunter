@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T06:00:01.781426",
-  "totalBeacons": 1508,
+  "generated_at": "2026-07-22T06:00:01.147150",
+  "totalBeacons": 1512,
   "activeServers": 48,
   "activeIOCs": 464,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 205
+      "count": 207
     },
     {
       "id": "666666666",
@@ -22,7 +22,7 @@
     },
     {
       "id": "1234567890",
-      "count": 13
+      "count": 15
     },
     {
       "id": "432288439",
@@ -37,19 +37,19 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 335,
+      "count": 341,
       "pct": 79
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 43,
+      "count": 44,
       "pct": 10
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 19,
+      "count": 20,
       "pct": 5
     },
     {
@@ -73,7 +73,7 @@
     {
       "code": "CA",
       "name": "Canada",
-      "count": 1,
+      "count": 2,
       "pct": 0
     }
   ],
@@ -81,38 +81,38 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
-      "count": 87,
+      "count": 88,
       "pct": 29
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 82,
+      "count": 83,
       "pct": 27
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 29,
+      "count": 31,
       "pct": 10
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
       "count": 23,
-      "pct": 8
+      "pct": 7
     },
     {
       "asn": "ASAS45102",
       "org": "Alibaba Cloud (Singapore) Private Limited",
       "count": 23,
-      "pct": 8
+      "pct": 7
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 13,
-      "pct": 4
+      "count": 14,
+      "pct": 5
     },
     {
       "asn": "ASAS142032",
@@ -129,8 +129,8 @@
     {
       "asn": "ASAS141679",
       "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
-      "count": 10,
-      "pct": 3
+      "count": 11,
+      "pct": 4
     },
     {
       "asn": "ASAS16509",
@@ -142,7 +142,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 186,
+      "count": 188,
       "label": "CS Default"
     },
     {
@@ -169,7 +169,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 199,
+      "count": 201,
       "label": "Custom"
     },
     {
@@ -179,12 +179,12 @@
     },
     {
       "hash": "389ed42c02ebecc32e73aa31def07e14",
-      "count": 10,
+      "count": 11,
       "label": "Custom"
     },
     {
       "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 6,
+      "count": 7,
       "label": "Custom"
     },
     {
@@ -197,68 +197,68 @@
     {
       "name": "product_cobalt_strike",
       "hitRate": 3.22,
-      "hits": 676,
-      "total": 21001
+      "hits": 679,
+      "total": 21072
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.67,
-      "hits": 569,
-      "total": 34171
+      "hitRate": 1.66,
+      "hits": 570,
+      "total": 34271
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.19,
       "hits": 212,
-      "total": 17748
+      "total": 17848
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.46,
+      "hitRate": 0.45,
       "hits": 38,
-      "total": 8316
+      "total": 8354
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.22,
       "hits": 13,
-      "total": 5838
+      "total": 5849
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.21,
       "hits": 11,
-      "total": 5299
+      "total": 5318
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.18,
       "hits": 18,
-      "total": 9942
+      "total": 9992
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.05,
       "hits": 3,
-      "total": 6199
+      "total": 6209
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.01,
       "hits": 1,
-      "total": 13074
+      "total": 13152
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 169
+      "total": 170
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.96,
+      "hitRate": 1.95,
       "hits": 681,
-      "total": 34680
+      "total": 34838
     }
   ]
 }
