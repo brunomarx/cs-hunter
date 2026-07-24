@@ -13,4 +13,5 @@ jquery-3.7.1.min.js
 missmovie.lol
 updates.rss
 visit.js
+www.ai2.qzz.io
 zhimawithyou.top
