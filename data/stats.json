@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-25T06:00:01.428822",
-  "totalBeacons": 1539,
+  "generated_at": "2026-07-26T06:00:01.917584",
+  "totalBeacons": 1547,
   "activeServers": 48,
   "activeIOCs": 468,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 187
+      "count": 191
     },
     {
       "id": "666666666",
@@ -14,11 +14,11 @@
     },
     {
       "id": "391144938",
-      "count": 61
+      "count": 63
     },
     {
       "id": "666666",
-      "count": 33
+      "count": 35
     },
     {
       "id": "1234567890",
@@ -37,19 +37,19 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 323,
+      "count": 327,
       "pct": 76
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 46,
+      "count": 47,
       "pct": 11
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 22,
+      "count": 23,
       "pct": 5
     },
     {
@@ -87,13 +87,13 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
-      "count": 93,
+      "count": 94,
       "pct": 29
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 85,
+      "count": 86,
       "pct": 26
     },
     {
@@ -123,13 +123,13 @@
     {
       "asn": "ASAS142032",
       "org": "VAPELINE TECHNOLOGY(HK).,LIMITED",
-      "count": 13,
+      "count": 14,
       "pct": 4
     },
     {
       "asn": "ASAS142637",
       "org": "HongKong Starfax Limited",
-      "count": 13,
+      "count": 14,
       "pct": 4
     },
     {
@@ -148,12 +148,12 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 159,
+      "count": 160,
       "label": "CS Default"
     },
     {
       "hash": "2ad2ad0002ad2ad00042d42d000000301510f56407964db9434a9bb0d4ee4a",
-      "count": 14,
+      "count": 15,
       "label": "Unknown Profile"
     },
     {
@@ -175,12 +175,12 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 174,
+      "count": 175,
       "label": "Custom"
     },
     {
       "hash": "574866101f64002c6421cc329e4d5458",
-      "count": 14,
+      "count": 15,
       "label": "Custom"
     },
     {
@@ -202,69 +202,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.26,
-      "hits": 693,
-      "total": 21248
+      "hitRate": 3.27,
+      "hits": 696,
+      "total": 21298
     },
     {
       "name": "jarm_2ad2ad_variant1",
       "hitRate": 1.67,
-      "hits": 576,
-      "total": 34571
+      "hits": 580,
+      "total": 34671
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.21,
       "hits": 220,
-      "total": 18148
+      "total": 18248
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.45,
       "hits": 38,
-      "total": 8470
+      "total": 8509
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.22,
       "hits": 13,
-      "total": 5882
+      "total": 5892
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.22,
       "hits": 12,
-      "total": 5379
+      "total": 5399
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.18,
       "hits": 18,
-      "total": 10131
+      "total": 10175
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.05,
       "hits": 3,
-      "total": 6236
+      "total": 6243
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.01,
       "hits": 1,
-      "total": 13395
+      "total": 13479
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 173
+      "total": 174
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.97,
-      "hits": 697,
-      "total": 35316
+      "hits": 700,
+      "total": 35475
     }
   ]
 }
