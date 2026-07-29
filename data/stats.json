@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-28T06:00:01.941927",
-  "totalBeacons": 1553,
-  "activeServers": 44,
-  "activeIOCs": 468,
+  "generated_at": "2026-07-29T06:00:01.311080",
+  "totalBeacons": 1556,
+  "activeServers": 45,
+  "activeIOCs": 469,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 193
+      "count": 194
     },
     {
       "id": "666666666",
-      "count": 97
+      "count": 99
     },
     {
       "id": "391144938",
@@ -37,20 +37,20 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 321,
+      "count": 328,
       "pct": 75
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 47,
+      "count": 48,
       "pct": 11
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 23,
-      "pct": 5
+      "count": 24,
+      "pct": 6
     },
     {
       "code": "US",
@@ -73,8 +73,8 @@
     {
       "code": "CA",
       "name": "Canada",
-      "count": 2,
-      "pct": 0
+      "count": 3,
+      "pct": 1
     },
     {
       "code": "KR",
@@ -87,19 +87,19 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
-      "count": 93,
+      "count": 94,
       "pct": 29
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 88,
+      "count": 90,
       "pct": 27
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 34,
+      "count": 36,
       "pct": 11
     },
     {
@@ -129,8 +129,8 @@
     {
       "asn": "ASAS141679",
       "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
-      "count": 11,
-      "pct": 3
+      "count": 12,
+      "pct": 4
     },
     {
       "asn": "ASAS16509",
@@ -148,7 +148,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 163,
+      "count": 165,
       "label": "CS Default"
     },
     {
@@ -175,7 +175,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 178,
+      "count": 180,
       "label": "Custom"
     },
     {
@@ -185,12 +185,12 @@
     },
     {
       "hash": "389ed42c02ebecc32e73aa31def07e14",
-      "count": 11,
+      "count": 12,
       "label": "Custom"
     },
     {
       "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 7,
+      "count": 8,
       "label": "Custom"
     },
     {
@@ -203,68 +203,68 @@
     {
       "name": "product_cobalt_strike",
       "hitRate": 3.26,
-      "hits": 698,
-      "total": 21390
+      "hits": 699,
+      "total": 21445
     },
     {
       "name": "jarm_2ad2ad_variant1",
       "hitRate": 1.67,
-      "hits": 582,
-      "total": 34871
+      "hits": 583,
+      "total": 34971
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.19,
       "hits": 220,
-      "total": 18448
+      "total": 18548
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.44,
       "hits": 38,
-      "total": 8586
+      "total": 8625
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.22,
       "hits": 13,
-      "total": 5907
+      "total": 5916
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.22,
       "hits": 12,
-      "total": 5439
+      "total": 5460
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.19,
-      "hits": 19,
-      "total": 10266
+      "hits": 20,
+      "total": 10311
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.05,
       "hits": 3,
-      "total": 6253
+      "total": 6259
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.01,
       "hits": 1,
-      "total": 13645
+      "total": 13729
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 176
+      "total": 177
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.96,
-      "hits": 703,
-      "total": 35794
+      "hits": 704,
+      "total": 35950
     }
   ]
 }
