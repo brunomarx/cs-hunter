@@ -153,6 +153,7 @@ cdn.soft.qianxin.com
 cdn.soft-update.click
 cdn.sys-update.online
 cdn.wnaz.shop
+cf.lala1.lat
 cladonia.team
 client.asmx
 client.hosthlior.com
