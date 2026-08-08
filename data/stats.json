@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-07T06:00:01.195875",
-  "totalBeacons": 1610,
+  "generated_at": "2026-08-08T06:00:01.372189",
+  "totalBeacons": 1622,
   "activeServers": 45,
   "activeIOCs": 481,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 186
+      "count": 213
     },
     {
       "id": "666666666",
-      "count": 100
+      "count": 102
     },
     {
       "id": "391144938",
-      "count": 71
+      "count": 76
     },
     {
       "id": "666666",
@@ -26,25 +26,27 @@
     },
     {
       "id": "426352781",
-      "count": 3
-    },
-    {
-      "id": "1473793097",
-      "count": 1
+      "count": 4
     }
   ],
   "topCountries": [
     {
       "code": "CN",
       "name": "China",
-      "count": 351,
-      "pct": 79
+      "count": 355,
+      "pct": 74
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 44,
-      "pct": 10
+      "count": 43,
+      "pct": 9
+    },
+    {
+      "code": "CH",
+      "name": "CH",
+      "count": 32,
+      "pct": 7
     },
     {
       "code": "US",
@@ -55,13 +57,13 @@
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 15,
+      "count": 16,
       "pct": 3
     },
     {
       "code": "ID",
       "name": "Indonesia",
-      "count": 8,
+      "count": 9,
       "pct": 2
     },
     {
@@ -82,31 +84,37 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
       "count": 104,
-      "pct": 30
+      "pct": 28
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 97,
-      "pct": 28
+      "count": 100,
+      "pct": 27
+    },
+    {
+      "asn": "ASAS51852",
+      "org": "PRIVATE LAYER INC",
+      "count": 32,
+      "pct": 9
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
       "count": 26,
-      "pct": 8
+      "pct": 7
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
       "count": 26,
-      "pct": 8
+      "pct": 7
     },
     {
       "asn": "ASAS45102",
       "org": "Alibaba Cloud (Singapore) Private Limited",
       "count": 26,
-      "pct": 8
+      "pct": 7
     },
     {
       "asn": "ASAS141679",
@@ -121,28 +129,22 @@
       "pct": 5
     },
     {
+      "asn": "ASAS45090",
+      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "count": 12,
+      "pct": 3
+    },
+    {
       "asn": "ASAS137718",
       "org": "Beijing Volcano Engine Technology Co., Ltd.",
       "count": 11,
       "pct": 3
-    },
-    {
-      "asn": "ASAS45090",
-      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 11,
-      "pct": 3
-    },
-    {
-      "asn": "ASAS396982",
-      "org": "Google LLC",
-      "count": 8,
-      "pct": 2
     }
   ],
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 171,
+      "count": 181,
       "label": "CS Default"
     },
     {
@@ -157,7 +159,7 @@
     },
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00000061256d32ed7779c14686ad100544dc8d",
-      "count": 5,
+      "count": 6,
       "label": "Unknown Profile"
     },
     {
@@ -169,7 +171,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 192,
+      "count": 202,
       "label": "Custom"
     },
     {
@@ -183,12 +185,12 @@
       "label": "Custom"
     },
     {
-      "hash": "93546012d50bbfdd5a94bc6b31fcafea",
-      "count": 5,
+      "hash": "6c2811f7ba8e88604ea41a2bf9fa5ad7",
+      "count": 6,
       "label": "Custom"
     },
     {
-      "hash": "6c2811f7ba8e88604ea41a2bf9fa5ad7",
+      "hash": "93546012d50bbfdd5a94bc6b31fcafea",
       "count": 5,
       "label": "Custom"
     }
@@ -196,69 +198,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.29,
-      "hits": 730,
-      "total": 22208
+      "hitRate": 3.31,
+      "hits": 737,
+      "total": 22288
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.67,
-      "hits": 599,
-      "total": 35871
+      "hitRate": 1.68,
+      "hits": 605,
+      "total": 35971
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.17,
-      "hits": 227,
-      "total": 19448
+      "hits": 229,
+      "total": 19548
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.42,
       "hits": 38,
-      "total": 8970
+      "total": 9008
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.21,
       "hits": 13,
-      "total": 6074
+      "total": 6091
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.21,
       "hits": 12,
-      "total": 5674
+      "total": 5701
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.2,
       "hits": 21,
-      "total": 10699
+      "total": 10743
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.05,
       "hits": 3,
-      "total": 6347
+      "total": 6361
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.01,
       "hits": 2,
-      "total": 14458
+      "total": 14537
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 195
+      "total": 197
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.94,
-      "hits": 725,
-      "total": 37416
+      "hits": 730,
+      "total": 37560
     }
   ]
 }
