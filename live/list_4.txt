@@ -11,7 +11,6 @@ ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
-jquery-3.7.1.min.js
 missmovie.lol
 pixel.gif
 updates.rss
