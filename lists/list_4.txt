@@ -523,6 +523,7 @@ update-api.dtbr744y.workers.dev
 update-dataparser-msteams.azureedge.net
 updatemfs.com
 update.microsoftwindows.biz
+update.qzkgpqn.kdns.fr
 updates.rss
 update-system.ru
 update.winservers-network.com
