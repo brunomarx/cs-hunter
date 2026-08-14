@@ -6,14 +6,12 @@ cf.lala1.lat
 cs.rainbowrain.top
 cs.tpedu2metricstw.dpdns.org
 dot.gif
-g.pixel
 ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
 missmovie.lol
 pixel.gif
-update.qzkgpqn.kdns.fr
 updates.rss
 visit.js
 www.ai2.qzz.io
