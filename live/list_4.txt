@@ -1,7 +1,6 @@
 agentkernel.top
 all.js
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
-cdn.sys-update.online
 cf.lala1.lat
 cs.tpedu2metricstw.dpdns.org
 dot.gif
