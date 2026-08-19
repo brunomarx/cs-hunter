@@ -372,6 +372,7 @@ ledengy.com
 lib-9b20c40c.536cd4ff91e1206dc093.js
 liolio.cn
 logo.css
+logo.png
 logo-small.png
 logout.aspx
 look.163.com
@@ -418,6 +419,7 @@ oppos.top.cdn.dnsv1.com
 optimosphere.com
 oracle1.linuxupdatetool.online
 oracle2.linuxupdatetool.online
+ossb6.oss-cn-beijing.aliyuncs.com
 oss-global.xfyun.cn
 oversizes.ghostgames.mom
 owa.kerneltaskmanager.com
