@@ -15,5 +15,4 @@ ossb6.oss-cn-beijing.aliyuncs.com
 pixel.gif
 updates.rss
 visit.js
-www.ai2.qzz.io
 zhimawithyou.top
