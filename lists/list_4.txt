@@ -124,6 +124,7 @@ bxx2rghe05kng.cfc-execute.bj.baidubce.com
 c1.msft-config-service.com
 c2.120vip.top
 c2.250621.xyz
+c2.apamm.kdns.fr
 c2.moustartline.com
 c2.woshishabi.cc
 c4wx8kmtsqqba.cfc-execute.bj.baidubce.com
@@ -371,6 +372,7 @@ lebondogicoin.com
 ledengy.com
 lib-9b20c40c.536cd4ff91e1206dc093.js
 liolio.cn
+login.php
 logo.css
 logo.png
 logo-small.png

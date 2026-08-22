@@ -1,6 +1,8 @@
 agentkernel.top
 all.js
+bootstrap.min.css
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
+c2.apamm.kdns.fr
 cf.lala1.lat
 cs.tpedu2metricstw.dpdns.org
 dot.gif
@@ -9,9 +11,9 @@ ga.js
 ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
+login.php
 logo.png
 missmovie.lol
-ossb6.oss-cn-beijing.aliyuncs.com
 pixel.gif
 updates.rss
 visit.js
