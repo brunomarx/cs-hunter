@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-23T06:00:01.032295",
-  "totalBeacons": 1737,
-  "activeServers": 56,
-  "activeIOCs": 507,
+  "generated_at": "2026-08-24T06:00:01.756111",
+  "totalBeacons": 1748,
+  "activeServers": 54,
+  "activeIOCs": 508,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 221
-    },
-    {
-      "id": "391144938",
-      "count": 101
+      "count": 217
     },
     {
       "id": "666666666",
-      "count": 99
+      "count": 106
+    },
+    {
+      "id": "391144938",
+      "count": 106
     },
     {
       "id": "1234567890",
@@ -25,10 +25,6 @@
       "count": 25
     },
     {
-      "id": "1473793097",
-      "count": 2
-    },
-    {
       "id": "426352781",
       "count": 1
     }
@@ -37,14 +33,14 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 393,
-      "pct": 72
+      "count": 392,
+      "pct": 73
     },
     {
       "code": "US",
       "name": "United States",
-      "count": 52,
-      "pct": 10
+      "count": 50,
+      "pct": 9
     },
     {
       "code": "HK",
@@ -75,7 +71,7 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 126,
+      "count": 124,
       "pct": 31
     },
     {
@@ -117,7 +113,7 @@
     {
       "asn": "ASAS137718",
       "org": "Beijing Volcano Engine Technology Co., Ltd.",
-      "count": 13,
+      "count": 14,
       "pct": 3
     },
     {
@@ -136,7 +132,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 208,
+      "count": 206,
       "label": "CS Default"
     },
     {
@@ -163,7 +159,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 259,
+      "count": 257,
       "label": "Custom"
     },
     {
@@ -175,79 +171,74 @@
       "hash": "389ed42c02ebecc32e73aa31def07e14",
       "count": 23,
       "label": "Custom"
-    },
-    {
-      "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 3,
-      "label": "Custom"
     }
   ],
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
       "hitRate": 3.38,
-      "hits": 801,
-      "total": 23732
+      "hits": 806,
+      "total": 23832
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.69,
-      "hits": 634,
-      "total": 37471
+      "hitRate": 1.7,
+      "hits": 640,
+      "total": 37571
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.16,
-      "hits": 245,
-      "total": 21048
+      "hits": 246,
+      "total": 21148
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.41,
       "hits": 39,
-      "total": 9551
+      "total": 9586
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.22,
       "hits": 25,
-      "total": 11464
+      "total": 11521
     },
     {
       "name": "redwarden_headers_hash",
-      "hitRate": 0.2,
-      "hits": 13,
-      "total": 6390
+      "hitRate": 0.22,
+      "hits": 14,
+      "total": 6413
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.2,
       "hits": 12,
-      "total": 6094
+      "total": 6121
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.05,
       "hits": 3,
-      "total": 6608
+      "total": 6629
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.04,
       "hits": 6,
-      "total": 15720
+      "total": 15799
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 227
+      "total": 229
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.95,
-      "hits": 777,
-      "total": 39839
+      "hitRate": 1.96,
+      "hits": 783,
+      "total": 39989
     }
   ]
 }
