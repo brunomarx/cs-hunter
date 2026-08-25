@@ -3,7 +3,6 @@ agentkernel.top
 all.js
 bootstrap.min.css
 bxx2rghe05kng.cfc-execute.bj.baidubce.com
-c2.apamm.kdns.fr
 cf.lala1.lat
 cn.aliyun.com
 config.js
