@@ -19,6 +19,5 @@ login.php
 logo.png
 missmovie.lol
 pixel.gif
-updates.rss
 visit.js
 zhimawithyou.top
