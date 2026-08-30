@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-29T06:00:01.857533",
-  "totalBeacons": 1774,
-  "activeServers": 51,
-  "activeIOCs": 510,
+  "generated_at": "2026-08-30T06:00:01.590905",
+  "totalBeacons": 1781,
+  "activeServers": 52,
+  "activeIOCs": 511,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 220
+      "count": 223
     },
     {
       "id": "391144938",
-      "count": 110
+      "count": 111
     },
     {
       "id": "666666666",
-      "count": 68
+      "count": 71
     },
     {
       "id": "1234567890",
@@ -29,19 +29,19 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 354,
+      "count": 360,
       "pct": 68
     },
     {
       "code": "US",
       "name": "United States",
-      "count": 57,
+      "count": 58,
       "pct": 11
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 46,
+      "count": 47,
       "pct": 9
     },
     {
@@ -53,7 +53,7 @@
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 25,
+      "count": 26,
       "pct": 5
     }
   ],
@@ -61,14 +61,14 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
-      "count": 122,
+      "count": 123,
       "pct": 33
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 68,
-      "pct": 18
+      "count": 70,
+      "pct": 19
     },
     {
       "asn": "ASAS51852",
@@ -97,7 +97,7 @@
     {
       "asn": "ASAS142637",
       "org": "HongKong Starfax Limited",
-      "count": 23,
+      "count": 24,
       "pct": 6
     },
     {
@@ -122,7 +122,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 204,
+      "count": 207,
       "label": "CS Default"
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "hash": "2ad2ad0002ad2ad00042d42d000000301510f56407964db9434a9bb0d4ee4a",
-      "count": 22,
+      "count": 23,
       "label": "Unknown Profile"
     },
     {
@@ -142,14 +142,14 @@
     },
     {
       "hash": "28d28d28d00028d00042d42d00042de0d120da90d5910c5de2af43b74a6bd8",
-      "count": 4,
+      "count": 5,
       "label": "Unknown Profile"
     }
   ],
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 262,
+      "count": 266,
       "label": "Custom"
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "hash": "574866101f64002c6421cc329e4d5458",
-      "count": 23,
+      "count": 24,
       "label": "Custom"
     },
     {
@@ -171,69 +171,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.37,
-      "hits": 819,
-      "total": 24332
+      "hitRate": 3.36,
+      "hits": 822,
+      "total": 24432
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.71,
+      "hitRate": 1.7,
       "hits": 650,
-      "total": 38071
+      "total": 38171
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.16,
+      "hitRate": 1.15,
       "hits": 251,
-      "total": 21648
+      "total": 21748
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.4,
       "hits": 39,
-      "total": 9761
+      "total": 9798
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.22,
       "hits": 26,
-      "total": 11829
+      "total": 11890
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.21,
       "hits": 14,
-      "total": 6538
+      "total": 6565
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.19,
       "hits": 12,
-      "total": 6255
+      "total": 6282
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.04,
       "hits": 7,
-      "total": 16180
+      "total": 16259
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.04,
       "hits": 3,
-      "total": 6739
+      "total": 6757
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 238
+      "total": 239
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.95,
-      "hits": 793,
-      "total": 40743
+      "hits": 797,
+      "total": 40899
     }
   ]
 }
