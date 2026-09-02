@@ -1,10 +1,8 @@
 agentkernel.top
 all.js
-bootstrap.min.css
 cf.lala1.lat
 cs.tpedu2metricstw.dpdns.org
 dot.gif
-g.pixel
 ga.js
 ie9compatviewlist.xml
 j.ad
