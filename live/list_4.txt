@@ -3,7 +3,6 @@ all.js
 app.3a7e9b2c.js
 cf.lala1.lat
 cs.tpedu2metricstw.dpdns.org
-dns.n1u89dhs.xyz
 dot.gif
 ga.js
 ie9compatviewlist.xml
