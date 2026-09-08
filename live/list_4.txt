@@ -1,4 +1,3 @@
-agentkernel.top
 all.js
 app.3a7e9b2c.js
 cf.lala1.lat
