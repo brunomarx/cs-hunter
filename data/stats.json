@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T06:00:01.281421",
-  "totalBeacons": 1854,
-  "activeServers": 37,
+  "generated_at": "2026-09-12T06:00:01.591027",
+  "totalBeacons": 1857,
+  "activeServers": 38,
   "activeIOCs": 526,
   "topWatermarks": [
     {
@@ -14,11 +14,11 @@
     },
     {
       "id": "391144938",
-      "count": 48
+      "count": 49
     },
     {
       "id": "666666",
-      "count": 31
+      "count": 32
     },
     {
       "id": "1234567890",
@@ -26,27 +26,27 @@
     },
     {
       "id": "100000",
-      "count": 3
+      "count": 4
     }
   ],
   "topCountries": [
     {
       "code": "CN",
       "name": "China",
-      "count": 235,
+      "count": 240,
       "pct": 70
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 46,
+      "count": 47,
       "pct": 14
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 38,
-      "pct": 11
+      "count": 41,
+      "pct": 12
     },
     {
       "code": "ID",
@@ -71,20 +71,20 @@
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 34,
+      "count": 35,
       "pct": 13
+    },
+    {
+      "asn": "ASAS45090",
+      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "count": 34,
+      "pct": 12
     },
     {
       "asn": "ASAS38365",
       "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
       "count": 31,
-      "pct": 12
-    },
-    {
-      "asn": "ASAS45090",
-      "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 31,
-      "pct": 12
+      "pct": 11
     },
     {
       "asn": "ASAS142637",
@@ -101,8 +101,8 @@
     {
       "asn": "ASAS396982",
       "org": "Google LLC",
-      "count": 17,
-      "pct": 6
+      "count": 18,
+      "pct": 7
     },
     {
       "asn": "ASAS137718",
@@ -111,14 +111,14 @@
       "pct": 6
     },
     {
-      "asn": "ASAS152194",
-      "org": "Integen, Inc",
+      "asn": "ASAS142002",
+      "org": "Scloud Pte Ltd t/a Scloud Pte Ltd",
       "count": 10,
       "pct": 4
     },
     {
-      "asn": "ASAS7713",
-      "org": "PT Telekomunikasi Indonesia",
+      "asn": "ASAS152194",
+      "org": "Integen, Inc",
       "count": 10,
       "pct": 4
     }
@@ -126,7 +126,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 147,
+      "count": 152,
       "label": "CS Default"
     },
     {
@@ -135,13 +135,13 @@
       "label": "Unknown Profile"
     },
     {
-      "hash": "29d29d00000000000043d43d00043dc3b2afa8a5ec09b510a8559aff7899fb",
+      "hash": "3fd3fd20d00000000043d3fd3fd43d684d61a135bd962c8dd9c541ddbaefa8",
       "count": 9,
       "label": "Unknown Profile"
     },
     {
-      "hash": "3fd3fd20d00000000043d3fd3fd43d684d61a135bd962c8dd9c541ddbaefa8",
-      "count": 8,
+      "hash": "29d29d00000000000043d43d00043dc3b2afa8a5ec09b510a8559aff7899fb",
+      "count": 9,
       "label": "Unknown Profile"
     },
     {
@@ -153,7 +153,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 163,
+      "count": 168,
       "label": "Custom"
     },
     {
@@ -162,13 +162,13 @@
       "label": "Custom"
     },
     {
-      "hash": "b210411e648f206db393c31561686aea",
+      "hash": "fd45585efaa8bdce5097aa7539274dac",
       "count": 9,
       "label": "Custom"
     },
     {
-      "hash": "fd45585efaa8bdce5097aa7539274dac",
-      "count": 8,
+      "hash": "b210411e648f206db393c31561686aea",
+      "count": 9,
       "label": "Custom"
     },
     {
@@ -180,69 +180,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.32,
-      "hits": 851,
-      "total": 25632
+      "hitRate": 3.31,
+      "hits": 852,
+      "total": 25732
     },
     {
       "name": "jarm_2ad2ad_variant1",
       "hitRate": 1.66,
-      "hits": 665,
-      "total": 39971
+      "hits": 667,
+      "total": 40171
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.12,
       "hits": 258,
-      "total": 22948
+      "total": 23048
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.4,
       "hits": 41,
-      "total": 10257
+      "total": 10296
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.23,
       "hits": 29,
-      "total": 12616
+      "total": 12674
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.23,
       "hits": 15,
-      "total": 6626
+      "total": 6656
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.2,
       "hits": 14,
-      "total": 6906
+      "total": 6934
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.06,
       "hits": 11,
-      "total": 17259
+      "total": 17349
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.04,
       "hits": 3,
-      "total": 7026
+      "total": 7052
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 251
+      "total": 252
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.94,
-      "hits": 831,
-      "total": 42789
+      "hits": 832,
+      "total": 42944
     }
   ]
 }
