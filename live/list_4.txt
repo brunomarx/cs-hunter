@@ -5,13 +5,11 @@ cs.tpedu2metricstw.dpdns.org
 dot.gif
 ga.js
 ie9compatviewlist.xml
-j.ad
 jquery-3.3.1.min.js
 login.php
 logo.png
 missmovie.lol
 po.php
 updates.rss
-visit.js
 www.qkshhdjrbd.work
 zhimawithyou.top
