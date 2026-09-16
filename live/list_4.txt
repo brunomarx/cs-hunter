@@ -10,6 +10,5 @@ login.php
 logo.png
 missmovie.lol
 po.php
-updates.rss
 www.qkshhdjrbd.work
 zhimawithyou.top
