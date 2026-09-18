@@ -2,13 +2,14 @@ all.js
 app.3a7e9b2c.js
 cf.lala1.lat
 cs.tpedu2metricstw.dpdns.org
-dot.gif
 ga.js
 ie9compatviewlist.xml
 jquery-3.3.1.min.js
 login.php
 logo.png
 missmovie.lol
+pixel.gif
 po.php
+wc.lowpo.xyz
 www.qkshhdjrbd.work
 zhimawithyou.top
