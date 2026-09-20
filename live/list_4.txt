@@ -1,8 +1,8 @@
 all.js
+api.microsoftstorapi.com
 app.3a7e9b2c.js
 cf.lala1.lat
 cs.tpedu2metricstw.dpdns.org
-ie9compatviewlist.xml
 jquery-3.3.1.min.js
 login.php
 logo.png
