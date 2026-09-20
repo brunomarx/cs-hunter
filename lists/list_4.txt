@@ -78,6 +78,7 @@ api.cdn-zoom-cloudflare.live
 api.chinacec.top
 api.co-operativefinance.com
 api.frameeservicere.live
+api.microsoftstorapi.com
 apimicrososerver.fh328fehu.xyz
 api.nlbanks.com
 api.outlookllve.com
