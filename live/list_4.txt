@@ -7,6 +7,7 @@ jquery-3.3.1.min.js
 login.php
 logo.png
 missmovie.lol
+ossb6.oss-cn-beijing.aliyuncs.com
 pixel.gif
 po.php
 www.qkshhdjrbd.work
