@@ -90,6 +90,7 @@ api.vxucqb.dpdns.org
 api.yukklzwo.vip
 app.3a7e9b2c.js
 app.js
+app.min.js
 app-oa-jcleneivmn.cn-shanghai.fcapp.run
 app.sdk.js
 appweb-fbbafboydh.cn-hangzhou.fcapp.run
@@ -289,6 +290,7 @@ feafwefefonline.icu
 feltonworkshop.com
 financial-groupe.com
 fk.n0reply.eu.org
+fkxt.js
 flypop.xyz
 fnfsupport.com
 fortanax.com
@@ -393,6 +395,7 @@ manage.flash-oss.info
 media-cdn.microsoft.com
 media.update.updrv.com
 me-en.kaspersky.com
+meritphilips.fans
 me.xiaojukeji.com
 microsaft.club
 microsharepolnt.store
@@ -462,6 +465,7 @@ r-tube.ru
 santhopehospital.com
 san-xun.top
 sara-online.it
+sdk.options.json
 sdkreport.happilygame.com
 secure-server.sbs
 security-ink.sbs
