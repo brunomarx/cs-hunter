@@ -5,6 +5,7 @@ cf.lala1.lat
 cs.tpedu2metricstw.dpdns.org
 file.sangfor.com.cn
 fkxt.js
+i.gckni.com
 jquery-3.3.1.min.js
 login.php
 logo.png
@@ -12,7 +13,6 @@ meritphilips.fans
 missmovie.lol
 ossb6.oss-cn-beijing.aliyuncs.com
 pixel.gif
-sdk.options.json
 visit.js
 www.qkshhdjrbd.work
 zhimawithyou.top
