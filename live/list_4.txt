@@ -4,6 +4,7 @@ app.min.js
 bootstrap.min.css
 complianceportals.com
 cs.tpedu2metricstw.dpdns.org
+dot.gif
 file.sangfor.com.cn
 fkxt.js
 i.gckni.com
