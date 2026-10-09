@@ -1,24 +1,20 @@
 {
-  "generated_at": "2026-10-08T06:00:01.932788",
-  "totalBeacons": 1988,
-  "activeServers": 30,
+  "generated_at": "2026-10-09T06:00:01.872969",
+  "totalBeacons": 1991,
+  "activeServers": 28,
   "activeIOCs": 562,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 117
+      "count": 119
     },
     {
       "id": "666666666",
-      "count": 85
+      "count": 86
     },
     {
       "id": "391144938",
       "count": 25
-    },
-    {
-      "id": "100000",
-      "count": 9
     },
     {
       "id": "1234567890",
@@ -29,20 +25,20 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 176,
-      "pct": 70
+      "count": 179,
+      "pct": 72
     },
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 44,
-      "pct": 17
+      "count": 46,
+      "pct": 18
     },
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 22,
-      "pct": 9
+      "count": 13,
+      "pct": 5
     },
     {
       "code": "GB",
@@ -67,20 +63,20 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 75,
-      "pct": 32
+      "count": 76,
+      "pct": 33
     },
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 40,
-      "pct": 17
+      "count": 42,
+      "pct": 18
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
-      "count": 35,
-      "pct": 15
+      "count": 36,
+      "pct": 16
     },
     {
       "asn": "ASAS142637",
@@ -101,26 +97,26 @@
       "pct": 5
     },
     {
-      "asn": "ASAS132203",
-      "org": "Asia Pacific Network Information Center, Pty. Ltd.",
-      "count": 7,
-      "pct": 3
-    },
-    {
       "asn": "AS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 3,
       "pct": 1
     },
     {
-      "asn": "ASAS132203",
-      "org": "Tencent Building, Kejizhongyi Avenue",
+      "asn": "ASAS142637",
+      "org": "STAR FAX GROUP PTE LTD",
+      "count": 3,
+      "pct": 1
+    },
+    {
+      "asn": "ASAS209854",
+      "org": "Euro Crypt EOOD",
       "count": 2,
       "pct": 1
     },
     {
-      "asn": "ASAS142637",
-      "org": "STAR FAX GROUP PTE LTD",
+      "asn": "ASAS269846",
+      "org": "T.V ZAMORA, C.A.",
       "count": 2,
       "pct": 1
     }
@@ -128,12 +124,12 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 109,
+      "count": 104,
       "label": "CS Default"
     },
     {
       "hash": "2ad2ad0002ad2ad00042d42d000000301510f56407964db9434a9bb0d4ee4a",
-      "count": 33,
+      "count": 34,
       "label": "Unknown Profile"
     },
     {
@@ -155,12 +151,12 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 110,
+      "count": 105,
       "label": "Custom"
     },
     {
       "hash": "574866101f64002c6421cc329e4d5458",
-      "count": 35,
+      "count": 36,
       "label": "Custom"
     },
     {
@@ -182,69 +178,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.2,
-      "hits": 904,
-      "total": 28283
+      "hitRate": 3.19,
+      "hits": 906,
+      "total": 28383
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.56,
+      "hitRate": 1.55,
       "hits": 704,
-      "total": 45171
+      "total": 45371
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.08,
-      "hits": 277,
-      "total": 25548
+      "hits": 278,
+      "total": 25648
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.39,
       "hits": 44,
-      "total": 11293
+      "total": 11332
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.25,
       "hits": 36,
-      "total": 14198
+      "total": 14253
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.2,
       "hits": 15,
-      "total": 7479
+      "total": 7516
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.18,
       "hits": 14,
-      "total": 7698
+      "total": 7732
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.07,
       "hits": 14,
-      "total": 19625
+      "total": 19719
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.04,
       "hits": 3,
-      "total": 7732
+      "total": 7758
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 275
+      "total": 276
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.89,
-      "hits": 884,
-      "total": 46766
+      "hits": 886,
+      "total": 46905
     }
   ]
 }
