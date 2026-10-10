@@ -7,6 +7,7 @@ cs.tpedu2metricstw.dpdns.org
 dot.gif
 file.sangfor.com.cn
 fkxt.js
+g.pixel
 i.gckni.com
 ie9compatviewlist.xml
 jquery-3.3.1.min.js
@@ -18,5 +19,4 @@ ossb6.oss-cn-beijing.aliyuncs.com
 pixel.gif
 runtime.js
 visit.js
-www.qkshhdjrbd.work
 zhimawithyou.top
