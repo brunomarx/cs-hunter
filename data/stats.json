@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-11T06:00:01.839541",
-  "totalBeacons": 1995,
+  "generated_at": "2026-10-12T06:00:01.257992",
+  "totalBeacons": 1998,
   "activeServers": 26,
-  "activeIOCs": 564,
+  "activeIOCs": 565,
   "topWatermarks": [
     {
       "id": "987654321",
-      "count": 109
+      "count": 107
     },
     {
       "id": "666666666",
-      "count": 81
+      "count": 82
     },
     {
       "id": "391144938",
-      "count": 25
+      "count": 26
     },
     {
       "id": "1234567890",
@@ -25,8 +25,8 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 166,
-      "pct": 69
+      "count": 167,
+      "pct": 70
     },
     {
       "code": "SG",
@@ -37,20 +37,20 @@
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 14,
+      "count": 15,
       "pct": 6
-    },
-    {
-      "code": "GB",
-      "name": "United Kingdom",
-      "count": 5,
-      "pct": 2
     },
     {
       "code": "VE",
       "name": "VE",
       "count": 4,
       "pct": 2
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "count": 3,
+      "pct": 1
     },
     {
       "code": "CH",
@@ -63,7 +63,7 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
-      "count": 77,
+      "count": 78,
       "pct": 35
     },
     {
@@ -76,7 +76,7 @@
       "asn": "ASAS142637",
       "org": "HongKong Starfax Limited",
       "count": 32,
-      "pct": 15
+      "pct": 14
     },
     {
       "asn": "ASAS45090",
@@ -115,8 +115,8 @@
       "pct": 1
     },
     {
-      "asn": "ASAS209854",
-      "org": "Euro Crypt EOOD",
+      "asn": "ASAS209101",
+      "org": "SOFCOMPANY Ltd",
       "count": 2,
       "pct": 1
     }
@@ -124,7 +124,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 108,
+      "count": 110,
       "label": "CS Default"
     },
     {
@@ -151,7 +151,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 109,
+      "count": 110,
       "label": "Custom"
     },
     {
@@ -179,68 +179,68 @@
     {
       "name": "product_cobalt_strike",
       "hitRate": 3.17,
-      "hits": 907,
-      "total": 28583
+      "hits": 908,
+      "total": 28683
     },
     {
       "name": "jarm_2ad2ad_variant1",
       "hitRate": 1.54,
-      "hits": 705,
-      "total": 45771
+      "hits": 706,
+      "total": 45971
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.08,
       "hits": 280,
-      "total": 25848
+      "total": 25948
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.39,
+      "hitRate": 0.38,
       "hits": 44,
-      "total": 11412
+      "total": 11452
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.25,
       "hits": 36,
-      "total": 14364
+      "total": 14419
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.2,
       "hits": 15,
-      "total": 7592
+      "total": 7632
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.18,
       "hits": 14,
-      "total": 7797
+      "total": 7828
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.07,
       "hits": 14,
-      "total": 19901
+      "total": 19992
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.04,
       "hits": 3,
-      "total": 7810
+      "total": 7837
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 278
+      "total": 279
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.88,
-      "hits": 888,
-      "total": 47185
+      "hits": 889,
+      "total": 47322
     }
   ]
 }
