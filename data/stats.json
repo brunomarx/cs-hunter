@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T06:00:01.963305",
-  "totalBeacons": 2049,
-  "activeServers": 37,
-  "activeIOCs": 576,
+  "generated_at": "2026-10-22T06:00:01.918015",
+  "totalBeacons": 2054,
+  "activeServers": 39,
+  "activeIOCs": 579,
   "topWatermarks": [
     {
       "id": "987654321",
@@ -18,11 +18,19 @@
     },
     {
       "id": "391144938",
-      "count": 7
+      "count": 8
     },
     {
       "id": "1234567890",
       "count": 4
+    },
+    {
+      "id": "100000",
+      "count": 2
+    },
+    {
+      "id": "305419896",
+      "count": 1
     },
     {
       "id": "0",
@@ -33,8 +41,8 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 193,
-      "pct": 66
+      "count": 201,
+      "pct": 67
     },
     {
       "code": "SG",
@@ -45,7 +53,7 @@
     {
       "code": "HK",
       "name": "Hong Kong",
-      "count": 19,
+      "count": 20,
       "pct": 7
     },
     {
@@ -63,7 +71,7 @@
     {
       "code": "CH",
       "name": "CH",
-      "count": 3,
+      "count": 4,
       "pct": 1
     },
     {
@@ -90,13 +98,13 @@
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co., LTD",
       "count": 56,
-      "pct": 25
+      "pct": 24
     },
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
-      "count": 45,
-      "pct": 20
+      "count": 48,
+      "pct": 21
     },
     {
       "asn": "ASAS142637",
@@ -107,7 +115,7 @@
     {
       "asn": "ASAS45090",
       "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-      "count": 29,
+      "count": 31,
       "pct": 13
     },
     {
@@ -129,14 +137,14 @@
       "pct": 5
     },
     {
-      "asn": "ASAS142637",
-      "org": "STAR FAX GROUP PTE LTD",
-      "count": 6,
+      "asn": "ASAS55990",
+      "org": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+      "count": 7,
       "pct": 3
     },
     {
-      "asn": "ASAS55990",
-      "org": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+      "asn": "ASAS142637",
+      "org": "STAR FAX GROUP PTE LTD",
       "count": 6,
       "pct": 3
     },
@@ -177,12 +185,12 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 128,
+      "count": 130,
       "label": "Custom"
     },
     {
       "hash": "574866101f64002c6421cc329e4d5458",
-      "count": 40,
+      "count": 41,
       "label": "Custom"
     },
     {
@@ -205,68 +213,68 @@
     {
       "name": "product_cobalt_strike",
       "hitRate": 3.15,
-      "hits": 933,
-      "total": 29583
+      "hits": 935,
+      "total": 29683
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.51,
-      "hits": 720,
-      "total": 47771
+      "hitRate": 1.5,
+      "hits": 721,
+      "total": 47971
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.07,
-      "hits": 287,
-      "total": 26848
+      "hits": 288,
+      "total": 26948
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.37,
-      "hits": 44,
-      "total": 11799
+      "hitRate": 0.38,
+      "hits": 45,
+      "total": 11835
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.26,
       "hits": 39,
-      "total": 14904
+      "total": 14959
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.19,
       "hits": 15,
-      "total": 7960
+      "total": 7994
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.17,
       "hits": 14,
-      "total": 8098
+      "total": 8129
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.08,
       "hits": 16,
-      "total": 20807
+      "total": 20902
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.04,
       "hits": 3,
-      "total": 8078
+      "total": 8105
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 288
+      "total": 289
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.86,
       "hits": 905,
-      "total": 48623
+      "total": 48776
     }
   ]
 }
