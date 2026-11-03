@@ -1,5 +1,4 @@
 all.js
-app.3a7e9b2c.js
 bbb.0101011010010111001.com
 bootstrap.min.css
 complianceportals.com
