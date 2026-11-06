@@ -19,5 +19,6 @@ logo.png
 missmovie.lol
 ossb6.oss-cn-beijing.aliyuncs.com
 pixel.gif
+updates.rss
 visit.js
 zhimawithyou.top
