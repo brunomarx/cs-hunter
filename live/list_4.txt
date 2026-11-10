@@ -2,7 +2,6 @@ all.js
 bbb.0101011010010111001.com
 complianceportals.com
 dot.gif
-fkxt.js
 g.pixel
 ga.js
 ie9compatviewlist.xml
