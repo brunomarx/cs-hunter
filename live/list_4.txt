@@ -8,6 +8,7 @@ ie9compatviewlist.xml
 j.ad
 jquery-3.3.1.min.js
 jquery-3.7.1.min.js
+lib-9b20c40c.536cd4ff91e1206dc093.js
 login.php
 logo.png
 missmovie.lol
@@ -15,4 +16,3 @@ ossb6.oss-cn-beijing.aliyuncs.com
 pixel.gif
 updates.rss
 visit.js
-zhimawithyou.top
