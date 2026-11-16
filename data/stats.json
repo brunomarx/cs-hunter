@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T06:00:01.626159",
+  "generated_at": "2026-11-16T17:35:05.777720",
   "totalBeacons": 2199,
   "activeServers": 39,
-  "activeIOCs": 616,
+  "activeIOCs": 93,
   "topWatermarks": [
     {
       "id": "666666666",
@@ -192,69 +192,69 @@
   "queryPerformance": [
     {
       "name": "product_cobalt_strike",
-      "hitRate": 3.12,
+      "hitRate": 3.07,
       "hits": 1003,
-      "total": 32183
+      "total": 32666
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.39,
+      "hitRate": 1.37,
       "hits": 764,
-      "total": 54771
+      "total": 55969
     },
     {
       "name": "jarm_07d14d_variant1",
-      "hitRate": 1.02,
+      "hitRate": 1.0,
       "hits": 300,
-      "total": 29448
+      "total": 29871
     },
     {
       "name": "jarm_2ad2ad_variant2",
-      "hitRate": 0.36,
+      "hitRate": 0.35,
       "hits": 45,
-      "total": 12640
+      "total": 12733
     },
     {
       "name": "cert_serial_146473198",
       "hitRate": 0.27,
       "hits": 45,
-      "total": 16399
+      "total": 16573
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.17,
       "hits": 15,
-      "total": 8983
+      "total": 9071
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.16,
       "hits": 14,
-      "total": 8921
+      "total": 9011
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.07,
       "hits": 16,
-      "total": 23380
+      "total": 23713
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.03,
       "hits": 3,
-      "total": 8803
+      "total": 8853
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 314
+      "total": 317
     },
     {
       "name": "drb-ra feed",
       "hitRate": 1.83,
       "hits": 954,
-      "total": 51995
+      "total": 52237
     }
   ]
 }
