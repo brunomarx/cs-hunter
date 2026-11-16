@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-15T06:00:01.526616",
-  "totalBeacons": 2196,
+  "generated_at": "2026-11-16T06:00:01.626159",
+  "totalBeacons": 2199,
   "activeServers": 39,
   "activeIOCs": 616,
   "topWatermarks": [
     {
-      "id": "987654321",
-      "count": 99
+      "id": "666666666",
+      "count": 101
     },
     {
-      "id": "666666666",
-      "count": 99
+      "id": "987654321",
+      "count": 100
     },
     {
       "id": "391144938",
@@ -21,7 +21,7 @@
     {
       "code": "CN",
       "name": "China",
-      "count": 136,
+      "count": 139,
       "pct": 59
     },
     {
@@ -33,7 +33,7 @@
     {
       "code": "SG",
       "name": "Singapore",
-      "count": 20,
+      "count": 21,
       "pct": 9
     },
     {
@@ -77,7 +77,7 @@
     {
       "asn": "ASAS37963",
       "org": "Aliyun Computing Co.LTD",
-      "count": 65,
+      "count": 66,
       "pct": 31
     },
     {
@@ -89,7 +89,7 @@
     {
       "asn": "ASAS45090",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-      "count": 41,
+      "count": 42,
       "pct": 20
     },
     {
@@ -102,6 +102,12 @@
       "asn": "ASAS51852",
       "org": "CLIENT1060",
       "count": 9,
+      "pct": 4
+    },
+    {
+      "asn": "ASAS141679",
+      "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
+      "count": 8,
       "pct": 4
     },
     {
@@ -123,12 +129,6 @@
       "pct": 3
     },
     {
-      "asn": "ASAS141679",
-      "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
-      "count": 6,
-      "pct": 3
-    },
-    {
       "asn": "ASAS401701",
       "org": "Cogent Communications, LLC",
       "count": 6,
@@ -138,7 +138,7 @@
   "topJARM": [
     {
       "hash": "2ad2ad16d2ad2ad00042d42d00042ddb04deffa1705e2edc44cae1ed24a4da",
-      "count": 97,
+      "count": 100,
       "label": "CS Default"
     },
     {
@@ -165,7 +165,7 @@
   "topJA3S": [
     {
       "hash": "f03a69cfa3944d6d51bc52febd87a1a8",
-      "count": 97,
+      "count": 100,
       "label": "Custom"
     },
     {
@@ -193,68 +193,68 @@
     {
       "name": "product_cobalt_strike",
       "hitRate": 3.12,
-      "hits": 1002,
-      "total": 32083
+      "hits": 1003,
+      "total": 32183
     },
     {
       "name": "jarm_2ad2ad_variant1",
-      "hitRate": 1.4,
+      "hitRate": 1.39,
       "hits": 764,
-      "total": 54471
+      "total": 54771
     },
     {
       "name": "jarm_07d14d_variant1",
       "hitRate": 1.02,
       "hits": 300,
-      "total": 29348
+      "total": 29448
     },
     {
       "name": "jarm_2ad2ad_variant2",
       "hitRate": 0.36,
       "hits": 45,
-      "total": 12608
+      "total": 12640
     },
     {
       "name": "cert_serial_146473198",
-      "hitRate": 0.28,
+      "hitRate": 0.27,
       "hits": 45,
-      "total": 16341
+      "total": 16399
     },
     {
       "name": "redguard_aliyun_307",
       "hitRate": 0.17,
       "hits": 15,
-      "total": 8938
+      "total": 8983
     },
     {
       "name": "redwarden_headers_hash",
       "hitRate": 0.16,
       "hits": 14,
-      "total": 8891
+      "total": 8921
     },
     {
       "name": "jarm_3fd21b",
       "hitRate": 0.07,
       "hits": 16,
-      "total": 23280
+      "total": 23380
     },
     {
       "name": "cloudflare_cs_fronting",
       "hitRate": 0.03,
       "hits": 3,
-      "total": 8777
+      "total": 8803
     },
     {
       "name": "jarm_07d14d_variant2",
       "hitRate": 0.0,
       "hits": 0,
-      "total": 313
+      "total": 314
     },
     {
       "name": "drb-ra feed",
-      "hitRate": 1.84,
-      "hits": 952,
-      "total": 51872
+      "hitRate": 1.83,
+      "hits": 954,
+      "total": 51995
     }
   ]
 }
